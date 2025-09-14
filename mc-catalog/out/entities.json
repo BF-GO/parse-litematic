@@ -1,0 +1,912 @@
+[
+  {
+    "id": 0,
+    "name": "allay",
+    "type": "mob",
+    "displayNameEn": "Allay",
+    "displayNameRu": "Тихоня"
+  },
+  {
+    "id": 1,
+    "name": "area_effect_cloud",
+    "type": "other",
+    "displayNameEn": "Area Effect Cloud",
+    "displayNameRu": "Облако эффекта"
+  },
+  {
+    "id": 2,
+    "name": "armadillo",
+    "type": "animal",
+    "displayNameEn": "Armadillo",
+    "displayNameRu": "Броненосец"
+  },
+  {
+    "id": 3,
+    "name": "armor_stand",
+    "type": "living",
+    "displayNameEn": "Armor Stand",
+    "displayNameRu": "Стойка для брони"
+  },
+  {
+    "id": 4,
+    "name": "arrow",
+    "type": "projectile",
+    "displayNameEn": "Arrow",
+    "displayNameRu": "Стрела"
+  },
+  {
+    "id": 5,
+    "name": "axolotl",
+    "type": "animal",
+    "displayNameEn": "Axolotl",
+    "displayNameRu": "Аксолотль"
+  },
+  {
+    "id": 6,
+    "name": "bat",
+    "type": "ambient",
+    "displayNameEn": "Bat",
+    "displayNameRu": "Летучая мышь"
+  },
+  {
+    "id": 7,
+    "name": "bee",
+    "type": "animal",
+    "displayNameEn": "Bee",
+    "displayNameRu": "Пчела"
+  },
+  {
+    "id": 8,
+    "name": "blaze",
+    "type": "hostile",
+    "displayNameEn": "Blaze",
+    "displayNameRu": "Всполох"
+  },
+  {
+    "id": 9,
+    "name": "block_display",
+    "type": "other",
+    "displayNameEn": "Block Display",
+    "displayNameRu": "Визуализатор блока"
+  },
+  {
+    "id": 10,
+    "name": "boat",
+    "type": "other",
+    "displayNameEn": "Boat",
+    "displayNameRu": "Лодка"
+  },
+  {
+    "id": 11,
+    "name": "bogged",
+    "type": "hostile",
+    "displayNameEn": "Bogged",
+    "displayNameRu": "Болотник"
+  },
+  {
+    "id": 12,
+    "name": "breeze",
+    "type": "hostile",
+    "displayNameEn": "Breeze",
+    "displayNameRu": "Вихрь"
+  },
+  {
+    "id": 13,
+    "name": "breeze_wind_charge",
+    "type": "projectile",
+    "displayNameEn": "Wind Charge",
+    "displayNameRu": "Заряд ветра"
+  },
+  {
+    "id": 14,
+    "name": "camel",
+    "type": "animal",
+    "displayNameEn": "Camel",
+    "displayNameRu": "Верблюд"
+  },
+  {
+    "id": 15,
+    "name": "cat",
+    "type": "animal",
+    "displayNameEn": "Cat",
+    "displayNameRu": "Кошка"
+  },
+  {
+    "id": 16,
+    "name": "cave_spider",
+    "type": "hostile",
+    "displayNameEn": "Cave Spider",
+    "displayNameRu": "Пещерный паук"
+  },
+  {
+    "id": 17,
+    "name": "chest_boat",
+    "type": "other",
+    "displayNameEn": "Boat with Chest",
+    "displayNameRu": "Грузовая лодка"
+  },
+  {
+    "id": 18,
+    "name": "chest_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with Chest",
+    "displayNameRu": "Грузовая вагонетка"
+  },
+  {
+    "id": 19,
+    "name": "chicken",
+    "type": "animal",
+    "displayNameEn": "Chicken",
+    "displayNameRu": "Курица"
+  },
+  {
+    "id": 20,
+    "name": "cod",
+    "type": "water_creature",
+    "displayNameEn": "Cod",
+    "displayNameRu": "Треска"
+  },
+  {
+    "id": 21,
+    "name": "command_block_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with Command Block",
+    "displayNameRu": "Вагонетка с командным блоком"
+  },
+  {
+    "id": 22,
+    "name": "cow",
+    "type": "animal",
+    "displayNameEn": "Cow",
+    "displayNameRu": "Корова"
+  },
+  {
+    "id": 23,
+    "name": "creeper",
+    "type": "hostile",
+    "displayNameEn": "Creeper",
+    "displayNameRu": "Крипер"
+  },
+  {
+    "id": 24,
+    "name": "dolphin",
+    "type": "water_creature",
+    "displayNameEn": "Dolphin",
+    "displayNameRu": "Дельфин"
+  },
+  {
+    "id": 25,
+    "name": "donkey",
+    "type": "animal",
+    "displayNameEn": "Donkey",
+    "displayNameRu": "Осёл"
+  },
+  {
+    "id": 26,
+    "name": "dragon_fireball",
+    "type": "projectile",
+    "displayNameEn": "Dragon Fireball",
+    "displayNameRu": "Файербол дракона"
+  },
+  {
+    "id": 27,
+    "name": "drowned",
+    "type": "hostile",
+    "displayNameEn": "Drowned",
+    "displayNameRu": "Утопленник"
+  },
+  {
+    "id": 28,
+    "name": "egg",
+    "type": "projectile",
+    "displayNameEn": "Thrown Egg",
+    "displayNameRu": "Брошенное яйцо"
+  },
+  {
+    "id": 29,
+    "name": "elder_guardian",
+    "type": "hostile",
+    "displayNameEn": "Elder Guardian",
+    "displayNameRu": "Древний страж"
+  },
+  {
+    "id": 30,
+    "name": "end_crystal",
+    "type": "other",
+    "displayNameEn": "End Crystal",
+    "displayNameRu": "Кристалл Энда"
+  },
+  {
+    "id": 31,
+    "name": "ender_dragon",
+    "type": "mob",
+    "displayNameEn": "Ender Dragon",
+    "displayNameRu": "Эндер-дракон"
+  },
+  {
+    "id": 32,
+    "name": "ender_pearl",
+    "type": "projectile",
+    "displayNameEn": "Thrown Ender Pearl",
+    "displayNameRu": "Брошенный эндер-жемчуг"
+  },
+  {
+    "id": 33,
+    "name": "enderman",
+    "type": "hostile",
+    "displayNameEn": "Enderman",
+    "displayNameRu": "Эндермен"
+  },
+  {
+    "id": 34,
+    "name": "endermite",
+    "type": "hostile",
+    "displayNameEn": "Endermite",
+    "displayNameRu": "Эндермит"
+  },
+  {
+    "id": 35,
+    "name": "evoker",
+    "type": "hostile",
+    "displayNameEn": "Evoker",
+    "displayNameRu": "Заклинатель"
+  },
+  {
+    "id": 36,
+    "name": "evoker_fangs",
+    "type": "other",
+    "displayNameEn": "Evoker Fangs",
+    "displayNameRu": "Клыки заклинателя"
+  },
+  {
+    "id": 37,
+    "name": "experience_bottle",
+    "type": "projectile",
+    "displayNameEn": "Thrown Bottle o' Enchanting",
+    "displayNameRu": "Брошенный пузырёк опыта"
+  },
+  {
+    "id": 38,
+    "name": "experience_orb",
+    "type": "other",
+    "displayNameEn": "Experience Orb",
+    "displayNameRu": "Сфера опыта"
+  },
+  {
+    "id": 39,
+    "name": "eye_of_ender",
+    "type": "other",
+    "displayNameEn": "Eye of Ender",
+    "displayNameRu": "Око Эндера"
+  },
+  {
+    "id": 40,
+    "name": "falling_block",
+    "type": "other",
+    "displayNameEn": "Falling Block",
+    "displayNameRu": "Падающий блок"
+  },
+  {
+    "id": 41,
+    "name": "firework_rocket",
+    "type": "projectile",
+    "displayNameEn": "Firework Rocket",
+    "displayNameRu": "Фейерверк"
+  },
+  {
+    "id": 42,
+    "name": "fox",
+    "type": "animal",
+    "displayNameEn": "Fox",
+    "displayNameRu": "Лисица"
+  },
+  {
+    "id": 43,
+    "name": "frog",
+    "type": "animal",
+    "displayNameEn": "Frog",
+    "displayNameRu": "Лягушка"
+  },
+  {
+    "id": 44,
+    "name": "furnace_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with Furnace",
+    "displayNameRu": "Самоходная вагонетка"
+  },
+  {
+    "id": 45,
+    "name": "ghast",
+    "type": "mob",
+    "displayNameEn": "Ghast",
+    "displayNameRu": "Гаст"
+  },
+  {
+    "id": 46,
+    "name": "giant",
+    "type": "hostile",
+    "displayNameEn": "Giant",
+    "displayNameRu": "Гигант"
+  },
+  {
+    "id": 47,
+    "name": "glow_item_frame",
+    "type": "other",
+    "displayNameEn": "Glow Item Frame",
+    "displayNameRu": "Светящаяся рамка"
+  },
+  {
+    "id": 48,
+    "name": "glow_squid",
+    "type": "water_creature",
+    "displayNameEn": "Glow Squid",
+    "displayNameRu": "Светящийся спрут"
+  },
+  {
+    "id": 49,
+    "name": "goat",
+    "type": "animal",
+    "displayNameEn": "Goat",
+    "displayNameRu": "Коза"
+  },
+  {
+    "id": 50,
+    "name": "guardian",
+    "type": "hostile",
+    "displayNameEn": "Guardian",
+    "displayNameRu": "Страж"
+  },
+  {
+    "id": 51,
+    "name": "hoglin",
+    "type": "animal",
+    "displayNameEn": "Hoglin",
+    "displayNameRu": "Хоглин"
+  },
+  {
+    "id": 52,
+    "name": "hopper_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with Hopper",
+    "displayNameRu": "Загрузочная вагонетка"
+  },
+  {
+    "id": 53,
+    "name": "horse",
+    "type": "animal",
+    "displayNameEn": "Horse",
+    "displayNameRu": "Лошадь"
+  },
+  {
+    "id": 54,
+    "name": "husk",
+    "type": "hostile",
+    "displayNameEn": "Husk",
+    "displayNameRu": "Кадавр"
+  },
+  {
+    "id": 55,
+    "name": "illusioner",
+    "type": "hostile",
+    "displayNameEn": "Illusioner",
+    "displayNameRu": "Иллюзор"
+  },
+  {
+    "id": 56,
+    "name": "interaction",
+    "type": "other",
+    "displayNameEn": "Interaction",
+    "displayNameRu": "Взаимодействие"
+  },
+  {
+    "id": 57,
+    "name": "iron_golem",
+    "type": "mob",
+    "displayNameEn": "Iron Golem",
+    "displayNameRu": "Железный голем"
+  },
+  {
+    "id": 58,
+    "name": "item",
+    "type": "other",
+    "displayNameEn": "Item",
+    "displayNameRu": "Предмет"
+  },
+  {
+    "id": 59,
+    "name": "item_display",
+    "type": "other",
+    "displayNameEn": "Item Display",
+    "displayNameRu": "Визуализатор предмета"
+  },
+  {
+    "id": 60,
+    "name": "item_frame",
+    "type": "other",
+    "displayNameEn": "Item Frame",
+    "displayNameRu": "Рамка"
+  },
+  {
+    "id": 61,
+    "name": "ominous_item_spawner",
+    "type": "other",
+    "displayNameEn": "Ominous Item Spawner",
+    "displayNameRu": "Зловещий рассадник предметов"
+  },
+  {
+    "id": 62,
+    "name": "fireball",
+    "type": "projectile",
+    "displayNameEn": "Fireball",
+    "displayNameRu": "Файербол"
+  },
+  {
+    "id": 63,
+    "name": "leash_knot",
+    "type": "other",
+    "displayNameEn": "Leash Knot",
+    "displayNameRu": "Узел поводка"
+  },
+  {
+    "id": 64,
+    "name": "lightning_bolt",
+    "type": "other",
+    "displayNameEn": "Lightning Bolt",
+    "displayNameRu": "Молния"
+  },
+  {
+    "id": 65,
+    "name": "llama",
+    "type": "animal",
+    "displayNameEn": "Llama",
+    "displayNameRu": "Лама"
+  },
+  {
+    "id": 66,
+    "name": "llama_spit",
+    "type": "projectile",
+    "displayNameEn": "Llama Spit",
+    "displayNameRu": "Плевок ламы"
+  },
+  {
+    "id": 67,
+    "name": "magma_cube",
+    "type": "mob",
+    "displayNameEn": "Magma Cube",
+    "displayNameRu": "Магмовый куб"
+  },
+  {
+    "id": 68,
+    "name": "marker",
+    "type": "other",
+    "displayNameEn": "Marker",
+    "displayNameRu": "Метка"
+  },
+  {
+    "id": 69,
+    "name": "minecart",
+    "type": "other",
+    "displayNameEn": "Minecart",
+    "displayNameRu": "Вагонетка"
+  },
+  {
+    "id": 70,
+    "name": "mooshroom",
+    "type": "animal",
+    "displayNameEn": "Mooshroom",
+    "displayNameRu": "Муушрум"
+  },
+  {
+    "id": 71,
+    "name": "mule",
+    "type": "animal",
+    "displayNameEn": "Mule",
+    "displayNameRu": "Мул"
+  },
+  {
+    "id": 72,
+    "name": "ocelot",
+    "type": "animal",
+    "displayNameEn": "Ocelot",
+    "displayNameRu": "Оцелот"
+  },
+  {
+    "id": 73,
+    "name": "painting",
+    "type": "other",
+    "displayNameEn": "Painting",
+    "displayNameRu": "Картина"
+  },
+  {
+    "id": 74,
+    "name": "panda",
+    "type": "animal",
+    "displayNameEn": "Panda",
+    "displayNameRu": "Панда"
+  },
+  {
+    "id": 75,
+    "name": "parrot",
+    "type": "animal",
+    "displayNameEn": "Parrot",
+    "displayNameRu": "Попугай"
+  },
+  {
+    "id": 76,
+    "name": "phantom",
+    "type": "mob",
+    "displayNameEn": "Phantom",
+    "displayNameRu": "Фантом"
+  },
+  {
+    "id": 77,
+    "name": "pig",
+    "type": "animal",
+    "displayNameEn": "Pig",
+    "displayNameRu": "Свинья"
+  },
+  {
+    "id": 78,
+    "name": "piglin",
+    "type": "hostile",
+    "displayNameEn": "Piglin",
+    "displayNameRu": "Пиглин"
+  },
+  {
+    "id": 79,
+    "name": "piglin_brute",
+    "type": "hostile",
+    "displayNameEn": "Piglin Brute",
+    "displayNameRu": "Брутальный пиглин"
+  },
+  {
+    "id": 80,
+    "name": "pillager",
+    "type": "hostile",
+    "displayNameEn": "Pillager",
+    "displayNameRu": "Разбойник"
+  },
+  {
+    "id": 81,
+    "name": "polar_bear",
+    "type": "animal",
+    "displayNameEn": "Polar Bear",
+    "displayNameRu": "Белый медведь"
+  },
+  {
+    "id": 82,
+    "name": "potion",
+    "type": "projectile",
+    "displayNameEn": "Potion",
+    "displayNameRu": "Зелье"
+  },
+  {
+    "id": 83,
+    "name": "pufferfish",
+    "type": "water_creature",
+    "displayNameEn": "Pufferfish",
+    "displayNameRu": "Иглобрюх"
+  },
+  {
+    "id": 84,
+    "name": "rabbit",
+    "type": "animal",
+    "displayNameEn": "Rabbit",
+    "displayNameRu": "Кролик"
+  },
+  {
+    "id": 85,
+    "name": "ravager",
+    "type": "hostile",
+    "displayNameEn": "Ravager",
+    "displayNameRu": "Разоритель"
+  },
+  {
+    "id": 86,
+    "name": "salmon",
+    "type": "water_creature",
+    "displayNameEn": "Salmon",
+    "displayNameRu": "Лосось"
+  },
+  {
+    "id": 87,
+    "name": "sheep",
+    "type": "animal",
+    "displayNameEn": "Sheep",
+    "displayNameRu": "Овца"
+  },
+  {
+    "id": 88,
+    "name": "shulker",
+    "type": "mob",
+    "displayNameEn": "Shulker",
+    "displayNameRu": "Шалкер"
+  },
+  {
+    "id": 89,
+    "name": "shulker_bullet",
+    "type": "projectile",
+    "displayNameEn": "Shulker Bullet",
+    "displayNameRu": "Снаряд шалкера"
+  },
+  {
+    "id": 90,
+    "name": "silverfish",
+    "type": "hostile",
+    "displayNameEn": "Silverfish",
+    "displayNameRu": "Чешуйница"
+  },
+  {
+    "id": 91,
+    "name": "skeleton",
+    "type": "hostile",
+    "displayNameEn": "Skeleton",
+    "displayNameRu": "Скелет"
+  },
+  {
+    "id": 92,
+    "name": "skeleton_horse",
+    "type": "animal",
+    "displayNameEn": "Skeleton Horse",
+    "displayNameRu": "Лошадь-скелет"
+  },
+  {
+    "id": 93,
+    "name": "slime",
+    "type": "mob",
+    "displayNameEn": "Slime",
+    "displayNameRu": "Слизень"
+  },
+  {
+    "id": 94,
+    "name": "small_fireball",
+    "type": "projectile",
+    "displayNameEn": "Small Fireball",
+    "displayNameRu": "Малый файербол"
+  },
+  {
+    "id": 95,
+    "name": "sniffer",
+    "type": "animal",
+    "displayNameEn": "Sniffer",
+    "displayNameRu": "Нюхач"
+  },
+  {
+    "id": 96,
+    "name": "snow_golem",
+    "type": "mob",
+    "displayNameEn": "Snow Golem",
+    "displayNameRu": "Снежный голем"
+  },
+  {
+    "id": 97,
+    "name": "snowball",
+    "type": "projectile",
+    "displayNameEn": "Snowball",
+    "displayNameRu": "Снежок"
+  },
+  {
+    "id": 98,
+    "name": "spawner_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with Monster Spawner",
+    "displayNameRu": "Вагонетка с рассадником монстров"
+  },
+  {
+    "id": 99,
+    "name": "spectral_arrow",
+    "type": "projectile",
+    "displayNameEn": "Spectral Arrow",
+    "displayNameRu": "Спектральная стрела"
+  },
+  {
+    "id": 100,
+    "name": "spider",
+    "type": "hostile",
+    "displayNameEn": "Spider",
+    "displayNameRu": "Паук"
+  },
+  {
+    "id": 101,
+    "name": "squid",
+    "type": "water_creature",
+    "displayNameEn": "Squid",
+    "displayNameRu": "Спрут"
+  },
+  {
+    "id": 102,
+    "name": "stray",
+    "type": "hostile",
+    "displayNameEn": "Stray",
+    "displayNameRu": "Зимогор"
+  },
+  {
+    "id": 103,
+    "name": "strider",
+    "type": "animal",
+    "displayNameEn": "Strider",
+    "displayNameRu": "Лавомерка"
+  },
+  {
+    "id": 104,
+    "name": "tadpole",
+    "type": "water_creature",
+    "displayNameEn": "Tadpole",
+    "displayNameRu": "Головастик"
+  },
+  {
+    "id": 105,
+    "name": "text_display",
+    "type": "other",
+    "displayNameEn": "Text Display",
+    "displayNameRu": "Визуализатор текста"
+  },
+  {
+    "id": 106,
+    "name": "tnt",
+    "type": "other",
+    "displayNameEn": "Primed TNT",
+    "displayNameRu": "Активированный динамит"
+  },
+  {
+    "id": 107,
+    "name": "tnt_minecart",
+    "type": "other",
+    "displayNameEn": "Minecart with TNT",
+    "displayNameRu": "Вагонетка с динамитом"
+  },
+  {
+    "id": 108,
+    "name": "trader_llama",
+    "type": "animal",
+    "displayNameEn": "Trader Llama",
+    "displayNameRu": "Лама торговца"
+  },
+  {
+    "id": 109,
+    "name": "trident",
+    "type": "projectile",
+    "displayNameEn": "Trident",
+    "displayNameRu": "Трезубец"
+  },
+  {
+    "id": 110,
+    "name": "tropical_fish",
+    "type": "water_creature",
+    "displayNameEn": "Tropical Fish",
+    "displayNameRu": "Тропическая рыба"
+  },
+  {
+    "id": 111,
+    "name": "turtle",
+    "type": "animal",
+    "displayNameEn": "Turtle",
+    "displayNameRu": "Черепаха"
+  },
+  {
+    "id": 112,
+    "name": "vex",
+    "type": "hostile",
+    "displayNameEn": "Vex",
+    "displayNameRu": "Вредина"
+  },
+  {
+    "id": 113,
+    "name": "villager",
+    "type": "passive",
+    "displayNameEn": "Villager",
+    "displayNameRu": "Крестьянин"
+  },
+  {
+    "id": 114,
+    "name": "vindicator",
+    "type": "hostile",
+    "displayNameEn": "Vindicator",
+    "displayNameRu": "Поборник"
+  },
+  {
+    "id": 115,
+    "name": "wandering_trader",
+    "type": "passive",
+    "displayNameEn": "Wandering Trader",
+    "displayNameRu": "Странствующий торговец"
+  },
+  {
+    "id": 116,
+    "name": "warden",
+    "type": "hostile",
+    "displayNameEn": "Warden",
+    "displayNameRu": "Хранитель"
+  },
+  {
+    "id": 117,
+    "name": "wind_charge",
+    "type": "projectile",
+    "displayNameEn": "Wind Charge",
+    "displayNameRu": "Заряд ветра"
+  },
+  {
+    "id": 118,
+    "name": "witch",
+    "type": "hostile",
+    "displayNameEn": "Witch",
+    "displayNameRu": "Ведьма"
+  },
+  {
+    "id": 119,
+    "name": "wither",
+    "type": "hostile",
+    "displayNameEn": "Wither",
+    "displayNameRu": "Визер"
+  },
+  {
+    "id": 120,
+    "name": "wither_skeleton",
+    "type": "hostile",
+    "displayNameEn": "Wither Skeleton",
+    "displayNameRu": "Визер-скелет"
+  },
+  {
+    "id": 121,
+    "name": "wither_skull",
+    "type": "projectile",
+    "displayNameEn": "Wither Skull",
+    "displayNameRu": "Череп визера"
+  },
+  {
+    "id": 122,
+    "name": "wolf",
+    "type": "animal",
+    "displayNameEn": "Wolf",
+    "displayNameRu": "Волк"
+  },
+  {
+    "id": 123,
+    "name": "zoglin",
+    "type": "hostile",
+    "displayNameEn": "Zoglin",
+    "displayNameRu": "Зоглин"
+  },
+  {
+    "id": 124,
+    "name": "zombie",
+    "type": "hostile",
+    "displayNameEn": "Zombie",
+    "displayNameRu": "Зомби"
+  },
+  {
+    "id": 125,
+    "name": "zombie_horse",
+    "type": "animal",
+    "displayNameEn": "Zombie Horse",
+    "displayNameRu": "Лошадь-зомби"
+  },
+  {
+    "id": 126,
+    "name": "zombie_villager",
+    "type": "hostile",
+    "displayNameEn": "Zombie Villager",
+    "displayNameRu": "Крестьянин-зомби"
+  },
+  {
+    "id": 127,
+    "name": "zombified_piglin",
+    "type": "hostile",
+    "displayNameEn": "Zombified Piglin",
+    "displayNameRu": "Зомбифицированный пиглин"
+  },
+  {
+    "id": 128,
+    "name": "player",
+    "type": "player",
+    "displayNameEn": "Player",
+    "displayNameRu": "Игрок"
+  },
+  {
+    "id": 129,
+    "name": "fishing_bobber",
+    "type": "projectile",
+    "displayNameEn": "Fishing Bobber",
+    "displayNameRu": "Поплавок"
+  }
+]

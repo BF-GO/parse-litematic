@@ -1,0 +1,7422 @@
+[
+  {
+    "id": 0,
+    "name": "air",
+    "displayNameEn": "Air",
+    "displayNameRu": "Воздух",
+    "states": 0
+  },
+  {
+    "id": 1,
+    "name": "stone",
+    "displayNameEn": "Stone",
+    "displayNameRu": "Камень",
+    "states": 0
+  },
+  {
+    "id": 2,
+    "name": "granite",
+    "displayNameEn": "Granite",
+    "displayNameRu": "Гранит",
+    "states": 0
+  },
+  {
+    "id": 3,
+    "name": "polished_granite",
+    "displayNameEn": "Polished Granite",
+    "displayNameRu": "Полированный гранит",
+    "states": 0
+  },
+  {
+    "id": 4,
+    "name": "diorite",
+    "displayNameEn": "Diorite",
+    "displayNameRu": "Диорит",
+    "states": 0
+  },
+  {
+    "id": 5,
+    "name": "polished_diorite",
+    "displayNameEn": "Polished Diorite",
+    "displayNameRu": "Полированный диорит",
+    "states": 0
+  },
+  {
+    "id": 6,
+    "name": "andesite",
+    "displayNameEn": "Andesite",
+    "displayNameRu": "Андезит",
+    "states": 0
+  },
+  {
+    "id": 7,
+    "name": "polished_andesite",
+    "displayNameEn": "Polished Andesite",
+    "displayNameRu": "Полированный андезит",
+    "states": 0
+  },
+  {
+    "id": 8,
+    "name": "grass_block",
+    "displayNameEn": "Grass Block",
+    "displayNameRu": "Дёрн",
+    "states": 1
+  },
+  {
+    "id": 9,
+    "name": "dirt",
+    "displayNameEn": "Dirt",
+    "displayNameRu": "Земля",
+    "states": 0
+  },
+  {
+    "id": 10,
+    "name": "coarse_dirt",
+    "displayNameEn": "Coarse Dirt",
+    "displayNameRu": "Каменистая земля",
+    "states": 0
+  },
+  {
+    "id": 11,
+    "name": "podzol",
+    "displayNameEn": "Podzol",
+    "displayNameRu": "Подзол",
+    "states": 1
+  },
+  {
+    "id": 12,
+    "name": "cobblestone",
+    "displayNameEn": "Cobblestone",
+    "displayNameRu": "Булыжник",
+    "states": 0
+  },
+  {
+    "id": 13,
+    "name": "oak_planks",
+    "displayNameEn": "Oak Planks",
+    "displayNameRu": "Дубовые доски",
+    "states": 0
+  },
+  {
+    "id": 14,
+    "name": "spruce_planks",
+    "displayNameEn": "Spruce Planks",
+    "displayNameRu": "Еловые доски",
+    "states": 0
+  },
+  {
+    "id": 15,
+    "name": "birch_planks",
+    "displayNameEn": "Birch Planks",
+    "displayNameRu": "Берёзовые доски",
+    "states": 0
+  },
+  {
+    "id": 16,
+    "name": "jungle_planks",
+    "displayNameEn": "Jungle Planks",
+    "displayNameRu": "Доски из тропического дерева",
+    "states": 0
+  },
+  {
+    "id": 17,
+    "name": "acacia_planks",
+    "displayNameEn": "Acacia Planks",
+    "displayNameRu": "Акациевые доски",
+    "states": 0
+  },
+  {
+    "id": 18,
+    "name": "cherry_planks",
+    "displayNameEn": "Cherry Planks",
+    "displayNameRu": "Вишнёвые доски",
+    "states": 0
+  },
+  {
+    "id": 19,
+    "name": "dark_oak_planks",
+    "displayNameEn": "Dark Oak Planks",
+    "displayNameRu": "Доски из тёмного дуба",
+    "states": 0
+  },
+  {
+    "id": 20,
+    "name": "mangrove_planks",
+    "displayNameEn": "Mangrove Planks",
+    "displayNameRu": "Мангровые доски",
+    "states": 0
+  },
+  {
+    "id": 21,
+    "name": "bamboo_planks",
+    "displayNameEn": "Bamboo Planks",
+    "displayNameRu": "Бамбуковые доски",
+    "states": 0
+  },
+  {
+    "id": 22,
+    "name": "bamboo_mosaic",
+    "displayNameEn": "Bamboo Mosaic",
+    "displayNameRu": "Бамбуковая мозаика",
+    "states": 0
+  },
+  {
+    "id": 23,
+    "name": "oak_sapling",
+    "displayNameEn": "Oak Sapling",
+    "displayNameRu": "Саженец дуба",
+    "states": 1
+  },
+  {
+    "id": 24,
+    "name": "spruce_sapling",
+    "displayNameEn": "Spruce Sapling",
+    "displayNameRu": "Саженец ели",
+    "states": 1
+  },
+  {
+    "id": 25,
+    "name": "birch_sapling",
+    "displayNameEn": "Birch Sapling",
+    "displayNameRu": "Саженец берёзы",
+    "states": 1
+  },
+  {
+    "id": 26,
+    "name": "jungle_sapling",
+    "displayNameEn": "Jungle Sapling",
+    "displayNameRu": "Саженец тропического дерева",
+    "states": 1
+  },
+  {
+    "id": 27,
+    "name": "acacia_sapling",
+    "displayNameEn": "Acacia Sapling",
+    "displayNameRu": "Саженец акации",
+    "states": 1
+  },
+  {
+    "id": 28,
+    "name": "cherry_sapling",
+    "displayNameEn": "Cherry Sapling",
+    "displayNameRu": "Саженец вишни",
+    "states": 1
+  },
+  {
+    "id": 29,
+    "name": "dark_oak_sapling",
+    "displayNameEn": "Dark Oak Sapling",
+    "displayNameRu": "Саженец тёмного дуба",
+    "states": 1
+  },
+  {
+    "id": 30,
+    "name": "mangrove_propagule",
+    "displayNameEn": "Mangrove Propagule",
+    "displayNameRu": "Мангровый отросток",
+    "states": 4
+  },
+  {
+    "id": 31,
+    "name": "bedrock",
+    "displayNameEn": "Bedrock",
+    "displayNameRu": "Бедрок",
+    "states": 0
+  },
+  {
+    "id": 32,
+    "name": "water",
+    "displayNameEn": "Water",
+    "displayNameRu": "Вода",
+    "states": 1
+  },
+  {
+    "id": 33,
+    "name": "lava",
+    "displayNameEn": "Lava",
+    "displayNameRu": "Лава",
+    "states": 1
+  },
+  {
+    "id": 34,
+    "name": "sand",
+    "displayNameEn": "Sand",
+    "displayNameRu": "Песок",
+    "states": 0
+  },
+  {
+    "id": 35,
+    "name": "suspicious_sand",
+    "displayNameEn": "Suspicious Sand",
+    "displayNameRu": "Подозрительный песок",
+    "states": 1
+  },
+  {
+    "id": 36,
+    "name": "red_sand",
+    "displayNameEn": "Red Sand",
+    "displayNameRu": "Красный песок",
+    "states": 0
+  },
+  {
+    "id": 37,
+    "name": "gravel",
+    "displayNameEn": "Gravel",
+    "displayNameRu": "Гравий",
+    "states": 0
+  },
+  {
+    "id": 38,
+    "name": "suspicious_gravel",
+    "displayNameEn": "Suspicious Gravel",
+    "displayNameRu": "Подозрительный гравий",
+    "states": 1
+  },
+  {
+    "id": 39,
+    "name": "gold_ore",
+    "displayNameEn": "Gold Ore",
+    "displayNameRu": "Золотая руда",
+    "states": 0
+  },
+  {
+    "id": 40,
+    "name": "deepslate_gold_ore",
+    "displayNameEn": "Deepslate Gold Ore",
+    "displayNameRu": "Золотоносный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 41,
+    "name": "iron_ore",
+    "displayNameEn": "Iron Ore",
+    "displayNameRu": "Железная руда",
+    "states": 0
+  },
+  {
+    "id": 42,
+    "name": "deepslate_iron_ore",
+    "displayNameEn": "Deepslate Iron Ore",
+    "displayNameRu": "Железоносный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 43,
+    "name": "coal_ore",
+    "displayNameEn": "Coal Ore",
+    "displayNameRu": "Угольная руда",
+    "states": 0
+  },
+  {
+    "id": 44,
+    "name": "deepslate_coal_ore",
+    "displayNameEn": "Deepslate Coal Ore",
+    "displayNameRu": "Угленосный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 45,
+    "name": "nether_gold_ore",
+    "displayNameEn": "Nether Gold Ore",
+    "displayNameRu": "Незерская золотая руда",
+    "states": 0
+  },
+  {
+    "id": 46,
+    "name": "oak_log",
+    "displayNameEn": "Oak Log",
+    "displayNameRu": "Дубовое бревно",
+    "states": 1
+  },
+  {
+    "id": 47,
+    "name": "spruce_log",
+    "displayNameEn": "Spruce Log",
+    "displayNameRu": "Еловое бревно",
+    "states": 1
+  },
+  {
+    "id": 48,
+    "name": "birch_log",
+    "displayNameEn": "Birch Log",
+    "displayNameRu": "Берёзовое бревно",
+    "states": 1
+  },
+  {
+    "id": 49,
+    "name": "jungle_log",
+    "displayNameEn": "Jungle Log",
+    "displayNameRu": "Бревно тропического дерева",
+    "states": 1
+  },
+  {
+    "id": 50,
+    "name": "acacia_log",
+    "displayNameEn": "Acacia Log",
+    "displayNameRu": "Акациевое бревно",
+    "states": 1
+  },
+  {
+    "id": 51,
+    "name": "cherry_log",
+    "displayNameEn": "Cherry Log",
+    "displayNameRu": "Вишнёвое бревно",
+    "states": 1
+  },
+  {
+    "id": 52,
+    "name": "dark_oak_log",
+    "displayNameEn": "Dark Oak Log",
+    "displayNameRu": "Бревно тёмного дуба",
+    "states": 1
+  },
+  {
+    "id": 53,
+    "name": "mangrove_log",
+    "displayNameEn": "Mangrove Log",
+    "displayNameRu": "Мангровое бревно",
+    "states": 1
+  },
+  {
+    "id": 54,
+    "name": "mangrove_roots",
+    "displayNameEn": "Mangrove Roots",
+    "displayNameRu": "Мангровые корни",
+    "states": 1
+  },
+  {
+    "id": 55,
+    "name": "muddy_mangrove_roots",
+    "displayNameEn": "Muddy Mangrove Roots",
+    "displayNameRu": "Грязные мангровые корни",
+    "states": 1
+  },
+  {
+    "id": 56,
+    "name": "bamboo_block",
+    "displayNameEn": "Block of Bamboo",
+    "displayNameRu": "Блок бамбука",
+    "states": 1
+  },
+  {
+    "id": 57,
+    "name": "stripped_spruce_log",
+    "displayNameEn": "Stripped Spruce Log",
+    "displayNameRu": "Обтёсанное еловое бревно",
+    "states": 1
+  },
+  {
+    "id": 58,
+    "name": "stripped_birch_log",
+    "displayNameEn": "Stripped Birch Log",
+    "displayNameRu": "Обтёсанное берёзовое бревно",
+    "states": 1
+  },
+  {
+    "id": 59,
+    "name": "stripped_jungle_log",
+    "displayNameEn": "Stripped Jungle Log",
+    "displayNameRu": "Обтёсанное бревно тропического дерева",
+    "states": 1
+  },
+  {
+    "id": 60,
+    "name": "stripped_acacia_log",
+    "displayNameEn": "Stripped Acacia Log",
+    "displayNameRu": "Обтёсанное акациевое бревно",
+    "states": 1
+  },
+  {
+    "id": 61,
+    "name": "stripped_cherry_log",
+    "displayNameEn": "Stripped Cherry Log",
+    "displayNameRu": "Обтёсанное вишнёвое бревно",
+    "states": 1
+  },
+  {
+    "id": 62,
+    "name": "stripped_dark_oak_log",
+    "displayNameEn": "Stripped Dark Oak Log",
+    "displayNameRu": "Обтёсанное бревно тёмного дуба",
+    "states": 1
+  },
+  {
+    "id": 63,
+    "name": "stripped_oak_log",
+    "displayNameEn": "Stripped Oak Log",
+    "displayNameRu": "Обтёсанное дубовое бревно",
+    "states": 1
+  },
+  {
+    "id": 64,
+    "name": "stripped_mangrove_log",
+    "displayNameEn": "Stripped Mangrove Log",
+    "displayNameRu": "Обтёсанное мангровое бревно",
+    "states": 1
+  },
+  {
+    "id": 65,
+    "name": "stripped_bamboo_block",
+    "displayNameEn": "Block of Stripped Bamboo",
+    "displayNameRu": "Блок обтёсанного бамбука",
+    "states": 1
+  },
+  {
+    "id": 66,
+    "name": "oak_wood",
+    "displayNameEn": "Oak Wood",
+    "displayNameRu": "Дуб",
+    "states": 1
+  },
+  {
+    "id": 67,
+    "name": "spruce_wood",
+    "displayNameEn": "Spruce Wood",
+    "displayNameRu": "Ель",
+    "states": 1
+  },
+  {
+    "id": 68,
+    "name": "birch_wood",
+    "displayNameEn": "Birch Wood",
+    "displayNameRu": "Берёза",
+    "states": 1
+  },
+  {
+    "id": 69,
+    "name": "jungle_wood",
+    "displayNameEn": "Jungle Wood",
+    "displayNameRu": "Тропическое дерево",
+    "states": 1
+  },
+  {
+    "id": 70,
+    "name": "acacia_wood",
+    "displayNameEn": "Acacia Wood",
+    "displayNameRu": "Акация",
+    "states": 1
+  },
+  {
+    "id": 71,
+    "name": "cherry_wood",
+    "displayNameEn": "Cherry Wood",
+    "displayNameRu": "Вишня",
+    "states": 1
+  },
+  {
+    "id": 72,
+    "name": "dark_oak_wood",
+    "displayNameEn": "Dark Oak Wood",
+    "displayNameRu": "Тёмный дуб",
+    "states": 1
+  },
+  {
+    "id": 73,
+    "name": "mangrove_wood",
+    "displayNameEn": "Mangrove Wood",
+    "displayNameRu": "Мангровое дерево",
+    "states": 1
+  },
+  {
+    "id": 74,
+    "name": "stripped_oak_wood",
+    "displayNameEn": "Stripped Oak Wood",
+    "displayNameRu": "Обтёсанная дубовая древесина",
+    "states": 1
+  },
+  {
+    "id": 75,
+    "name": "stripped_spruce_wood",
+    "displayNameEn": "Stripped Spruce Wood",
+    "displayNameRu": "Обтёсанная еловая древесина",
+    "states": 1
+  },
+  {
+    "id": 76,
+    "name": "stripped_birch_wood",
+    "displayNameEn": "Stripped Birch Wood",
+    "displayNameRu": "Обтёсанная берёзовая древесина",
+    "states": 1
+  },
+  {
+    "id": 77,
+    "name": "stripped_jungle_wood",
+    "displayNameEn": "Stripped Jungle Wood",
+    "displayNameRu": "Обтёсанная тропическая древесина",
+    "states": 1
+  },
+  {
+    "id": 78,
+    "name": "stripped_acacia_wood",
+    "displayNameEn": "Stripped Acacia Wood",
+    "displayNameRu": "Обтёсанная акациевая древесина",
+    "states": 1
+  },
+  {
+    "id": 79,
+    "name": "stripped_cherry_wood",
+    "displayNameEn": "Stripped Cherry Wood",
+    "displayNameRu": "Обтёсанная вишнёвая древесина",
+    "states": 1
+  },
+  {
+    "id": 80,
+    "name": "stripped_dark_oak_wood",
+    "displayNameEn": "Stripped Dark Oak Wood",
+    "displayNameRu": "Обтёсанная древесина тёмного дуба",
+    "states": 1
+  },
+  {
+    "id": 81,
+    "name": "stripped_mangrove_wood",
+    "displayNameEn": "Stripped Mangrove Wood",
+    "displayNameRu": "Обтёсанная мангровая древесина",
+    "states": 1
+  },
+  {
+    "id": 82,
+    "name": "oak_leaves",
+    "displayNameEn": "Oak Leaves",
+    "displayNameRu": "Дубовые листья",
+    "states": 3
+  },
+  {
+    "id": 83,
+    "name": "spruce_leaves",
+    "displayNameEn": "Spruce Leaves",
+    "displayNameRu": "Хвоя",
+    "states": 3
+  },
+  {
+    "id": 84,
+    "name": "birch_leaves",
+    "displayNameEn": "Birch Leaves",
+    "displayNameRu": "Берёзовые листья",
+    "states": 3
+  },
+  {
+    "id": 85,
+    "name": "jungle_leaves",
+    "displayNameEn": "Jungle Leaves",
+    "displayNameRu": "Листья тропического дерева",
+    "states": 3
+  },
+  {
+    "id": 86,
+    "name": "acacia_leaves",
+    "displayNameEn": "Acacia Leaves",
+    "displayNameRu": "Листья акации",
+    "states": 3
+  },
+  {
+    "id": 87,
+    "name": "cherry_leaves",
+    "displayNameEn": "Cherry Leaves",
+    "displayNameRu": "Вишнёвые листья",
+    "states": 3
+  },
+  {
+    "id": 88,
+    "name": "dark_oak_leaves",
+    "displayNameEn": "Dark Oak Leaves",
+    "displayNameRu": "Листья тёмного дуба",
+    "states": 3
+  },
+  {
+    "id": 89,
+    "name": "mangrove_leaves",
+    "displayNameEn": "Mangrove Leaves",
+    "displayNameRu": "Мангровые листья",
+    "states": 3
+  },
+  {
+    "id": 90,
+    "name": "azalea_leaves",
+    "displayNameEn": "Azalea Leaves",
+    "displayNameRu": "Листья азалии",
+    "states": 3
+  },
+  {
+    "id": 91,
+    "name": "flowering_azalea_leaves",
+    "displayNameEn": "Flowering Azalea Leaves",
+    "displayNameRu": "Листья цветущей азалии",
+    "states": 3
+  },
+  {
+    "id": 92,
+    "name": "sponge",
+    "displayNameEn": "Sponge",
+    "displayNameRu": "Губка",
+    "states": 0
+  },
+  {
+    "id": 93,
+    "name": "wet_sponge",
+    "displayNameEn": "Wet Sponge",
+    "displayNameRu": "Мокрая губка",
+    "states": 0
+  },
+  {
+    "id": 94,
+    "name": "glass",
+    "displayNameEn": "Glass",
+    "displayNameRu": "Стекло",
+    "states": 0
+  },
+  {
+    "id": 95,
+    "name": "lapis_ore",
+    "displayNameEn": "Lapis Lazuli Ore",
+    "displayNameRu": "Лазуритовая руда",
+    "states": 0
+  },
+  {
+    "id": 96,
+    "name": "deepslate_lapis_ore",
+    "displayNameEn": "Deepslate Lapis Lazuli Ore",
+    "displayNameRu": "Лазуритоносный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 97,
+    "name": "lapis_block",
+    "displayNameEn": "Block of Lapis Lazuli",
+    "displayNameRu": "Лазуритовый блок",
+    "states": 0
+  },
+  {
+    "id": 98,
+    "name": "dispenser",
+    "displayNameEn": "Dispenser",
+    "displayNameRu": "Раздатчик",
+    "states": 2
+  },
+  {
+    "id": 99,
+    "name": "sandstone",
+    "displayNameEn": "Sandstone",
+    "displayNameRu": "Песчаник",
+    "states": 0
+  },
+  {
+    "id": 100,
+    "name": "chiseled_sandstone",
+    "displayNameEn": "Chiseled Sandstone",
+    "displayNameRu": "Резной песчаник",
+    "states": 0
+  },
+  {
+    "id": 101,
+    "name": "cut_sandstone",
+    "displayNameEn": "Cut Sandstone",
+    "displayNameRu": "Пиленый песчаник",
+    "states": 0
+  },
+  {
+    "id": 102,
+    "name": "note_block",
+    "displayNameEn": "Note Block",
+    "displayNameRu": "Нотный блок",
+    "states": 3
+  },
+  {
+    "id": 103,
+    "name": "white_bed",
+    "displayNameEn": "White Bed",
+    "displayNameRu": "Белая кровать",
+    "states": 3
+  },
+  {
+    "id": 104,
+    "name": "orange_bed",
+    "displayNameEn": "Orange Bed",
+    "displayNameRu": "Оранжевая кровать",
+    "states": 3
+  },
+  {
+    "id": 105,
+    "name": "magenta_bed",
+    "displayNameEn": "Magenta Bed",
+    "displayNameRu": "Пурпурная кровать",
+    "states": 3
+  },
+  {
+    "id": 106,
+    "name": "light_blue_bed",
+    "displayNameEn": "Light Blue Bed",
+    "displayNameRu": "Голубая кровать",
+    "states": 3
+  },
+  {
+    "id": 107,
+    "name": "yellow_bed",
+    "displayNameEn": "Yellow Bed",
+    "displayNameRu": "Жёлтая кровать",
+    "states": 3
+  },
+  {
+    "id": 108,
+    "name": "lime_bed",
+    "displayNameEn": "Lime Bed",
+    "displayNameRu": "Лаймовая кровать",
+    "states": 3
+  },
+  {
+    "id": 109,
+    "name": "pink_bed",
+    "displayNameEn": "Pink Bed",
+    "displayNameRu": "Розовая кровать",
+    "states": 3
+  },
+  {
+    "id": 110,
+    "name": "gray_bed",
+    "displayNameEn": "Gray Bed",
+    "displayNameRu": "Серая кровать",
+    "states": 3
+  },
+  {
+    "id": 111,
+    "name": "light_gray_bed",
+    "displayNameEn": "Light Gray Bed",
+    "displayNameRu": "Светло-серая кровать",
+    "states": 3
+  },
+  {
+    "id": 112,
+    "name": "cyan_bed",
+    "displayNameEn": "Cyan Bed",
+    "displayNameRu": "Бирюзовая кровать",
+    "states": 3
+  },
+  {
+    "id": 113,
+    "name": "purple_bed",
+    "displayNameEn": "Purple Bed",
+    "displayNameRu": "Фиолетовая кровать",
+    "states": 3
+  },
+  {
+    "id": 114,
+    "name": "blue_bed",
+    "displayNameEn": "Blue Bed",
+    "displayNameRu": "Синяя кровать",
+    "states": 3
+  },
+  {
+    "id": 115,
+    "name": "brown_bed",
+    "displayNameEn": "Brown Bed",
+    "displayNameRu": "Коричневая кровать",
+    "states": 3
+  },
+  {
+    "id": 116,
+    "name": "green_bed",
+    "displayNameEn": "Green Bed",
+    "displayNameRu": "Зелёная кровать",
+    "states": 3
+  },
+  {
+    "id": 117,
+    "name": "red_bed",
+    "displayNameEn": "Red Bed",
+    "displayNameRu": "Красная кровать",
+    "states": 3
+  },
+  {
+    "id": 118,
+    "name": "black_bed",
+    "displayNameEn": "Black Bed",
+    "displayNameRu": "Чёрная кровать",
+    "states": 3
+  },
+  {
+    "id": 119,
+    "name": "powered_rail",
+    "displayNameEn": "Powered Rail",
+    "displayNameRu": "Энергорельсы",
+    "states": 3
+  },
+  {
+    "id": 120,
+    "name": "detector_rail",
+    "displayNameEn": "Detector Rail",
+    "displayNameRu": "Рельсы с датчиком",
+    "states": 3
+  },
+  {
+    "id": 121,
+    "name": "sticky_piston",
+    "displayNameEn": "Sticky Piston",
+    "displayNameRu": "Липкий поршень",
+    "states": 2
+  },
+  {
+    "id": 122,
+    "name": "cobweb",
+    "displayNameEn": "Cobweb",
+    "displayNameRu": "Паутина",
+    "states": 0
+  },
+  {
+    "id": 123,
+    "name": "short_grass",
+    "displayNameEn": "Short Grass",
+    "displayNameRu": "Низкая трава",
+    "states": 0
+  },
+  {
+    "id": 124,
+    "name": "fern",
+    "displayNameEn": "Fern",
+    "displayNameRu": "Папоротник",
+    "states": 0
+  },
+  {
+    "id": 125,
+    "name": "dead_bush",
+    "displayNameEn": "Dead Bush",
+    "displayNameRu": "Мёртвый куст",
+    "states": 0
+  },
+  {
+    "id": 126,
+    "name": "seagrass",
+    "displayNameEn": "Seagrass",
+    "displayNameRu": "Морская трава",
+    "states": 0
+  },
+  {
+    "id": 127,
+    "name": "tall_seagrass",
+    "displayNameEn": "Tall Seagrass",
+    "displayNameRu": "Высокая морская трава",
+    "states": 1
+  },
+  {
+    "id": 128,
+    "name": "piston",
+    "displayNameEn": "Piston",
+    "displayNameRu": "Поршень",
+    "states": 2
+  },
+  {
+    "id": 129,
+    "name": "piston_head",
+    "displayNameEn": "Piston Head",
+    "displayNameRu": "Головка поршня",
+    "states": 3
+  },
+  {
+    "id": 130,
+    "name": "white_wool",
+    "displayNameEn": "White Wool",
+    "displayNameRu": "Белая шерсть",
+    "states": 0
+  },
+  {
+    "id": 131,
+    "name": "orange_wool",
+    "displayNameEn": "Orange Wool",
+    "displayNameRu": "Оранжевая шерсть",
+    "states": 0
+  },
+  {
+    "id": 132,
+    "name": "magenta_wool",
+    "displayNameEn": "Magenta Wool",
+    "displayNameRu": "Пурпурная шерсть",
+    "states": 0
+  },
+  {
+    "id": 133,
+    "name": "light_blue_wool",
+    "displayNameEn": "Light Blue Wool",
+    "displayNameRu": "Голубая шерсть",
+    "states": 0
+  },
+  {
+    "id": 134,
+    "name": "yellow_wool",
+    "displayNameEn": "Yellow Wool",
+    "displayNameRu": "Жёлтая шерсть",
+    "states": 0
+  },
+  {
+    "id": 135,
+    "name": "lime_wool",
+    "displayNameEn": "Lime Wool",
+    "displayNameRu": "Лаймовая шерсть",
+    "states": 0
+  },
+  {
+    "id": 136,
+    "name": "pink_wool",
+    "displayNameEn": "Pink Wool",
+    "displayNameRu": "Розовая шерсть",
+    "states": 0
+  },
+  {
+    "id": 137,
+    "name": "gray_wool",
+    "displayNameEn": "Gray Wool",
+    "displayNameRu": "Серая шерсть",
+    "states": 0
+  },
+  {
+    "id": 138,
+    "name": "light_gray_wool",
+    "displayNameEn": "Light Gray Wool",
+    "displayNameRu": "Светло-серая шерсть",
+    "states": 0
+  },
+  {
+    "id": 139,
+    "name": "cyan_wool",
+    "displayNameEn": "Cyan Wool",
+    "displayNameRu": "Бирюзовая шерсть",
+    "states": 0
+  },
+  {
+    "id": 140,
+    "name": "purple_wool",
+    "displayNameEn": "Purple Wool",
+    "displayNameRu": "Фиолетовая шерсть",
+    "states": 0
+  },
+  {
+    "id": 141,
+    "name": "blue_wool",
+    "displayNameEn": "Blue Wool",
+    "displayNameRu": "Синяя шерсть",
+    "states": 0
+  },
+  {
+    "id": 142,
+    "name": "brown_wool",
+    "displayNameEn": "Brown Wool",
+    "displayNameRu": "Коричневая шерсть",
+    "states": 0
+  },
+  {
+    "id": 143,
+    "name": "green_wool",
+    "displayNameEn": "Green Wool",
+    "displayNameRu": "Зелёная шерсть",
+    "states": 0
+  },
+  {
+    "id": 144,
+    "name": "red_wool",
+    "displayNameEn": "Red Wool",
+    "displayNameRu": "Красная шерсть",
+    "states": 0
+  },
+  {
+    "id": 145,
+    "name": "black_wool",
+    "displayNameEn": "Black Wool",
+    "displayNameRu": "Чёрная шерсть",
+    "states": 0
+  },
+  {
+    "id": 146,
+    "name": "moving_piston",
+    "displayNameEn": "Moving Piston",
+    "displayNameRu": "Движущийся поршень",
+    "states": 2
+  },
+  {
+    "id": 147,
+    "name": "dandelion",
+    "displayNameEn": "Dandelion",
+    "displayNameRu": "Одуванчик",
+    "states": 0
+  },
+  {
+    "id": 148,
+    "name": "torchflower",
+    "displayNameEn": "Torchflower",
+    "displayNameRu": "Факельник",
+    "states": 0
+  },
+  {
+    "id": 149,
+    "name": "poppy",
+    "displayNameEn": "Poppy",
+    "displayNameRu": "Мак",
+    "states": 0
+  },
+  {
+    "id": 150,
+    "name": "blue_orchid",
+    "displayNameEn": "Blue Orchid",
+    "displayNameRu": "Синяя орхидея",
+    "states": 0
+  },
+  {
+    "id": 151,
+    "name": "allium",
+    "displayNameEn": "Allium",
+    "displayNameRu": "Лук-батун",
+    "states": 0
+  },
+  {
+    "id": 152,
+    "name": "azure_bluet",
+    "displayNameEn": "Azure Bluet",
+    "displayNameRu": "Хаустония серая",
+    "states": 0
+  },
+  {
+    "id": 153,
+    "name": "red_tulip",
+    "displayNameEn": "Red Tulip",
+    "displayNameRu": "Красный тюльпан",
+    "states": 0
+  },
+  {
+    "id": 154,
+    "name": "orange_tulip",
+    "displayNameEn": "Orange Tulip",
+    "displayNameRu": "Оранжевый тюльпан",
+    "states": 0
+  },
+  {
+    "id": 155,
+    "name": "white_tulip",
+    "displayNameEn": "White Tulip",
+    "displayNameRu": "Белый тюльпан",
+    "states": 0
+  },
+  {
+    "id": 156,
+    "name": "pink_tulip",
+    "displayNameEn": "Pink Tulip",
+    "displayNameRu": "Розовый тюльпан",
+    "states": 0
+  },
+  {
+    "id": 157,
+    "name": "oxeye_daisy",
+    "displayNameEn": "Oxeye Daisy",
+    "displayNameRu": "Ромашка",
+    "states": 0
+  },
+  {
+    "id": 158,
+    "name": "cornflower",
+    "displayNameEn": "Cornflower",
+    "displayNameRu": "Синий василёк",
+    "states": 0
+  },
+  {
+    "id": 159,
+    "name": "wither_rose",
+    "displayNameEn": "Wither Rose",
+    "displayNameRu": "Роза визера",
+    "states": 0
+  },
+  {
+    "id": 160,
+    "name": "lily_of_the_valley",
+    "displayNameEn": "Lily of the Valley",
+    "displayNameRu": "Ландыш",
+    "states": 0
+  },
+  {
+    "id": 161,
+    "name": "brown_mushroom",
+    "displayNameEn": "Brown Mushroom",
+    "displayNameRu": "Коричневый гриб",
+    "states": 0
+  },
+  {
+    "id": 162,
+    "name": "red_mushroom",
+    "displayNameEn": "Red Mushroom",
+    "displayNameRu": "Красный гриб",
+    "states": 0
+  },
+  {
+    "id": 163,
+    "name": "gold_block",
+    "displayNameEn": "Block of Gold",
+    "displayNameRu": "Золотой блок",
+    "states": 0
+  },
+  {
+    "id": 164,
+    "name": "iron_block",
+    "displayNameEn": "Block of Iron",
+    "displayNameRu": "Железный блок",
+    "states": 0
+  },
+  {
+    "id": 165,
+    "name": "bricks",
+    "displayNameEn": "Bricks",
+    "displayNameRu": "Кирпичи",
+    "states": 0
+  },
+  {
+    "id": 166,
+    "name": "tnt",
+    "displayNameEn": "TNT",
+    "displayNameRu": "Динамит",
+    "states": 1
+  },
+  {
+    "id": 167,
+    "name": "bookshelf",
+    "displayNameEn": "Bookshelf",
+    "displayNameRu": "Книжная полка",
+    "states": 0
+  },
+  {
+    "id": 168,
+    "name": "chiseled_bookshelf",
+    "displayNameEn": "Chiseled Bookshelf",
+    "displayNameRu": "Резная книжная полка",
+    "states": 7
+  },
+  {
+    "id": 169,
+    "name": "mossy_cobblestone",
+    "displayNameEn": "Mossy Cobblestone",
+    "displayNameRu": "Замшелый булыжник",
+    "states": 0
+  },
+  {
+    "id": 170,
+    "name": "obsidian",
+    "displayNameEn": "Obsidian",
+    "displayNameRu": "Обсидиан",
+    "states": 0
+  },
+  {
+    "id": 171,
+    "name": "torch",
+    "displayNameEn": "Torch",
+    "displayNameRu": "Факел",
+    "states": 0
+  },
+  {
+    "id": 172,
+    "name": "wall_torch",
+    "displayNameEn": "Torch",
+    "displayNameRu": "Настенный факел",
+    "states": 1
+  },
+  {
+    "id": 173,
+    "name": "fire",
+    "displayNameEn": "Fire",
+    "displayNameRu": "Огонь",
+    "states": 6
+  },
+  {
+    "id": 174,
+    "name": "soul_fire",
+    "displayNameEn": "Soul Fire",
+    "displayNameRu": "Огонь душ",
+    "states": 0
+  },
+  {
+    "id": 175,
+    "name": "spawner",
+    "displayNameEn": "Monster Spawner",
+    "displayNameRu": "Рассадник монстров",
+    "states": 0
+  },
+  {
+    "id": 176,
+    "name": "oak_stairs",
+    "displayNameEn": "Oak Stairs",
+    "displayNameRu": "Дубовые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 177,
+    "name": "chest",
+    "displayNameEn": "Chest",
+    "displayNameRu": "Сундук",
+    "states": 3
+  },
+  {
+    "id": 178,
+    "name": "redstone_wire",
+    "displayNameEn": "Redstone Wire",
+    "displayNameRu": "Редстоуновый провод",
+    "states": 5
+  },
+  {
+    "id": 179,
+    "name": "diamond_ore",
+    "displayNameEn": "Diamond Ore",
+    "displayNameRu": "Алмазная руда",
+    "states": 0
+  },
+  {
+    "id": 180,
+    "name": "deepslate_diamond_ore",
+    "displayNameEn": "Deepslate Diamond Ore",
+    "displayNameRu": "Алмазоносный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 181,
+    "name": "diamond_block",
+    "displayNameEn": "Block of Diamond",
+    "displayNameRu": "Алмазный блок",
+    "states": 0
+  },
+  {
+    "id": 182,
+    "name": "crafting_table",
+    "displayNameEn": "Crafting Table",
+    "displayNameRu": "Верстак",
+    "states": 0
+  },
+  {
+    "id": 183,
+    "name": "wheat",
+    "displayNameEn": "Wheat Crops",
+    "displayNameRu": "Ростки пшеницы",
+    "states": 1
+  },
+  {
+    "id": 184,
+    "name": "farmland",
+    "displayNameEn": "Farmland",
+    "displayNameRu": "Пашня",
+    "states": 1
+  },
+  {
+    "id": 185,
+    "name": "furnace",
+    "displayNameEn": "Furnace",
+    "displayNameRu": "Печь",
+    "states": 2
+  },
+  {
+    "id": 186,
+    "name": "oak_sign",
+    "displayNameEn": "Oak Sign",
+    "displayNameRu": "Дубовая табличка",
+    "states": 2
+  },
+  {
+    "id": 187,
+    "name": "spruce_sign",
+    "displayNameEn": "Spruce Sign",
+    "displayNameRu": "Еловая табличка",
+    "states": 2
+  },
+  {
+    "id": 188,
+    "name": "birch_sign",
+    "displayNameEn": "Birch Sign",
+    "displayNameRu": "Берёзовая табличка",
+    "states": 2
+  },
+  {
+    "id": 189,
+    "name": "acacia_sign",
+    "displayNameEn": "Acacia Sign",
+    "displayNameRu": "Акациевая табличка",
+    "states": 2
+  },
+  {
+    "id": 190,
+    "name": "cherry_sign",
+    "displayNameEn": "Cherry Sign",
+    "displayNameRu": "Вишнёвая табличка",
+    "states": 2
+  },
+  {
+    "id": 191,
+    "name": "jungle_sign",
+    "displayNameEn": "Jungle Sign",
+    "displayNameRu": "Табличка из тропического дерева",
+    "states": 2
+  },
+  {
+    "id": 192,
+    "name": "dark_oak_sign",
+    "displayNameEn": "Dark Oak Sign",
+    "displayNameRu": "Табличка из тёмного дуба",
+    "states": 2
+  },
+  {
+    "id": 193,
+    "name": "mangrove_sign",
+    "displayNameEn": "Mangrove Sign",
+    "displayNameRu": "Мангровая табличка",
+    "states": 2
+  },
+  {
+    "id": 194,
+    "name": "bamboo_sign",
+    "displayNameEn": "Bamboo Sign",
+    "displayNameRu": "Бамбуковая табличка",
+    "states": 2
+  },
+  {
+    "id": 195,
+    "name": "oak_door",
+    "displayNameEn": "Oak Door",
+    "displayNameRu": "Дубовая дверь",
+    "states": 5
+  },
+  {
+    "id": 196,
+    "name": "ladder",
+    "displayNameEn": "Ladder",
+    "displayNameRu": "Лестница",
+    "states": 2
+  },
+  {
+    "id": 197,
+    "name": "rail",
+    "displayNameEn": "Rail",
+    "displayNameRu": "Рельсы",
+    "states": 2
+  },
+  {
+    "id": 198,
+    "name": "cobblestone_stairs",
+    "displayNameEn": "Cobblestone Stairs",
+    "displayNameRu": "Булыжные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 199,
+    "name": "oak_wall_sign",
+    "displayNameEn": "Oak Sign",
+    "displayNameRu": "Дубовая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 200,
+    "name": "spruce_wall_sign",
+    "displayNameEn": "Spruce Sign",
+    "displayNameRu": "Еловая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 201,
+    "name": "birch_wall_sign",
+    "displayNameEn": "Birch Sign",
+    "displayNameRu": "Берёзовая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 202,
+    "name": "acacia_wall_sign",
+    "displayNameEn": "Acacia Sign",
+    "displayNameRu": "Акациевая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 203,
+    "name": "cherry_wall_sign",
+    "displayNameEn": "Cherry Sign",
+    "displayNameRu": "Вишнёвая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 204,
+    "name": "jungle_wall_sign",
+    "displayNameEn": "Jungle Sign",
+    "displayNameRu": "Настенная табличка из тропического дерева",
+    "states": 2
+  },
+  {
+    "id": 205,
+    "name": "dark_oak_wall_sign",
+    "displayNameEn": "Dark Oak Sign",
+    "displayNameRu": "Настенная табличка из тёмного дуба",
+    "states": 2
+  },
+  {
+    "id": 206,
+    "name": "mangrove_wall_sign",
+    "displayNameEn": "Mangrove Sign",
+    "displayNameRu": "Мангровая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 207,
+    "name": "bamboo_wall_sign",
+    "displayNameEn": "Bamboo Sign",
+    "displayNameRu": "Бамбуковая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 208,
+    "name": "oak_hanging_sign",
+    "displayNameEn": "Oak Hanging Sign",
+    "displayNameRu": "Дубовая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 209,
+    "name": "spruce_hanging_sign",
+    "displayNameEn": "Spruce Hanging Sign",
+    "displayNameRu": "Еловая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 210,
+    "name": "birch_hanging_sign",
+    "displayNameEn": "Birch Hanging Sign",
+    "displayNameRu": "Берёзовая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 211,
+    "name": "acacia_hanging_sign",
+    "displayNameEn": "Acacia Hanging Sign",
+    "displayNameRu": "Акациевая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 212,
+    "name": "cherry_hanging_sign",
+    "displayNameEn": "Cherry Hanging Sign",
+    "displayNameRu": "Вишнёвая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 213,
+    "name": "jungle_hanging_sign",
+    "displayNameEn": "Jungle Hanging Sign",
+    "displayNameRu": "Подвесная табличка из тропического дерева",
+    "states": 3
+  },
+  {
+    "id": 214,
+    "name": "dark_oak_hanging_sign",
+    "displayNameEn": "Dark Oak Hanging Sign",
+    "displayNameRu": "Подвесная табличка из тёмного дуба",
+    "states": 3
+  },
+  {
+    "id": 215,
+    "name": "crimson_hanging_sign",
+    "displayNameEn": "Crimson Hanging Sign",
+    "displayNameRu": "Багровая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 216,
+    "name": "warped_hanging_sign",
+    "displayNameEn": "Warped Hanging Sign",
+    "displayNameRu": "Искажённая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 217,
+    "name": "mangrove_hanging_sign",
+    "displayNameEn": "Mangrove Hanging Sign",
+    "displayNameRu": "Мангровая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 218,
+    "name": "bamboo_hanging_sign",
+    "displayNameEn": "Bamboo Hanging Sign",
+    "displayNameRu": "Бамбуковая подвесная табличка",
+    "states": 3
+  },
+  {
+    "id": 219,
+    "name": "oak_wall_hanging_sign",
+    "displayNameEn": "Oak Hanging Sign",
+    "displayNameRu": "Дубовая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 220,
+    "name": "spruce_wall_hanging_sign",
+    "displayNameEn": "Spruce Hanging Sign",
+    "displayNameRu": "Еловая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 221,
+    "name": "birch_wall_hanging_sign",
+    "displayNameEn": "Birch Hanging Sign",
+    "displayNameRu": "Берёзовая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 222,
+    "name": "acacia_wall_hanging_sign",
+    "displayNameEn": "Acacia Hanging Sign",
+    "displayNameRu": "Акациевая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 223,
+    "name": "cherry_wall_hanging_sign",
+    "displayNameEn": "Cherry Hanging Sign",
+    "displayNameRu": "Вишнёвая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 224,
+    "name": "jungle_wall_hanging_sign",
+    "displayNameEn": "Jungle Hanging Sign",
+    "displayNameRu": "Настенная подвесная табличка из тропического дерева",
+    "states": 2
+  },
+  {
+    "id": 225,
+    "name": "dark_oak_wall_hanging_sign",
+    "displayNameEn": "Dark Oak Hanging Sign",
+    "displayNameRu": "Настенная подвесная табличка из тёмного дуба",
+    "states": 2
+  },
+  {
+    "id": 226,
+    "name": "mangrove_wall_hanging_sign",
+    "displayNameEn": "Mangrove Hanging Sign",
+    "displayNameRu": "Мангровая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 227,
+    "name": "crimson_wall_hanging_sign",
+    "displayNameEn": "Crimson Hanging Sign",
+    "displayNameRu": "Багровая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 228,
+    "name": "warped_wall_hanging_sign",
+    "displayNameEn": "Warped Hanging Sign",
+    "displayNameRu": "Искажённая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 229,
+    "name": "bamboo_wall_hanging_sign",
+    "displayNameEn": "Bamboo Hanging Sign",
+    "displayNameRu": "Бамбуковая настенная подвесная табличка",
+    "states": 2
+  },
+  {
+    "id": 230,
+    "name": "lever",
+    "displayNameEn": "Lever",
+    "displayNameRu": "Рычаг",
+    "states": 3
+  },
+  {
+    "id": 231,
+    "name": "stone_pressure_plate",
+    "displayNameEn": "Stone Pressure Plate",
+    "displayNameRu": "Каменная нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 232,
+    "name": "iron_door",
+    "displayNameEn": "Iron Door",
+    "displayNameRu": "Железная дверь",
+    "states": 5
+  },
+  {
+    "id": 233,
+    "name": "oak_pressure_plate",
+    "displayNameEn": "Oak Pressure Plate",
+    "displayNameRu": "Дубовая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 234,
+    "name": "spruce_pressure_plate",
+    "displayNameEn": "Spruce Pressure Plate",
+    "displayNameRu": "Еловая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 235,
+    "name": "birch_pressure_plate",
+    "displayNameEn": "Birch Pressure Plate",
+    "displayNameRu": "Берёзовая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 236,
+    "name": "jungle_pressure_plate",
+    "displayNameEn": "Jungle Pressure Plate",
+    "displayNameRu": "Нажимная плита из тропического дерева",
+    "states": 1
+  },
+  {
+    "id": 237,
+    "name": "acacia_pressure_plate",
+    "displayNameEn": "Acacia Pressure Plate",
+    "displayNameRu": "Акациевая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 238,
+    "name": "cherry_pressure_plate",
+    "displayNameEn": "Cherry Pressure Plate",
+    "displayNameRu": "Вишнёвая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 239,
+    "name": "dark_oak_pressure_plate",
+    "displayNameEn": "Dark Oak Pressure Plate",
+    "displayNameRu": "Нажимная плита из тёмного дуба",
+    "states": 1
+  },
+  {
+    "id": 240,
+    "name": "mangrove_pressure_plate",
+    "displayNameEn": "Mangrove Pressure Plate",
+    "displayNameRu": "Мангровая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 241,
+    "name": "bamboo_pressure_plate",
+    "displayNameEn": "Bamboo Pressure Plate",
+    "displayNameRu": "Бамбуковая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 242,
+    "name": "redstone_ore",
+    "displayNameEn": "Redstone Ore",
+    "displayNameRu": "Редстоуновая руда",
+    "states": 1
+  },
+  {
+    "id": 243,
+    "name": "deepslate_redstone_ore",
+    "displayNameEn": "Deepslate Redstone Ore",
+    "displayNameRu": "Редстоуноносный глубинный сланец",
+    "states": 1
+  },
+  {
+    "id": 244,
+    "name": "redstone_torch",
+    "displayNameEn": "Redstone Torch",
+    "displayNameRu": "Редстоуновый факел",
+    "states": 1
+  },
+  {
+    "id": 245,
+    "name": "redstone_wall_torch",
+    "displayNameEn": "Redstone Torch",
+    "displayNameRu": "Настенный редстоуновый факел",
+    "states": 2
+  },
+  {
+    "id": 246,
+    "name": "stone_button",
+    "displayNameEn": "Stone Button",
+    "displayNameRu": "Каменная кнопка",
+    "states": 3
+  },
+  {
+    "id": 247,
+    "name": "snow",
+    "displayNameEn": "Snow",
+    "displayNameRu": "Снег",
+    "states": 1
+  },
+  {
+    "id": 248,
+    "name": "ice",
+    "displayNameEn": "Ice",
+    "displayNameRu": "Лёд",
+    "states": 0
+  },
+  {
+    "id": 249,
+    "name": "snow_block",
+    "displayNameEn": "Snow Block",
+    "displayNameRu": "Блок снега",
+    "states": 0
+  },
+  {
+    "id": 250,
+    "name": "cactus",
+    "displayNameEn": "Cactus",
+    "displayNameRu": "Кактус",
+    "states": 1
+  },
+  {
+    "id": 251,
+    "name": "clay",
+    "displayNameEn": "Clay",
+    "displayNameRu": "Глина",
+    "states": 0
+  },
+  {
+    "id": 252,
+    "name": "sugar_cane",
+    "displayNameEn": "Sugar Cane",
+    "displayNameRu": "Сахарный тростник",
+    "states": 1
+  },
+  {
+    "id": 253,
+    "name": "jukebox",
+    "displayNameEn": "Jukebox",
+    "displayNameRu": "Проигрыватель",
+    "states": 1
+  },
+  {
+    "id": 254,
+    "name": "oak_fence",
+    "displayNameEn": "Oak Fence",
+    "displayNameRu": "Дубовый забор",
+    "states": 5
+  },
+  {
+    "id": 255,
+    "name": "netherrack",
+    "displayNameEn": "Netherrack",
+    "displayNameRu": "Незерак",
+    "states": 0
+  },
+  {
+    "id": 256,
+    "name": "soul_sand",
+    "displayNameEn": "Soul Sand",
+    "displayNameRu": "Песок душ",
+    "states": 0
+  },
+  {
+    "id": 257,
+    "name": "soul_soil",
+    "displayNameEn": "Soul Soil",
+    "displayNameRu": "Почва душ",
+    "states": 0
+  },
+  {
+    "id": 258,
+    "name": "basalt",
+    "displayNameEn": "Basalt",
+    "displayNameRu": "Базальт",
+    "states": 1
+  },
+  {
+    "id": 259,
+    "name": "polished_basalt",
+    "displayNameEn": "Polished Basalt",
+    "displayNameRu": "Полированный базальт",
+    "states": 1
+  },
+  {
+    "id": 260,
+    "name": "soul_torch",
+    "displayNameEn": "Soul Torch",
+    "displayNameRu": "Факел душ",
+    "states": 0
+  },
+  {
+    "id": 261,
+    "name": "soul_wall_torch",
+    "displayNameEn": "Soul Torch",
+    "displayNameRu": "Настенный факел душ",
+    "states": 1
+  },
+  {
+    "id": 262,
+    "name": "glowstone",
+    "displayNameEn": "Glowstone",
+    "displayNameRu": "Светокамень",
+    "states": 0
+  },
+  {
+    "id": 263,
+    "name": "nether_portal",
+    "displayNameEn": "Nether Portal",
+    "displayNameRu": "Портал Незера",
+    "states": 1
+  },
+  {
+    "id": 264,
+    "name": "carved_pumpkin",
+    "displayNameEn": "Carved Pumpkin",
+    "displayNameRu": "Вырезанная тыква",
+    "states": 1
+  },
+  {
+    "id": 265,
+    "name": "jack_o_lantern",
+    "displayNameEn": "Jack o'Lantern",
+    "displayNameRu": "Светильник Джека",
+    "states": 1
+  },
+  {
+    "id": 266,
+    "name": "cake",
+    "displayNameEn": "Cake",
+    "displayNameRu": "Торт",
+    "states": 1
+  },
+  {
+    "id": 267,
+    "name": "repeater",
+    "displayNameEn": "Redstone Repeater",
+    "displayNameRu": "Редстоуновый повторитель",
+    "states": 4
+  },
+  {
+    "id": 268,
+    "name": "white_stained_glass",
+    "displayNameEn": "White Stained Glass",
+    "displayNameRu": "Белое стекло",
+    "states": 0
+  },
+  {
+    "id": 269,
+    "name": "orange_stained_glass",
+    "displayNameEn": "Orange Stained Glass",
+    "displayNameRu": "Оранжевое стекло",
+    "states": 0
+  },
+  {
+    "id": 270,
+    "name": "magenta_stained_glass",
+    "displayNameEn": "Magenta Stained Glass",
+    "displayNameRu": "Пурпурное стекло",
+    "states": 0
+  },
+  {
+    "id": 271,
+    "name": "light_blue_stained_glass",
+    "displayNameEn": "Light Blue Stained Glass",
+    "displayNameRu": "Голубое стекло",
+    "states": 0
+  },
+  {
+    "id": 272,
+    "name": "yellow_stained_glass",
+    "displayNameEn": "Yellow Stained Glass",
+    "displayNameRu": "Жёлтое стекло",
+    "states": 0
+  },
+  {
+    "id": 273,
+    "name": "lime_stained_glass",
+    "displayNameEn": "Lime Stained Glass",
+    "displayNameRu": "Лаймовое стекло",
+    "states": 0
+  },
+  {
+    "id": 274,
+    "name": "pink_stained_glass",
+    "displayNameEn": "Pink Stained Glass",
+    "displayNameRu": "Розовое стекло",
+    "states": 0
+  },
+  {
+    "id": 275,
+    "name": "gray_stained_glass",
+    "displayNameEn": "Gray Stained Glass",
+    "displayNameRu": "Серое стекло",
+    "states": 0
+  },
+  {
+    "id": 276,
+    "name": "light_gray_stained_glass",
+    "displayNameEn": "Light Gray Stained Glass",
+    "displayNameRu": "Светло-серое стекло",
+    "states": 0
+  },
+  {
+    "id": 277,
+    "name": "cyan_stained_glass",
+    "displayNameEn": "Cyan Stained Glass",
+    "displayNameRu": "Бирюзовое стекло",
+    "states": 0
+  },
+  {
+    "id": 278,
+    "name": "purple_stained_glass",
+    "displayNameEn": "Purple Stained Glass",
+    "displayNameRu": "Фиолетовое стекло",
+    "states": 0
+  },
+  {
+    "id": 279,
+    "name": "blue_stained_glass",
+    "displayNameEn": "Blue Stained Glass",
+    "displayNameRu": "Синее стекло",
+    "states": 0
+  },
+  {
+    "id": 280,
+    "name": "brown_stained_glass",
+    "displayNameEn": "Brown Stained Glass",
+    "displayNameRu": "Коричневое стекло",
+    "states": 0
+  },
+  {
+    "id": 281,
+    "name": "green_stained_glass",
+    "displayNameEn": "Green Stained Glass",
+    "displayNameRu": "Зелёное стекло",
+    "states": 0
+  },
+  {
+    "id": 282,
+    "name": "red_stained_glass",
+    "displayNameEn": "Red Stained Glass",
+    "displayNameRu": "Красное стекло",
+    "states": 0
+  },
+  {
+    "id": 283,
+    "name": "black_stained_glass",
+    "displayNameEn": "Black Stained Glass",
+    "displayNameRu": "Чёрное стекло",
+    "states": 0
+  },
+  {
+    "id": 284,
+    "name": "oak_trapdoor",
+    "displayNameEn": "Oak Trapdoor",
+    "displayNameRu": "Дубовый люк",
+    "states": 5
+  },
+  {
+    "id": 285,
+    "name": "spruce_trapdoor",
+    "displayNameEn": "Spruce Trapdoor",
+    "displayNameRu": "Еловый люк",
+    "states": 5
+  },
+  {
+    "id": 286,
+    "name": "birch_trapdoor",
+    "displayNameEn": "Birch Trapdoor",
+    "displayNameRu": "Берёзовый люк",
+    "states": 5
+  },
+  {
+    "id": 287,
+    "name": "jungle_trapdoor",
+    "displayNameEn": "Jungle Trapdoor",
+    "displayNameRu": "Люк из тропического дерева",
+    "states": 5
+  },
+  {
+    "id": 288,
+    "name": "acacia_trapdoor",
+    "displayNameEn": "Acacia Trapdoor",
+    "displayNameRu": "Акациевый люк",
+    "states": 5
+  },
+  {
+    "id": 289,
+    "name": "cherry_trapdoor",
+    "displayNameEn": "Cherry Trapdoor",
+    "displayNameRu": "Вишнёвый люк",
+    "states": 5
+  },
+  {
+    "id": 290,
+    "name": "dark_oak_trapdoor",
+    "displayNameEn": "Dark Oak Trapdoor",
+    "displayNameRu": "Люк из тёмного дуба",
+    "states": 5
+  },
+  {
+    "id": 291,
+    "name": "mangrove_trapdoor",
+    "displayNameEn": "Mangrove Trapdoor",
+    "displayNameRu": "Мангровый люк",
+    "states": 5
+  },
+  {
+    "id": 292,
+    "name": "bamboo_trapdoor",
+    "displayNameEn": "Bamboo Trapdoor",
+    "displayNameRu": "Бамбуковый люк",
+    "states": 5
+  },
+  {
+    "id": 293,
+    "name": "stone_bricks",
+    "displayNameEn": "Stone Bricks",
+    "displayNameRu": "Каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 294,
+    "name": "mossy_stone_bricks",
+    "displayNameEn": "Mossy Stone Bricks",
+    "displayNameRu": "Замшелые каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 295,
+    "name": "cracked_stone_bricks",
+    "displayNameEn": "Cracked Stone Bricks",
+    "displayNameRu": "Потрескавшиеся каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 296,
+    "name": "chiseled_stone_bricks",
+    "displayNameEn": "Chiseled Stone Bricks",
+    "displayNameRu": "Резные каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 297,
+    "name": "packed_mud",
+    "displayNameEn": "Packed Mud",
+    "displayNameRu": "Плотная грязь",
+    "states": 0
+  },
+  {
+    "id": 298,
+    "name": "mud_bricks",
+    "displayNameEn": "Mud Bricks",
+    "displayNameRu": "Саманные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 299,
+    "name": "infested_stone",
+    "displayNameEn": "Infested Stone",
+    "displayNameRu": "Заражённый камень",
+    "states": 0
+  },
+  {
+    "id": 300,
+    "name": "infested_cobblestone",
+    "displayNameEn": "Infested Cobblestone",
+    "displayNameRu": "Заражённый булыжник",
+    "states": 0
+  },
+  {
+    "id": 301,
+    "name": "infested_stone_bricks",
+    "displayNameEn": "Infested Stone Bricks",
+    "displayNameRu": "Заражённые каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 302,
+    "name": "infested_mossy_stone_bricks",
+    "displayNameEn": "Infested Mossy Stone Bricks",
+    "displayNameRu": "Заражённые замшелые каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 303,
+    "name": "infested_cracked_stone_bricks",
+    "displayNameEn": "Infested Cracked Stone Bricks",
+    "displayNameRu": "Заражённые потрескавшиеся каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 304,
+    "name": "infested_chiseled_stone_bricks",
+    "displayNameEn": "Infested Chiseled Stone Bricks",
+    "displayNameRu": "Заражённые резные каменные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 305,
+    "name": "brown_mushroom_block",
+    "displayNameEn": "Brown Mushroom Block",
+    "displayNameRu": "Блок коричневого гриба",
+    "states": 6
+  },
+  {
+    "id": 306,
+    "name": "red_mushroom_block",
+    "displayNameEn": "Red Mushroom Block",
+    "displayNameRu": "Блок красного гриба",
+    "states": 6
+  },
+  {
+    "id": 307,
+    "name": "mushroom_stem",
+    "displayNameEn": "Mushroom Stem",
+    "displayNameRu": "Ножка гриба",
+    "states": 6
+  },
+  {
+    "id": 308,
+    "name": "iron_bars",
+    "displayNameEn": "Iron Bars",
+    "displayNameRu": "Железные прутья",
+    "states": 5
+  },
+  {
+    "id": 309,
+    "name": "chain",
+    "displayNameEn": "Chain",
+    "displayNameRu": "Цепь",
+    "states": 2
+  },
+  {
+    "id": 310,
+    "name": "glass_pane",
+    "displayNameEn": "Glass Pane",
+    "displayNameRu": "Стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 311,
+    "name": "pumpkin",
+    "displayNameEn": "Pumpkin",
+    "displayNameRu": "Тыква",
+    "states": 0
+  },
+  {
+    "id": 312,
+    "name": "melon",
+    "displayNameEn": "Melon",
+    "displayNameRu": "Арбуз",
+    "states": 0
+  },
+  {
+    "id": 313,
+    "name": "attached_pumpkin_stem",
+    "displayNameEn": "Attached Pumpkin Stem",
+    "displayNameRu": "Прикреплённый стебель тыквы",
+    "states": 1
+  },
+  {
+    "id": 314,
+    "name": "attached_melon_stem",
+    "displayNameEn": "Attached Melon Stem",
+    "displayNameRu": "Прикреплённый стебель арбуза",
+    "states": 1
+  },
+  {
+    "id": 315,
+    "name": "pumpkin_stem",
+    "displayNameEn": "Pumpkin Stem",
+    "displayNameRu": "Стебель тыквы",
+    "states": 1
+  },
+  {
+    "id": 316,
+    "name": "melon_stem",
+    "displayNameEn": "Melon Stem",
+    "displayNameRu": "Стебель арбуза",
+    "states": 1
+  },
+  {
+    "id": 317,
+    "name": "vine",
+    "displayNameEn": "Vines",
+    "displayNameRu": "Лианы",
+    "states": 5
+  },
+  {
+    "id": 318,
+    "name": "glow_lichen",
+    "displayNameEn": "Glow Lichen",
+    "displayNameRu": "Светящийся лишайник",
+    "states": 7
+  },
+  {
+    "id": 319,
+    "name": "oak_fence_gate",
+    "displayNameEn": "Oak Fence Gate",
+    "displayNameRu": "Дубовая калитка",
+    "states": 4
+  },
+  {
+    "id": 320,
+    "name": "brick_stairs",
+    "displayNameEn": "Brick Stairs",
+    "displayNameRu": "Кирпичные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 321,
+    "name": "stone_brick_stairs",
+    "displayNameEn": "Stone Brick Stairs",
+    "displayNameRu": "Ступеньки из каменного кирпича",
+    "states": 4
+  },
+  {
+    "id": 322,
+    "name": "mud_brick_stairs",
+    "displayNameEn": "Mud Brick Stairs",
+    "displayNameRu": "Саманные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 323,
+    "name": "mycelium",
+    "displayNameEn": "Mycelium",
+    "displayNameRu": "Мицелий",
+    "states": 1
+  },
+  {
+    "id": 324,
+    "name": "lily_pad",
+    "displayNameEn": "Lily Pad",
+    "displayNameRu": "Кувшинка",
+    "states": 0
+  },
+  {
+    "id": 325,
+    "name": "nether_bricks",
+    "displayNameEn": "Nether Bricks",
+    "displayNameRu": "Незерские кирпичи",
+    "states": 0
+  },
+  {
+    "id": 326,
+    "name": "nether_brick_fence",
+    "displayNameEn": "Nether Brick Fence",
+    "displayNameRu": "Забор из незерского кирпича",
+    "states": 5
+  },
+  {
+    "id": 327,
+    "name": "nether_brick_stairs",
+    "displayNameEn": "Nether Brick Stairs",
+    "displayNameRu": "Ступеньки из незерского кирпича",
+    "states": 4
+  },
+  {
+    "id": 328,
+    "name": "nether_wart",
+    "displayNameEn": "Nether Wart",
+    "displayNameRu": "Незерский нарост",
+    "states": 1
+  },
+  {
+    "id": 329,
+    "name": "enchanting_table",
+    "displayNameEn": "Enchanting Table",
+    "displayNameRu": "Чародейский стол",
+    "states": 0
+  },
+  {
+    "id": 330,
+    "name": "brewing_stand",
+    "displayNameEn": "Brewing Stand",
+    "displayNameRu": "Зельеварка",
+    "states": 3
+  },
+  {
+    "id": 331,
+    "name": "cauldron",
+    "displayNameEn": "Cauldron",
+    "displayNameRu": "Котёл",
+    "states": 0
+  },
+  {
+    "id": 332,
+    "name": "water_cauldron",
+    "displayNameEn": "Water Cauldron",
+    "displayNameRu": "Котёл с водой",
+    "states": 1
+  },
+  {
+    "id": 333,
+    "name": "lava_cauldron",
+    "displayNameEn": "Lava Cauldron",
+    "displayNameRu": "Котёл с лавой",
+    "states": 0
+  },
+  {
+    "id": 334,
+    "name": "powder_snow_cauldron",
+    "displayNameEn": "Powder Snow Cauldron",
+    "displayNameRu": "Котёл с рыхлым снегом",
+    "states": 1
+  },
+  {
+    "id": 335,
+    "name": "end_portal",
+    "displayNameEn": "End Portal",
+    "displayNameRu": "Портал Энда",
+    "states": 0
+  },
+  {
+    "id": 336,
+    "name": "end_portal_frame",
+    "displayNameEn": "End Portal Frame",
+    "displayNameRu": "Рамка портала Энда",
+    "states": 2
+  },
+  {
+    "id": 337,
+    "name": "end_stone",
+    "displayNameEn": "End Stone",
+    "displayNameRu": "Эндерняк",
+    "states": 0
+  },
+  {
+    "id": 338,
+    "name": "dragon_egg",
+    "displayNameEn": "Dragon Egg",
+    "displayNameRu": "Яйцо дракона",
+    "states": 0
+  },
+  {
+    "id": 339,
+    "name": "redstone_lamp",
+    "displayNameEn": "Redstone Lamp",
+    "displayNameRu": "Редстоуновая лампа",
+    "states": 1
+  },
+  {
+    "id": 340,
+    "name": "cocoa",
+    "displayNameEn": "Cocoa",
+    "displayNameRu": "Какао",
+    "states": 2
+  },
+  {
+    "id": 341,
+    "name": "sandstone_stairs",
+    "displayNameEn": "Sandstone Stairs",
+    "displayNameRu": "Песчаниковые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 342,
+    "name": "emerald_ore",
+    "displayNameEn": "Emerald Ore",
+    "displayNameRu": "Изумрудная руда",
+    "states": 0
+  },
+  {
+    "id": 343,
+    "name": "deepslate_emerald_ore",
+    "displayNameEn": "Deepslate Emerald Ore",
+    "displayNameRu": "Изумрудоносный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 344,
+    "name": "ender_chest",
+    "displayNameEn": "Ender Chest",
+    "displayNameRu": "Эндер-сундук",
+    "states": 2
+  },
+  {
+    "id": 345,
+    "name": "tripwire_hook",
+    "displayNameEn": "Tripwire Hook",
+    "displayNameRu": "Крюк",
+    "states": 3
+  },
+  {
+    "id": 346,
+    "name": "tripwire",
+    "displayNameEn": "Tripwire",
+    "displayNameRu": "Растяжка",
+    "states": 7
+  },
+  {
+    "id": 347,
+    "name": "emerald_block",
+    "displayNameEn": "Block of Emerald",
+    "displayNameRu": "Изумрудный блок",
+    "states": 0
+  },
+  {
+    "id": 348,
+    "name": "spruce_stairs",
+    "displayNameEn": "Spruce Stairs",
+    "displayNameRu": "Еловые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 349,
+    "name": "birch_stairs",
+    "displayNameEn": "Birch Stairs",
+    "displayNameRu": "Берёзовые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 350,
+    "name": "jungle_stairs",
+    "displayNameEn": "Jungle Stairs",
+    "displayNameRu": "Ступеньки из тропического дерева",
+    "states": 4
+  },
+  {
+    "id": 351,
+    "name": "command_block",
+    "displayNameEn": "Command Block",
+    "displayNameRu": "Командный блок",
+    "states": 2
+  },
+  {
+    "id": 352,
+    "name": "beacon",
+    "displayNameEn": "Beacon",
+    "displayNameRu": "Маяк",
+    "states": 0
+  },
+  {
+    "id": 353,
+    "name": "cobblestone_wall",
+    "displayNameEn": "Cobblestone Wall",
+    "displayNameRu": "Булыжная ограда",
+    "states": 6
+  },
+  {
+    "id": 354,
+    "name": "mossy_cobblestone_wall",
+    "displayNameEn": "Mossy Cobblestone Wall",
+    "displayNameRu": "Замшелая булыжная ограда",
+    "states": 6
+  },
+  {
+    "id": 355,
+    "name": "flower_pot",
+    "displayNameEn": "Flower Pot",
+    "displayNameRu": "Цветочный горшок",
+    "states": 0
+  },
+  {
+    "id": 356,
+    "name": "potted_torchflower",
+    "displayNameEn": "Potted Torchflower",
+    "displayNameRu": "Факельник в горшке",
+    "states": 0
+  },
+  {
+    "id": 357,
+    "name": "potted_oak_sapling",
+    "displayNameEn": "Potted Oak Sapling",
+    "displayNameRu": "Саженец дуба в горшке",
+    "states": 0
+  },
+  {
+    "id": 358,
+    "name": "potted_spruce_sapling",
+    "displayNameEn": "Potted Spruce Sapling",
+    "displayNameRu": "Саженец ели в горшке",
+    "states": 0
+  },
+  {
+    "id": 359,
+    "name": "potted_birch_sapling",
+    "displayNameEn": "Potted Birch Sapling",
+    "displayNameRu": "Саженец берёзы в горшке",
+    "states": 0
+  },
+  {
+    "id": 360,
+    "name": "potted_jungle_sapling",
+    "displayNameEn": "Potted Jungle Sapling",
+    "displayNameRu": "Саженец тропического дерева в горшке",
+    "states": 0
+  },
+  {
+    "id": 361,
+    "name": "potted_acacia_sapling",
+    "displayNameEn": "Potted Acacia Sapling",
+    "displayNameRu": "Саженец акации в горшке",
+    "states": 0
+  },
+  {
+    "id": 362,
+    "name": "potted_cherry_sapling",
+    "displayNameEn": "Potted Cherry Sapling",
+    "displayNameRu": "Саженец вишни в горшке",
+    "states": 0
+  },
+  {
+    "id": 363,
+    "name": "potted_dark_oak_sapling",
+    "displayNameEn": "Potted Dark Oak Sapling",
+    "displayNameRu": "Саженец тёмного дуба в горшке",
+    "states": 0
+  },
+  {
+    "id": 364,
+    "name": "potted_mangrove_propagule",
+    "displayNameEn": "Potted Mangrove Propagule",
+    "displayNameRu": "Мангровый отросток в горшке",
+    "states": 0
+  },
+  {
+    "id": 365,
+    "name": "potted_fern",
+    "displayNameEn": "Potted Fern",
+    "displayNameRu": "Папоротник в горшке",
+    "states": 0
+  },
+  {
+    "id": 366,
+    "name": "potted_dandelion",
+    "displayNameEn": "Potted Dandelion",
+    "displayNameRu": "Одуванчик в горшке",
+    "states": 0
+  },
+  {
+    "id": 367,
+    "name": "potted_poppy",
+    "displayNameEn": "Potted Poppy",
+    "displayNameRu": "Мак в горшке",
+    "states": 0
+  },
+  {
+    "id": 368,
+    "name": "potted_blue_orchid",
+    "displayNameEn": "Potted Blue Orchid",
+    "displayNameRu": "Синяя орхидея в горшке",
+    "states": 0
+  },
+  {
+    "id": 369,
+    "name": "potted_allium",
+    "displayNameEn": "Potted Allium",
+    "displayNameRu": "Лук-батун в горшке",
+    "states": 0
+  },
+  {
+    "id": 370,
+    "name": "potted_azure_bluet",
+    "displayNameEn": "Potted Azure Bluet",
+    "displayNameRu": "Хаустония серая в горшке",
+    "states": 0
+  },
+  {
+    "id": 371,
+    "name": "potted_red_tulip",
+    "displayNameEn": "Potted Red Tulip",
+    "displayNameRu": "Красный тюльпан в горшке",
+    "states": 0
+  },
+  {
+    "id": 372,
+    "name": "potted_orange_tulip",
+    "displayNameEn": "Potted Orange Tulip",
+    "displayNameRu": "Оранжевый тюльпан в горшке",
+    "states": 0
+  },
+  {
+    "id": 373,
+    "name": "potted_white_tulip",
+    "displayNameEn": "Potted White Tulip",
+    "displayNameRu": "Белый тюльпан в горшке",
+    "states": 0
+  },
+  {
+    "id": 374,
+    "name": "potted_pink_tulip",
+    "displayNameEn": "Potted Pink Tulip",
+    "displayNameRu": "Розовый тюльпан в горшке",
+    "states": 0
+  },
+  {
+    "id": 375,
+    "name": "potted_oxeye_daisy",
+    "displayNameEn": "Potted Oxeye Daisy",
+    "displayNameRu": "Ромашка в горшке",
+    "states": 0
+  },
+  {
+    "id": 376,
+    "name": "potted_cornflower",
+    "displayNameEn": "Potted Cornflower",
+    "displayNameRu": "Синий василёк в горшке",
+    "states": 0
+  },
+  {
+    "id": 377,
+    "name": "potted_lily_of_the_valley",
+    "displayNameEn": "Potted Lily of the Valley",
+    "displayNameRu": "Ландыш в горшке",
+    "states": 0
+  },
+  {
+    "id": 378,
+    "name": "potted_wither_rose",
+    "displayNameEn": "Potted Wither Rose",
+    "displayNameRu": "Роза визера в горшке",
+    "states": 0
+  },
+  {
+    "id": 379,
+    "name": "potted_red_mushroom",
+    "displayNameEn": "Potted Red Mushroom",
+    "displayNameRu": "Красный гриб в горшке",
+    "states": 0
+  },
+  {
+    "id": 380,
+    "name": "potted_brown_mushroom",
+    "displayNameEn": "Potted Brown Mushroom",
+    "displayNameRu": "Коричневый гриб в горшке",
+    "states": 0
+  },
+  {
+    "id": 381,
+    "name": "potted_dead_bush",
+    "displayNameEn": "Potted Dead Bush",
+    "displayNameRu": "Мёртвый куст в горшке",
+    "states": 0
+  },
+  {
+    "id": 382,
+    "name": "potted_cactus",
+    "displayNameEn": "Potted Cactus",
+    "displayNameRu": "Кактус в горшке",
+    "states": 0
+  },
+  {
+    "id": 383,
+    "name": "carrots",
+    "displayNameEn": "Carrots",
+    "displayNameRu": "Морковь",
+    "states": 1
+  },
+  {
+    "id": 384,
+    "name": "potatoes",
+    "displayNameEn": "Potatoes",
+    "displayNameRu": "Картофель",
+    "states": 1
+  },
+  {
+    "id": 385,
+    "name": "oak_button",
+    "displayNameEn": "Oak Button",
+    "displayNameRu": "Дубовая кнопка",
+    "states": 3
+  },
+  {
+    "id": 386,
+    "name": "spruce_button",
+    "displayNameEn": "Spruce Button",
+    "displayNameRu": "Еловая кнопка",
+    "states": 3
+  },
+  {
+    "id": 387,
+    "name": "birch_button",
+    "displayNameEn": "Birch Button",
+    "displayNameRu": "Берёзовая кнопка",
+    "states": 3
+  },
+  {
+    "id": 388,
+    "name": "jungle_button",
+    "displayNameEn": "Jungle Button",
+    "displayNameRu": "Кнопка из тропического дерева",
+    "states": 3
+  },
+  {
+    "id": 389,
+    "name": "acacia_button",
+    "displayNameEn": "Acacia Button",
+    "displayNameRu": "Акациевая кнопка",
+    "states": 3
+  },
+  {
+    "id": 390,
+    "name": "cherry_button",
+    "displayNameEn": "Cherry Button",
+    "displayNameRu": "Вишнёвая кнопка",
+    "states": 3
+  },
+  {
+    "id": 391,
+    "name": "dark_oak_button",
+    "displayNameEn": "Dark Oak Button",
+    "displayNameRu": "Кнопка из тёмного дуба",
+    "states": 3
+  },
+  {
+    "id": 392,
+    "name": "mangrove_button",
+    "displayNameEn": "Mangrove Button",
+    "displayNameRu": "Мангровая кнопка",
+    "states": 3
+  },
+  {
+    "id": 393,
+    "name": "bamboo_button",
+    "displayNameEn": "Bamboo Button",
+    "displayNameRu": "Бамбуковая кнопка",
+    "states": 3
+  },
+  {
+    "id": 394,
+    "name": "skeleton_skull",
+    "displayNameEn": "Skeleton Skull",
+    "displayNameRu": "Череп",
+    "states": 2
+  },
+  {
+    "id": 395,
+    "name": "skeleton_wall_skull",
+    "displayNameEn": "Skeleton Skull",
+    "displayNameRu": "Настенный череп",
+    "states": 2
+  },
+  {
+    "id": 396,
+    "name": "wither_skeleton_skull",
+    "displayNameEn": "Wither Skeleton Skull",
+    "displayNameRu": "Череп визер-скелета",
+    "states": 2
+  },
+  {
+    "id": 397,
+    "name": "wither_skeleton_wall_skull",
+    "displayNameEn": "Wither Skeleton Skull",
+    "displayNameRu": "Настенный череп визер-скелета",
+    "states": 2
+  },
+  {
+    "id": 398,
+    "name": "zombie_head",
+    "displayNameEn": "Zombie Head",
+    "displayNameRu": "Голова зомби",
+    "states": 2
+  },
+  {
+    "id": 399,
+    "name": "zombie_wall_head",
+    "displayNameEn": "Zombie Head",
+    "displayNameRu": "Настенная голова зомби",
+    "states": 2
+  },
+  {
+    "id": 400,
+    "name": "player_head",
+    "displayNameEn": "Player Head",
+    "displayNameRu": "Голова игрока",
+    "states": 2
+  },
+  {
+    "id": 401,
+    "name": "player_wall_head",
+    "displayNameEn": "Player Head",
+    "displayNameRu": "Настенная голова игрока",
+    "states": 2
+  },
+  {
+    "id": 402,
+    "name": "creeper_head",
+    "displayNameEn": "Creeper Head",
+    "displayNameRu": "Голова крипера",
+    "states": 2
+  },
+  {
+    "id": 403,
+    "name": "creeper_wall_head",
+    "displayNameEn": "Creeper Head",
+    "displayNameRu": "Настенная голова крипера",
+    "states": 2
+  },
+  {
+    "id": 404,
+    "name": "dragon_head",
+    "displayNameEn": "Dragon Head",
+    "displayNameRu": "Голова дракона",
+    "states": 2
+  },
+  {
+    "id": 405,
+    "name": "dragon_wall_head",
+    "displayNameEn": "Dragon Head",
+    "displayNameRu": "Настенная голова дракона",
+    "states": 2
+  },
+  {
+    "id": 406,
+    "name": "piglin_head",
+    "displayNameEn": "Piglin Head",
+    "displayNameRu": "Голова пиглина",
+    "states": 2
+  },
+  {
+    "id": 407,
+    "name": "piglin_wall_head",
+    "displayNameEn": "Piglin Head",
+    "displayNameRu": "Настенная голова пиглина",
+    "states": 2
+  },
+  {
+    "id": 408,
+    "name": "anvil",
+    "displayNameEn": "Anvil",
+    "displayNameRu": "Наковальня",
+    "states": 1
+  },
+  {
+    "id": 409,
+    "name": "chipped_anvil",
+    "displayNameEn": "Chipped Anvil",
+    "displayNameRu": "Повреждённая наковальня",
+    "states": 1
+  },
+  {
+    "id": 410,
+    "name": "damaged_anvil",
+    "displayNameEn": "Damaged Anvil",
+    "displayNameRu": "Разбитая наковальня",
+    "states": 1
+  },
+  {
+    "id": 411,
+    "name": "trapped_chest",
+    "displayNameEn": "Trapped Chest",
+    "displayNameRu": "Сундук-ловушка",
+    "states": 3
+  },
+  {
+    "id": 412,
+    "name": "light_weighted_pressure_plate",
+    "displayNameEn": "Light Weighted Pressure Plate",
+    "displayNameRu": "Весовая пластина",
+    "states": 1
+  },
+  {
+    "id": 413,
+    "name": "heavy_weighted_pressure_plate",
+    "displayNameEn": "Heavy Weighted Pressure Plate",
+    "displayNameRu": "Большегрузная весовая пластина",
+    "states": 1
+  },
+  {
+    "id": 414,
+    "name": "comparator",
+    "displayNameEn": "Redstone Comparator",
+    "displayNameRu": "Редстоуновый компаратор",
+    "states": 3
+  },
+  {
+    "id": 415,
+    "name": "daylight_detector",
+    "displayNameEn": "Daylight Detector",
+    "displayNameRu": "Датчик дневного света",
+    "states": 2
+  },
+  {
+    "id": 416,
+    "name": "redstone_block",
+    "displayNameEn": "Block of Redstone",
+    "displayNameRu": "Редстоуновый блок",
+    "states": 0
+  },
+  {
+    "id": 417,
+    "name": "nether_quartz_ore",
+    "displayNameEn": "Nether Quartz Ore",
+    "displayNameRu": "Руда незерского кварца",
+    "states": 0
+  },
+  {
+    "id": 418,
+    "name": "hopper",
+    "displayNameEn": "Hopper",
+    "displayNameRu": "Воронка",
+    "states": 2
+  },
+  {
+    "id": 419,
+    "name": "quartz_block",
+    "displayNameEn": "Block of Quartz",
+    "displayNameRu": "Кварцевый блок",
+    "states": 0
+  },
+  {
+    "id": 420,
+    "name": "chiseled_quartz_block",
+    "displayNameEn": "Chiseled Quartz Block",
+    "displayNameRu": "Резной кварцевый блок",
+    "states": 0
+  },
+  {
+    "id": 421,
+    "name": "quartz_pillar",
+    "displayNameEn": "Quartz Pillar",
+    "displayNameRu": "Кварцевая колонна",
+    "states": 1
+  },
+  {
+    "id": 422,
+    "name": "quartz_stairs",
+    "displayNameEn": "Quartz Stairs",
+    "displayNameRu": "Кварцевые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 423,
+    "name": "activator_rail",
+    "displayNameEn": "Activator Rail",
+    "displayNameRu": "Активирующие рельсы",
+    "states": 3
+  },
+  {
+    "id": 424,
+    "name": "dropper",
+    "displayNameEn": "Dropper",
+    "displayNameRu": "Выбрасыватель",
+    "states": 2
+  },
+  {
+    "id": 425,
+    "name": "white_terracotta",
+    "displayNameEn": "White Terracotta",
+    "displayNameRu": "Белая керамика",
+    "states": 0
+  },
+  {
+    "id": 426,
+    "name": "orange_terracotta",
+    "displayNameEn": "Orange Terracotta",
+    "displayNameRu": "Оранжевая керамика",
+    "states": 0
+  },
+  {
+    "id": 427,
+    "name": "magenta_terracotta",
+    "displayNameEn": "Magenta Terracotta",
+    "displayNameRu": "Пурпурная керамика",
+    "states": 0
+  },
+  {
+    "id": 428,
+    "name": "light_blue_terracotta",
+    "displayNameEn": "Light Blue Terracotta",
+    "displayNameRu": "Голубая керамика",
+    "states": 0
+  },
+  {
+    "id": 429,
+    "name": "yellow_terracotta",
+    "displayNameEn": "Yellow Terracotta",
+    "displayNameRu": "Жёлтая керамика",
+    "states": 0
+  },
+  {
+    "id": 430,
+    "name": "lime_terracotta",
+    "displayNameEn": "Lime Terracotta",
+    "displayNameRu": "Лаймовая керамика",
+    "states": 0
+  },
+  {
+    "id": 431,
+    "name": "pink_terracotta",
+    "displayNameEn": "Pink Terracotta",
+    "displayNameRu": "Розовая керамика",
+    "states": 0
+  },
+  {
+    "id": 432,
+    "name": "gray_terracotta",
+    "displayNameEn": "Gray Terracotta",
+    "displayNameRu": "Серая керамика",
+    "states": 0
+  },
+  {
+    "id": 433,
+    "name": "light_gray_terracotta",
+    "displayNameEn": "Light Gray Terracotta",
+    "displayNameRu": "Светло-серая керамика",
+    "states": 0
+  },
+  {
+    "id": 434,
+    "name": "cyan_terracotta",
+    "displayNameEn": "Cyan Terracotta",
+    "displayNameRu": "Бирюзовая керамика",
+    "states": 0
+  },
+  {
+    "id": 435,
+    "name": "purple_terracotta",
+    "displayNameEn": "Purple Terracotta",
+    "displayNameRu": "Фиолетовая керамика",
+    "states": 0
+  },
+  {
+    "id": 436,
+    "name": "blue_terracotta",
+    "displayNameEn": "Blue Terracotta",
+    "displayNameRu": "Синяя керамика",
+    "states": 0
+  },
+  {
+    "id": 437,
+    "name": "brown_terracotta",
+    "displayNameEn": "Brown Terracotta",
+    "displayNameRu": "Коричневая керамика",
+    "states": 0
+  },
+  {
+    "id": 438,
+    "name": "green_terracotta",
+    "displayNameEn": "Green Terracotta",
+    "displayNameRu": "Зелёная керамика",
+    "states": 0
+  },
+  {
+    "id": 439,
+    "name": "red_terracotta",
+    "displayNameEn": "Red Terracotta",
+    "displayNameRu": "Красная керамика",
+    "states": 0
+  },
+  {
+    "id": 440,
+    "name": "black_terracotta",
+    "displayNameEn": "Black Terracotta",
+    "displayNameRu": "Чёрная керамика",
+    "states": 0
+  },
+  {
+    "id": 441,
+    "name": "white_stained_glass_pane",
+    "displayNameEn": "White Stained Glass Pane",
+    "displayNameRu": "Белая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 442,
+    "name": "orange_stained_glass_pane",
+    "displayNameEn": "Orange Stained Glass Pane",
+    "displayNameRu": "Оранжевая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 443,
+    "name": "magenta_stained_glass_pane",
+    "displayNameEn": "Magenta Stained Glass Pane",
+    "displayNameRu": "Пурпурная стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 444,
+    "name": "light_blue_stained_glass_pane",
+    "displayNameEn": "Light Blue Stained Glass Pane",
+    "displayNameRu": "Голубая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 445,
+    "name": "yellow_stained_glass_pane",
+    "displayNameEn": "Yellow Stained Glass Pane",
+    "displayNameRu": "Жёлтая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 446,
+    "name": "lime_stained_glass_pane",
+    "displayNameEn": "Lime Stained Glass Pane",
+    "displayNameRu": "Лаймовая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 447,
+    "name": "pink_stained_glass_pane",
+    "displayNameEn": "Pink Stained Glass Pane",
+    "displayNameRu": "Розовая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 448,
+    "name": "gray_stained_glass_pane",
+    "displayNameEn": "Gray Stained Glass Pane",
+    "displayNameRu": "Серая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 449,
+    "name": "light_gray_stained_glass_pane",
+    "displayNameEn": "Light Gray Stained Glass Pane",
+    "displayNameRu": "Светло-серая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 450,
+    "name": "cyan_stained_glass_pane",
+    "displayNameEn": "Cyan Stained Glass Pane",
+    "displayNameRu": "Бирюзовая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 451,
+    "name": "purple_stained_glass_pane",
+    "displayNameEn": "Purple Stained Glass Pane",
+    "displayNameRu": "Фиолетовая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 452,
+    "name": "blue_stained_glass_pane",
+    "displayNameEn": "Blue Stained Glass Pane",
+    "displayNameRu": "Синяя стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 453,
+    "name": "brown_stained_glass_pane",
+    "displayNameEn": "Brown Stained Glass Pane",
+    "displayNameRu": "Коричневая стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 454,
+    "name": "green_stained_glass_pane",
+    "displayNameEn": "Green Stained Glass Pane",
+    "displayNameRu": "Зелёная стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 455,
+    "name": "red_stained_glass_pane",
+    "displayNameEn": "Red Stained Glass Pane",
+    "displayNameRu": "Красная стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 456,
+    "name": "black_stained_glass_pane",
+    "displayNameEn": "Black Stained Glass Pane",
+    "displayNameRu": "Чёрная стеклянная панель",
+    "states": 5
+  },
+  {
+    "id": 457,
+    "name": "acacia_stairs",
+    "displayNameEn": "Acacia Stairs",
+    "displayNameRu": "Акациевые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 458,
+    "name": "cherry_stairs",
+    "displayNameEn": "Cherry Stairs",
+    "displayNameRu": "Вишнёвые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 459,
+    "name": "dark_oak_stairs",
+    "displayNameEn": "Dark Oak Stairs",
+    "displayNameRu": "Ступеньки из тёмного дуба",
+    "states": 4
+  },
+  {
+    "id": 460,
+    "name": "mangrove_stairs",
+    "displayNameEn": "Mangrove Stairs",
+    "displayNameRu": "Мангровые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 461,
+    "name": "bamboo_stairs",
+    "displayNameEn": "Bamboo Stairs",
+    "displayNameRu": "Бамбуковые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 462,
+    "name": "bamboo_mosaic_stairs",
+    "displayNameEn": "Bamboo Mosaic Stairs",
+    "displayNameRu": "Ступеньки из бамбуковой мозаики",
+    "states": 4
+  },
+  {
+    "id": 463,
+    "name": "slime_block",
+    "displayNameEn": "Slime Block",
+    "displayNameRu": "Блок слизи",
+    "states": 0
+  },
+  {
+    "id": 464,
+    "name": "barrier",
+    "displayNameEn": "Barrier",
+    "displayNameRu": "Барьер",
+    "states": 1
+  },
+  {
+    "id": 465,
+    "name": "light",
+    "displayNameEn": "Light",
+    "displayNameRu": "Свет",
+    "states": 2
+  },
+  {
+    "id": 466,
+    "name": "iron_trapdoor",
+    "displayNameEn": "Iron Trapdoor",
+    "displayNameRu": "Железный люк",
+    "states": 5
+  },
+  {
+    "id": 467,
+    "name": "prismarine",
+    "displayNameEn": "Prismarine",
+    "displayNameRu": "Призмарин",
+    "states": 0
+  },
+  {
+    "id": 468,
+    "name": "prismarine_bricks",
+    "displayNameEn": "Prismarine Bricks",
+    "displayNameRu": "Призмариновые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 469,
+    "name": "dark_prismarine",
+    "displayNameEn": "Dark Prismarine",
+    "displayNameRu": "Тёмный призмарин",
+    "states": 0
+  },
+  {
+    "id": 470,
+    "name": "prismarine_stairs",
+    "displayNameEn": "Prismarine Stairs",
+    "displayNameRu": "Призмариновые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 471,
+    "name": "prismarine_brick_stairs",
+    "displayNameEn": "Prismarine Brick Stairs",
+    "displayNameRu": "Ступеньки из призмаринового кирпича",
+    "states": 4
+  },
+  {
+    "id": 472,
+    "name": "dark_prismarine_stairs",
+    "displayNameEn": "Dark Prismarine Stairs",
+    "displayNameRu": "Ступеньки из тёмного призмарина",
+    "states": 4
+  },
+  {
+    "id": 473,
+    "name": "prismarine_slab",
+    "displayNameEn": "Prismarine Slab",
+    "displayNameRu": "Призмариновая плита",
+    "states": 2
+  },
+  {
+    "id": 474,
+    "name": "prismarine_brick_slab",
+    "displayNameEn": "Prismarine Brick Slab",
+    "displayNameRu": "Плита из призмаринового кирпича",
+    "states": 2
+  },
+  {
+    "id": 475,
+    "name": "dark_prismarine_slab",
+    "displayNameEn": "Dark Prismarine Slab",
+    "displayNameRu": "Плита из тёмного призмарина",
+    "states": 2
+  },
+  {
+    "id": 476,
+    "name": "sea_lantern",
+    "displayNameEn": "Sea Lantern",
+    "displayNameRu": "Морской фонарь",
+    "states": 0
+  },
+  {
+    "id": 477,
+    "name": "hay_block",
+    "displayNameEn": "Hay Bale",
+    "displayNameRu": "Сноп сена",
+    "states": 1
+  },
+  {
+    "id": 478,
+    "name": "white_carpet",
+    "displayNameEn": "White Carpet",
+    "displayNameRu": "Белый ковёр",
+    "states": 0
+  },
+  {
+    "id": 479,
+    "name": "orange_carpet",
+    "displayNameEn": "Orange Carpet",
+    "displayNameRu": "Оранжевый ковёр",
+    "states": 0
+  },
+  {
+    "id": 480,
+    "name": "magenta_carpet",
+    "displayNameEn": "Magenta Carpet",
+    "displayNameRu": "Пурпурный ковёр",
+    "states": 0
+  },
+  {
+    "id": 481,
+    "name": "light_blue_carpet",
+    "displayNameEn": "Light Blue Carpet",
+    "displayNameRu": "Голубой ковёр",
+    "states": 0
+  },
+  {
+    "id": 482,
+    "name": "yellow_carpet",
+    "displayNameEn": "Yellow Carpet",
+    "displayNameRu": "Жёлтый ковёр",
+    "states": 0
+  },
+  {
+    "id": 483,
+    "name": "lime_carpet",
+    "displayNameEn": "Lime Carpet",
+    "displayNameRu": "Лаймовый ковёр",
+    "states": 0
+  },
+  {
+    "id": 484,
+    "name": "pink_carpet",
+    "displayNameEn": "Pink Carpet",
+    "displayNameRu": "Розовый ковёр",
+    "states": 0
+  },
+  {
+    "id": 485,
+    "name": "gray_carpet",
+    "displayNameEn": "Gray Carpet",
+    "displayNameRu": "Серый ковёр",
+    "states": 0
+  },
+  {
+    "id": 486,
+    "name": "light_gray_carpet",
+    "displayNameEn": "Light Gray Carpet",
+    "displayNameRu": "Светло-серый ковёр",
+    "states": 0
+  },
+  {
+    "id": 487,
+    "name": "cyan_carpet",
+    "displayNameEn": "Cyan Carpet",
+    "displayNameRu": "Бирюзовый ковёр",
+    "states": 0
+  },
+  {
+    "id": 488,
+    "name": "purple_carpet",
+    "displayNameEn": "Purple Carpet",
+    "displayNameRu": "Фиолетовый ковёр",
+    "states": 0
+  },
+  {
+    "id": 489,
+    "name": "blue_carpet",
+    "displayNameEn": "Blue Carpet",
+    "displayNameRu": "Синий ковёр",
+    "states": 0
+  },
+  {
+    "id": 490,
+    "name": "brown_carpet",
+    "displayNameEn": "Brown Carpet",
+    "displayNameRu": "Коричневый ковёр",
+    "states": 0
+  },
+  {
+    "id": 491,
+    "name": "green_carpet",
+    "displayNameEn": "Green Carpet",
+    "displayNameRu": "Зелёный ковёр",
+    "states": 0
+  },
+  {
+    "id": 492,
+    "name": "red_carpet",
+    "displayNameEn": "Red Carpet",
+    "displayNameRu": "Красный ковёр",
+    "states": 0
+  },
+  {
+    "id": 493,
+    "name": "black_carpet",
+    "displayNameEn": "Black Carpet",
+    "displayNameRu": "Чёрный ковёр",
+    "states": 0
+  },
+  {
+    "id": 494,
+    "name": "terracotta",
+    "displayNameEn": "Terracotta",
+    "displayNameRu": "Терракота",
+    "states": 0
+  },
+  {
+    "id": 495,
+    "name": "coal_block",
+    "displayNameEn": "Block of Coal",
+    "displayNameRu": "Угольный блок",
+    "states": 0
+  },
+  {
+    "id": 496,
+    "name": "packed_ice",
+    "displayNameEn": "Packed Ice",
+    "displayNameRu": "Плотный лёд",
+    "states": 0
+  },
+  {
+    "id": 497,
+    "name": "sunflower",
+    "displayNameEn": "Sunflower",
+    "displayNameRu": "Подсолнух",
+    "states": 1
+  },
+  {
+    "id": 498,
+    "name": "lilac",
+    "displayNameEn": "Lilac",
+    "displayNameRu": "Сирень",
+    "states": 1
+  },
+  {
+    "id": 499,
+    "name": "rose_bush",
+    "displayNameEn": "Rose Bush",
+    "displayNameRu": "Розовый куст",
+    "states": 1
+  },
+  {
+    "id": 500,
+    "name": "peony",
+    "displayNameEn": "Peony",
+    "displayNameRu": "Пион",
+    "states": 1
+  },
+  {
+    "id": 501,
+    "name": "tall_grass",
+    "displayNameEn": "Tall Grass",
+    "displayNameRu": "Высокая трава",
+    "states": 1
+  },
+  {
+    "id": 502,
+    "name": "large_fern",
+    "displayNameEn": "Large Fern",
+    "displayNameRu": "Раскидистый папоротник",
+    "states": 1
+  },
+  {
+    "id": 503,
+    "name": "white_banner",
+    "displayNameEn": "White Banner",
+    "displayNameRu": "Белый флаг",
+    "states": 1
+  },
+  {
+    "id": 504,
+    "name": "orange_banner",
+    "displayNameEn": "Orange Banner",
+    "displayNameRu": "Оранжевый флаг",
+    "states": 1
+  },
+  {
+    "id": 505,
+    "name": "magenta_banner",
+    "displayNameEn": "Magenta Banner",
+    "displayNameRu": "Пурпурный флаг",
+    "states": 1
+  },
+  {
+    "id": 506,
+    "name": "light_blue_banner",
+    "displayNameEn": "Light Blue Banner",
+    "displayNameRu": "Голубой флаг",
+    "states": 1
+  },
+  {
+    "id": 507,
+    "name": "yellow_banner",
+    "displayNameEn": "Yellow Banner",
+    "displayNameRu": "Жёлтый флаг",
+    "states": 1
+  },
+  {
+    "id": 508,
+    "name": "lime_banner",
+    "displayNameEn": "Lime Banner",
+    "displayNameRu": "Лаймовый флаг",
+    "states": 1
+  },
+  {
+    "id": 509,
+    "name": "pink_banner",
+    "displayNameEn": "Pink Banner",
+    "displayNameRu": "Розовый флаг",
+    "states": 1
+  },
+  {
+    "id": 510,
+    "name": "gray_banner",
+    "displayNameEn": "Gray Banner",
+    "displayNameRu": "Серый флаг",
+    "states": 1
+  },
+  {
+    "id": 511,
+    "name": "light_gray_banner",
+    "displayNameEn": "Light Gray Banner",
+    "displayNameRu": "Светло-серый флаг",
+    "states": 1
+  },
+  {
+    "id": 512,
+    "name": "cyan_banner",
+    "displayNameEn": "Cyan Banner",
+    "displayNameRu": "Бирюзовый флаг",
+    "states": 1
+  },
+  {
+    "id": 513,
+    "name": "purple_banner",
+    "displayNameEn": "Purple Banner",
+    "displayNameRu": "Фиолетовый флаг",
+    "states": 1
+  },
+  {
+    "id": 514,
+    "name": "blue_banner",
+    "displayNameEn": "Blue Banner",
+    "displayNameRu": "Синий флаг",
+    "states": 1
+  },
+  {
+    "id": 515,
+    "name": "brown_banner",
+    "displayNameEn": "Brown Banner",
+    "displayNameRu": "Коричневый флаг",
+    "states": 1
+  },
+  {
+    "id": 516,
+    "name": "green_banner",
+    "displayNameEn": "Green Banner",
+    "displayNameRu": "Зелёный флаг",
+    "states": 1
+  },
+  {
+    "id": 517,
+    "name": "red_banner",
+    "displayNameEn": "Red Banner",
+    "displayNameRu": "Красный флаг",
+    "states": 1
+  },
+  {
+    "id": 518,
+    "name": "black_banner",
+    "displayNameEn": "Black Banner",
+    "displayNameRu": "Чёрный флаг",
+    "states": 1
+  },
+  {
+    "id": 519,
+    "name": "white_wall_banner",
+    "displayNameEn": "White Banner",
+    "displayNameRu": "White Banner",
+    "states": 1
+  },
+  {
+    "id": 520,
+    "name": "orange_wall_banner",
+    "displayNameEn": "Orange Banner",
+    "displayNameRu": "Orange Banner",
+    "states": 1
+  },
+  {
+    "id": 521,
+    "name": "magenta_wall_banner",
+    "displayNameEn": "Magenta Banner",
+    "displayNameRu": "Magenta Banner",
+    "states": 1
+  },
+  {
+    "id": 522,
+    "name": "light_blue_wall_banner",
+    "displayNameEn": "Light Blue Banner",
+    "displayNameRu": "Light Blue Banner",
+    "states": 1
+  },
+  {
+    "id": 523,
+    "name": "yellow_wall_banner",
+    "displayNameEn": "Yellow Banner",
+    "displayNameRu": "Yellow Banner",
+    "states": 1
+  },
+  {
+    "id": 524,
+    "name": "lime_wall_banner",
+    "displayNameEn": "Lime Banner",
+    "displayNameRu": "Lime Banner",
+    "states": 1
+  },
+  {
+    "id": 525,
+    "name": "pink_wall_banner",
+    "displayNameEn": "Pink Banner",
+    "displayNameRu": "Pink Banner",
+    "states": 1
+  },
+  {
+    "id": 526,
+    "name": "gray_wall_banner",
+    "displayNameEn": "Gray Banner",
+    "displayNameRu": "Gray Banner",
+    "states": 1
+  },
+  {
+    "id": 527,
+    "name": "light_gray_wall_banner",
+    "displayNameEn": "Light Gray Banner",
+    "displayNameRu": "Light Gray Banner",
+    "states": 1
+  },
+  {
+    "id": 528,
+    "name": "cyan_wall_banner",
+    "displayNameEn": "Cyan Banner",
+    "displayNameRu": "Cyan Banner",
+    "states": 1
+  },
+  {
+    "id": 529,
+    "name": "purple_wall_banner",
+    "displayNameEn": "Purple Banner",
+    "displayNameRu": "Purple Banner",
+    "states": 1
+  },
+  {
+    "id": 530,
+    "name": "blue_wall_banner",
+    "displayNameEn": "Blue Banner",
+    "displayNameRu": "Blue Banner",
+    "states": 1
+  },
+  {
+    "id": 531,
+    "name": "brown_wall_banner",
+    "displayNameEn": "Brown Banner",
+    "displayNameRu": "Brown Banner",
+    "states": 1
+  },
+  {
+    "id": 532,
+    "name": "green_wall_banner",
+    "displayNameEn": "Green Banner",
+    "displayNameRu": "Green Banner",
+    "states": 1
+  },
+  {
+    "id": 533,
+    "name": "red_wall_banner",
+    "displayNameEn": "Red Banner",
+    "displayNameRu": "Red Banner",
+    "states": 1
+  },
+  {
+    "id": 534,
+    "name": "black_wall_banner",
+    "displayNameEn": "Black Banner",
+    "displayNameRu": "Black Banner",
+    "states": 1
+  },
+  {
+    "id": 535,
+    "name": "red_sandstone",
+    "displayNameEn": "Red Sandstone",
+    "displayNameRu": "Красный песчаник",
+    "states": 0
+  },
+  {
+    "id": 536,
+    "name": "chiseled_red_sandstone",
+    "displayNameEn": "Chiseled Red Sandstone",
+    "displayNameRu": "Резной красный песчаник",
+    "states": 0
+  },
+  {
+    "id": 537,
+    "name": "cut_red_sandstone",
+    "displayNameEn": "Cut Red Sandstone",
+    "displayNameRu": "Пиленый красный песчаник",
+    "states": 0
+  },
+  {
+    "id": 538,
+    "name": "red_sandstone_stairs",
+    "displayNameEn": "Red Sandstone Stairs",
+    "displayNameRu": "Ступеньки из красного песчаника",
+    "states": 4
+  },
+  {
+    "id": 539,
+    "name": "oak_slab",
+    "displayNameEn": "Oak Slab",
+    "displayNameRu": "Дубовая плита",
+    "states": 2
+  },
+  {
+    "id": 540,
+    "name": "spruce_slab",
+    "displayNameEn": "Spruce Slab",
+    "displayNameRu": "Еловая плита",
+    "states": 2
+  },
+  {
+    "id": 541,
+    "name": "birch_slab",
+    "displayNameEn": "Birch Slab",
+    "displayNameRu": "Берёзовая плита",
+    "states": 2
+  },
+  {
+    "id": 542,
+    "name": "jungle_slab",
+    "displayNameEn": "Jungle Slab",
+    "displayNameRu": "Плита из тропического дерева",
+    "states": 2
+  },
+  {
+    "id": 543,
+    "name": "acacia_slab",
+    "displayNameEn": "Acacia Slab",
+    "displayNameRu": "Акациевая плита",
+    "states": 2
+  },
+  {
+    "id": 544,
+    "name": "cherry_slab",
+    "displayNameEn": "Cherry Slab",
+    "displayNameRu": "Вишнёвая плита",
+    "states": 2
+  },
+  {
+    "id": 545,
+    "name": "dark_oak_slab",
+    "displayNameEn": "Dark Oak Slab",
+    "displayNameRu": "Плита из тёмного дуба",
+    "states": 2
+  },
+  {
+    "id": 546,
+    "name": "mangrove_slab",
+    "displayNameEn": "Mangrove Slab",
+    "displayNameRu": "Мангровая плита",
+    "states": 2
+  },
+  {
+    "id": 547,
+    "name": "bamboo_slab",
+    "displayNameEn": "Bamboo Slab",
+    "displayNameRu": "Бамбуковая плита",
+    "states": 2
+  },
+  {
+    "id": 548,
+    "name": "bamboo_mosaic_slab",
+    "displayNameEn": "Bamboo Mosaic Slab",
+    "displayNameRu": "Плита из бамбуковой мозаики",
+    "states": 2
+  },
+  {
+    "id": 549,
+    "name": "stone_slab",
+    "displayNameEn": "Stone Slab",
+    "displayNameRu": "Каменная плита",
+    "states": 2
+  },
+  {
+    "id": 550,
+    "name": "smooth_stone_slab",
+    "displayNameEn": "Smooth Stone Slab",
+    "displayNameRu": "Плита из гладкого камня",
+    "states": 2
+  },
+  {
+    "id": 551,
+    "name": "sandstone_slab",
+    "displayNameEn": "Sandstone Slab",
+    "displayNameRu": "Песчаниковая плита",
+    "states": 2
+  },
+  {
+    "id": 552,
+    "name": "cut_sandstone_slab",
+    "displayNameEn": "Cut Sandstone Slab",
+    "displayNameRu": "Плита из пиленого песчаника",
+    "states": 2
+  },
+  {
+    "id": 553,
+    "name": "petrified_oak_slab",
+    "displayNameEn": "Petrified Oak Slab",
+    "displayNameRu": "Окаменевшая дубовая плита",
+    "states": 2
+  },
+  {
+    "id": 554,
+    "name": "cobblestone_slab",
+    "displayNameEn": "Cobblestone Slab",
+    "displayNameRu": "Булыжная плита",
+    "states": 2
+  },
+  {
+    "id": 555,
+    "name": "brick_slab",
+    "displayNameEn": "Brick Slab",
+    "displayNameRu": "Кирпичная плита",
+    "states": 2
+  },
+  {
+    "id": 556,
+    "name": "stone_brick_slab",
+    "displayNameEn": "Stone Brick Slab",
+    "displayNameRu": "Плита из каменного кирпича",
+    "states": 2
+  },
+  {
+    "id": 557,
+    "name": "mud_brick_slab",
+    "displayNameEn": "Mud Brick Slab",
+    "displayNameRu": "Саманная плита",
+    "states": 2
+  },
+  {
+    "id": 558,
+    "name": "nether_brick_slab",
+    "displayNameEn": "Nether Brick Slab",
+    "displayNameRu": "Плита из незерского кирпича",
+    "states": 2
+  },
+  {
+    "id": 559,
+    "name": "quartz_slab",
+    "displayNameEn": "Quartz Slab",
+    "displayNameRu": "Кварцевая плита",
+    "states": 2
+  },
+  {
+    "id": 560,
+    "name": "red_sandstone_slab",
+    "displayNameEn": "Red Sandstone Slab",
+    "displayNameRu": "Плита из красного песчаника",
+    "states": 2
+  },
+  {
+    "id": 561,
+    "name": "cut_red_sandstone_slab",
+    "displayNameEn": "Cut Red Sandstone Slab",
+    "displayNameRu": "Плита из пиленого красного песчаника",
+    "states": 2
+  },
+  {
+    "id": 562,
+    "name": "purpur_slab",
+    "displayNameEn": "Purpur Slab",
+    "displayNameRu": "Пурпуровая плита",
+    "states": 2
+  },
+  {
+    "id": 563,
+    "name": "smooth_stone",
+    "displayNameEn": "Smooth Stone",
+    "displayNameRu": "Гладкий камень",
+    "states": 0
+  },
+  {
+    "id": 564,
+    "name": "smooth_sandstone",
+    "displayNameEn": "Smooth Sandstone",
+    "displayNameRu": "Гладкий песчаник",
+    "states": 0
+  },
+  {
+    "id": 565,
+    "name": "smooth_quartz",
+    "displayNameEn": "Smooth Quartz Block",
+    "displayNameRu": "Гладкий кварц",
+    "states": 0
+  },
+  {
+    "id": 566,
+    "name": "smooth_red_sandstone",
+    "displayNameEn": "Smooth Red Sandstone",
+    "displayNameRu": "Гладкий красный песчаник",
+    "states": 0
+  },
+  {
+    "id": 567,
+    "name": "spruce_fence_gate",
+    "displayNameEn": "Spruce Fence Gate",
+    "displayNameRu": "Еловая калитка",
+    "states": 4
+  },
+  {
+    "id": 568,
+    "name": "birch_fence_gate",
+    "displayNameEn": "Birch Fence Gate",
+    "displayNameRu": "Берёзовая калитка",
+    "states": 4
+  },
+  {
+    "id": 569,
+    "name": "jungle_fence_gate",
+    "displayNameEn": "Jungle Fence Gate",
+    "displayNameRu": "Калитка из тропического дерева",
+    "states": 4
+  },
+  {
+    "id": 570,
+    "name": "acacia_fence_gate",
+    "displayNameEn": "Acacia Fence Gate",
+    "displayNameRu": "Акациевая калитка",
+    "states": 4
+  },
+  {
+    "id": 571,
+    "name": "cherry_fence_gate",
+    "displayNameEn": "Cherry Fence Gate",
+    "displayNameRu": "Вишнёвая калитка",
+    "states": 4
+  },
+  {
+    "id": 572,
+    "name": "dark_oak_fence_gate",
+    "displayNameEn": "Dark Oak Fence Gate",
+    "displayNameRu": "Калитка из тёмного дуба",
+    "states": 4
+  },
+  {
+    "id": 573,
+    "name": "mangrove_fence_gate",
+    "displayNameEn": "Mangrove Fence Gate",
+    "displayNameRu": "Мангровая калитка",
+    "states": 4
+  },
+  {
+    "id": 574,
+    "name": "bamboo_fence_gate",
+    "displayNameEn": "Bamboo Fence Gate",
+    "displayNameRu": "Бамбуковая калитка",
+    "states": 4
+  },
+  {
+    "id": 575,
+    "name": "spruce_fence",
+    "displayNameEn": "Spruce Fence",
+    "displayNameRu": "Еловый забор",
+    "states": 5
+  },
+  {
+    "id": 576,
+    "name": "birch_fence",
+    "displayNameEn": "Birch Fence",
+    "displayNameRu": "Берёзовый забор",
+    "states": 5
+  },
+  {
+    "id": 577,
+    "name": "jungle_fence",
+    "displayNameEn": "Jungle Fence",
+    "displayNameRu": "Забор из тропического дерева",
+    "states": 5
+  },
+  {
+    "id": 578,
+    "name": "acacia_fence",
+    "displayNameEn": "Acacia Fence",
+    "displayNameRu": "Акациевый забор",
+    "states": 5
+  },
+  {
+    "id": 579,
+    "name": "cherry_fence",
+    "displayNameEn": "Cherry Fence",
+    "displayNameRu": "Вишнёвый забор",
+    "states": 5
+  },
+  {
+    "id": 580,
+    "name": "dark_oak_fence",
+    "displayNameEn": "Dark Oak Fence",
+    "displayNameRu": "Забор из тёмного дуба",
+    "states": 5
+  },
+  {
+    "id": 581,
+    "name": "mangrove_fence",
+    "displayNameEn": "Mangrove Fence",
+    "displayNameRu": "Мангровый забор",
+    "states": 5
+  },
+  {
+    "id": 582,
+    "name": "bamboo_fence",
+    "displayNameEn": "Bamboo Fence",
+    "displayNameRu": "Бамбуковый забор",
+    "states": 5
+  },
+  {
+    "id": 583,
+    "name": "spruce_door",
+    "displayNameEn": "Spruce Door",
+    "displayNameRu": "Еловая дверь",
+    "states": 5
+  },
+  {
+    "id": 584,
+    "name": "birch_door",
+    "displayNameEn": "Birch Door",
+    "displayNameRu": "Берёзовая дверь",
+    "states": 5
+  },
+  {
+    "id": 585,
+    "name": "jungle_door",
+    "displayNameEn": "Jungle Door",
+    "displayNameRu": "Дверь из тропического дерева",
+    "states": 5
+  },
+  {
+    "id": 586,
+    "name": "acacia_door",
+    "displayNameEn": "Acacia Door",
+    "displayNameRu": "Акациевая дверь",
+    "states": 5
+  },
+  {
+    "id": 587,
+    "name": "cherry_door",
+    "displayNameEn": "Cherry Door",
+    "displayNameRu": "Вишнёвая дверь",
+    "states": 5
+  },
+  {
+    "id": 588,
+    "name": "dark_oak_door",
+    "displayNameEn": "Dark Oak Door",
+    "displayNameRu": "Дверь из тёмного дуба",
+    "states": 5
+  },
+  {
+    "id": 589,
+    "name": "mangrove_door",
+    "displayNameEn": "Mangrove Door",
+    "displayNameRu": "Мангровая дверь",
+    "states": 5
+  },
+  {
+    "id": 590,
+    "name": "bamboo_door",
+    "displayNameEn": "Bamboo Door",
+    "displayNameRu": "Бамбуковая дверь",
+    "states": 5
+  },
+  {
+    "id": 591,
+    "name": "end_rod",
+    "displayNameEn": "End Rod",
+    "displayNameRu": "Стержень Энда",
+    "states": 1
+  },
+  {
+    "id": 592,
+    "name": "chorus_plant",
+    "displayNameEn": "Chorus Plant",
+    "displayNameRu": "Хорус",
+    "states": 6
+  },
+  {
+    "id": 593,
+    "name": "chorus_flower",
+    "displayNameEn": "Chorus Flower",
+    "displayNameRu": "Цветок хоруса",
+    "states": 1
+  },
+  {
+    "id": 594,
+    "name": "purpur_block",
+    "displayNameEn": "Purpur Block",
+    "displayNameRu": "Пурпур",
+    "states": 0
+  },
+  {
+    "id": 595,
+    "name": "purpur_pillar",
+    "displayNameEn": "Purpur Pillar",
+    "displayNameRu": "Пурпуровый пилон",
+    "states": 1
+  },
+  {
+    "id": 596,
+    "name": "purpur_stairs",
+    "displayNameEn": "Purpur Stairs",
+    "displayNameRu": "Пурпуровые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 597,
+    "name": "end_stone_bricks",
+    "displayNameEn": "End Stone Bricks",
+    "displayNameRu": "Эндерняковые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 598,
+    "name": "torchflower_crop",
+    "displayNameEn": "Torchflower Crop",
+    "displayNameRu": "Росток факельника",
+    "states": 1
+  },
+  {
+    "id": 599,
+    "name": "pitcher_crop",
+    "displayNameEn": "Pitcher Crop",
+    "displayNameRu": "Росток кувшинницы",
+    "states": 2
+  },
+  {
+    "id": 600,
+    "name": "pitcher_plant",
+    "displayNameEn": "Pitcher Plant",
+    "displayNameRu": "Кувшинница",
+    "states": 1
+  },
+  {
+    "id": 601,
+    "name": "beetroots",
+    "displayNameEn": "Beetroots",
+    "displayNameRu": "Свёкла",
+    "states": 1
+  },
+  {
+    "id": 602,
+    "name": "dirt_path",
+    "displayNameEn": "Dirt Path",
+    "displayNameRu": "Тропинка",
+    "states": 0
+  },
+  {
+    "id": 603,
+    "name": "end_gateway",
+    "displayNameEn": "End Gateway",
+    "displayNameRu": "Врата Энда",
+    "states": 0
+  },
+  {
+    "id": 604,
+    "name": "repeating_command_block",
+    "displayNameEn": "Repeating Command Block",
+    "displayNameRu": "Повторяющий командный блок",
+    "states": 2
+  },
+  {
+    "id": 605,
+    "name": "chain_command_block",
+    "displayNameEn": "Chain Command Block",
+    "displayNameRu": "Последовательный командный блок",
+    "states": 2
+  },
+  {
+    "id": 606,
+    "name": "frosted_ice",
+    "displayNameEn": "Frosted Ice",
+    "displayNameRu": "Талый лёд",
+    "states": 1
+  },
+  {
+    "id": 607,
+    "name": "magma_block",
+    "displayNameEn": "Magma Block",
+    "displayNameRu": "Магма",
+    "states": 0
+  },
+  {
+    "id": 608,
+    "name": "nether_wart_block",
+    "displayNameEn": "Nether Wart Block",
+    "displayNameRu": "Блок незерского нароста",
+    "states": 0
+  },
+  {
+    "id": 609,
+    "name": "red_nether_bricks",
+    "displayNameEn": "Red Nether Bricks",
+    "displayNameRu": "Красные незерские кирпичи",
+    "states": 0
+  },
+  {
+    "id": 610,
+    "name": "bone_block",
+    "displayNameEn": "Bone Block",
+    "displayNameRu": "Костный блок",
+    "states": 1
+  },
+  {
+    "id": 611,
+    "name": "structure_void",
+    "displayNameEn": "Structure Void",
+    "displayNameRu": "Пустой блок",
+    "states": 0
+  },
+  {
+    "id": 612,
+    "name": "observer",
+    "displayNameEn": "Observer",
+    "displayNameRu": "Наблюдатель",
+    "states": 2
+  },
+  {
+    "id": 613,
+    "name": "shulker_box",
+    "displayNameEn": "Shulker Box",
+    "displayNameRu": "Шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 614,
+    "name": "white_shulker_box",
+    "displayNameEn": "White Shulker Box",
+    "displayNameRu": "Белый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 615,
+    "name": "orange_shulker_box",
+    "displayNameEn": "Orange Shulker Box",
+    "displayNameRu": "Оранжевый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 616,
+    "name": "magenta_shulker_box",
+    "displayNameEn": "Magenta Shulker Box",
+    "displayNameRu": "Пурпурный шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 617,
+    "name": "light_blue_shulker_box",
+    "displayNameEn": "Light Blue Shulker Box",
+    "displayNameRu": "Голубой шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 618,
+    "name": "yellow_shulker_box",
+    "displayNameEn": "Yellow Shulker Box",
+    "displayNameRu": "Жёлтый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 619,
+    "name": "lime_shulker_box",
+    "displayNameEn": "Lime Shulker Box",
+    "displayNameRu": "Лаймовый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 620,
+    "name": "pink_shulker_box",
+    "displayNameEn": "Pink Shulker Box",
+    "displayNameRu": "Розовый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 621,
+    "name": "gray_shulker_box",
+    "displayNameEn": "Gray Shulker Box",
+    "displayNameRu": "Серый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 622,
+    "name": "light_gray_shulker_box",
+    "displayNameEn": "Light Gray Shulker Box",
+    "displayNameRu": "Светло-серый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 623,
+    "name": "cyan_shulker_box",
+    "displayNameEn": "Cyan Shulker Box",
+    "displayNameRu": "Бирюзовый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 624,
+    "name": "purple_shulker_box",
+    "displayNameEn": "Purple Shulker Box",
+    "displayNameRu": "Фиолетовый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 625,
+    "name": "blue_shulker_box",
+    "displayNameEn": "Blue Shulker Box",
+    "displayNameRu": "Синий шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 626,
+    "name": "brown_shulker_box",
+    "displayNameEn": "Brown Shulker Box",
+    "displayNameRu": "Коричневый шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 627,
+    "name": "green_shulker_box",
+    "displayNameEn": "Green Shulker Box",
+    "displayNameRu": "Зелёный шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 628,
+    "name": "red_shulker_box",
+    "displayNameEn": "Red Shulker Box",
+    "displayNameRu": "Красный шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 629,
+    "name": "black_shulker_box",
+    "displayNameEn": "Black Shulker Box",
+    "displayNameRu": "Чёрный шалкеровый ящик",
+    "states": 1
+  },
+  {
+    "id": 630,
+    "name": "white_glazed_terracotta",
+    "displayNameEn": "White Glazed Terracotta",
+    "displayNameRu": "Белая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 631,
+    "name": "orange_glazed_terracotta",
+    "displayNameEn": "Orange Glazed Terracotta",
+    "displayNameRu": "Оранжевая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 632,
+    "name": "magenta_glazed_terracotta",
+    "displayNameEn": "Magenta Glazed Terracotta",
+    "displayNameRu": "Пурпурная глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 633,
+    "name": "light_blue_glazed_terracotta",
+    "displayNameEn": "Light Blue Glazed Terracotta",
+    "displayNameRu": "Голубая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 634,
+    "name": "yellow_glazed_terracotta",
+    "displayNameEn": "Yellow Glazed Terracotta",
+    "displayNameRu": "Жёлтая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 635,
+    "name": "lime_glazed_terracotta",
+    "displayNameEn": "Lime Glazed Terracotta",
+    "displayNameRu": "Лаймовая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 636,
+    "name": "pink_glazed_terracotta",
+    "displayNameEn": "Pink Glazed Terracotta",
+    "displayNameRu": "Розовая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 637,
+    "name": "gray_glazed_terracotta",
+    "displayNameEn": "Gray Glazed Terracotta",
+    "displayNameRu": "Серая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 638,
+    "name": "light_gray_glazed_terracotta",
+    "displayNameEn": "Light Gray Glazed Terracotta",
+    "displayNameRu": "Светло-серая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 639,
+    "name": "cyan_glazed_terracotta",
+    "displayNameEn": "Cyan Glazed Terracotta",
+    "displayNameRu": "Бирюзовая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 640,
+    "name": "purple_glazed_terracotta",
+    "displayNameEn": "Purple Glazed Terracotta",
+    "displayNameRu": "Фиолетовая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 641,
+    "name": "blue_glazed_terracotta",
+    "displayNameEn": "Blue Glazed Terracotta",
+    "displayNameRu": "Синяя глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 642,
+    "name": "brown_glazed_terracotta",
+    "displayNameEn": "Brown Glazed Terracotta",
+    "displayNameRu": "Коричневая глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 643,
+    "name": "green_glazed_terracotta",
+    "displayNameEn": "Green Glazed Terracotta",
+    "displayNameRu": "Зелёная глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 644,
+    "name": "red_glazed_terracotta",
+    "displayNameEn": "Red Glazed Terracotta",
+    "displayNameRu": "Красная глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 645,
+    "name": "black_glazed_terracotta",
+    "displayNameEn": "Black Glazed Terracotta",
+    "displayNameRu": "Чёрная глазурованная керамика",
+    "states": 1
+  },
+  {
+    "id": 646,
+    "name": "white_concrete",
+    "displayNameEn": "White Concrete",
+    "displayNameRu": "Белый бетон",
+    "states": 0
+  },
+  {
+    "id": 647,
+    "name": "orange_concrete",
+    "displayNameEn": "Orange Concrete",
+    "displayNameRu": "Оранжевый бетон",
+    "states": 0
+  },
+  {
+    "id": 648,
+    "name": "magenta_concrete",
+    "displayNameEn": "Magenta Concrete",
+    "displayNameRu": "Пурпурный бетон",
+    "states": 0
+  },
+  {
+    "id": 649,
+    "name": "light_blue_concrete",
+    "displayNameEn": "Light Blue Concrete",
+    "displayNameRu": "Голубой бетон",
+    "states": 0
+  },
+  {
+    "id": 650,
+    "name": "yellow_concrete",
+    "displayNameEn": "Yellow Concrete",
+    "displayNameRu": "Жёлтый бетон",
+    "states": 0
+  },
+  {
+    "id": 651,
+    "name": "lime_concrete",
+    "displayNameEn": "Lime Concrete",
+    "displayNameRu": "Лаймовый бетон",
+    "states": 0
+  },
+  {
+    "id": 652,
+    "name": "pink_concrete",
+    "displayNameEn": "Pink Concrete",
+    "displayNameRu": "Розовый бетон",
+    "states": 0
+  },
+  {
+    "id": 653,
+    "name": "gray_concrete",
+    "displayNameEn": "Gray Concrete",
+    "displayNameRu": "Серый бетон",
+    "states": 0
+  },
+  {
+    "id": 654,
+    "name": "light_gray_concrete",
+    "displayNameEn": "Light Gray Concrete",
+    "displayNameRu": "Светло-серый бетон",
+    "states": 0
+  },
+  {
+    "id": 655,
+    "name": "cyan_concrete",
+    "displayNameEn": "Cyan Concrete",
+    "displayNameRu": "Бирюзовый бетон",
+    "states": 0
+  },
+  {
+    "id": 656,
+    "name": "purple_concrete",
+    "displayNameEn": "Purple Concrete",
+    "displayNameRu": "Фиолетовый бетон",
+    "states": 0
+  },
+  {
+    "id": 657,
+    "name": "blue_concrete",
+    "displayNameEn": "Blue Concrete",
+    "displayNameRu": "Синий бетон",
+    "states": 0
+  },
+  {
+    "id": 658,
+    "name": "brown_concrete",
+    "displayNameEn": "Brown Concrete",
+    "displayNameRu": "Коричневый бетон",
+    "states": 0
+  },
+  {
+    "id": 659,
+    "name": "green_concrete",
+    "displayNameEn": "Green Concrete",
+    "displayNameRu": "Зелёный бетон",
+    "states": 0
+  },
+  {
+    "id": 660,
+    "name": "red_concrete",
+    "displayNameEn": "Red Concrete",
+    "displayNameRu": "Красный бетон",
+    "states": 0
+  },
+  {
+    "id": 661,
+    "name": "black_concrete",
+    "displayNameEn": "Black Concrete",
+    "displayNameRu": "Чёрный бетон",
+    "states": 0
+  },
+  {
+    "id": 662,
+    "name": "white_concrete_powder",
+    "displayNameEn": "White Concrete Powder",
+    "displayNameRu": "Белый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 663,
+    "name": "orange_concrete_powder",
+    "displayNameEn": "Orange Concrete Powder",
+    "displayNameRu": "Оранжевый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 664,
+    "name": "magenta_concrete_powder",
+    "displayNameEn": "Magenta Concrete Powder",
+    "displayNameRu": "Пурпурный сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 665,
+    "name": "light_blue_concrete_powder",
+    "displayNameEn": "Light Blue Concrete Powder",
+    "displayNameRu": "Голубой сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 666,
+    "name": "yellow_concrete_powder",
+    "displayNameEn": "Yellow Concrete Powder",
+    "displayNameRu": "Жёлтый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 667,
+    "name": "lime_concrete_powder",
+    "displayNameEn": "Lime Concrete Powder",
+    "displayNameRu": "Лаймовый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 668,
+    "name": "pink_concrete_powder",
+    "displayNameEn": "Pink Concrete Powder",
+    "displayNameRu": "Розовый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 669,
+    "name": "gray_concrete_powder",
+    "displayNameEn": "Gray Concrete Powder",
+    "displayNameRu": "Серый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 670,
+    "name": "light_gray_concrete_powder",
+    "displayNameEn": "Light Gray Concrete Powder",
+    "displayNameRu": "Светло-серый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 671,
+    "name": "cyan_concrete_powder",
+    "displayNameEn": "Cyan Concrete Powder",
+    "displayNameRu": "Бирюзовый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 672,
+    "name": "purple_concrete_powder",
+    "displayNameEn": "Purple Concrete Powder",
+    "displayNameRu": "Фиолетовый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 673,
+    "name": "blue_concrete_powder",
+    "displayNameEn": "Blue Concrete Powder",
+    "displayNameRu": "Синий сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 674,
+    "name": "brown_concrete_powder",
+    "displayNameEn": "Brown Concrete Powder",
+    "displayNameRu": "Коричневый сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 675,
+    "name": "green_concrete_powder",
+    "displayNameEn": "Green Concrete Powder",
+    "displayNameRu": "Зелёный сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 676,
+    "name": "red_concrete_powder",
+    "displayNameEn": "Red Concrete Powder",
+    "displayNameRu": "Красный сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 677,
+    "name": "black_concrete_powder",
+    "displayNameEn": "Black Concrete Powder",
+    "displayNameRu": "Чёрный сухой бетон",
+    "states": 0
+  },
+  {
+    "id": 678,
+    "name": "kelp",
+    "displayNameEn": "Kelp",
+    "displayNameRu": "Ламинария",
+    "states": 1
+  },
+  {
+    "id": 679,
+    "name": "kelp_plant",
+    "displayNameEn": "Kelp Plant",
+    "displayNameRu": "Стебель ламинарии",
+    "states": 0
+  },
+  {
+    "id": 680,
+    "name": "dried_kelp_block",
+    "displayNameEn": "Dried Kelp Block",
+    "displayNameRu": "Блок сушёной ламинарии",
+    "states": 0
+  },
+  {
+    "id": 681,
+    "name": "turtle_egg",
+    "displayNameEn": "Turtle Egg",
+    "displayNameRu": "Черепашье яйцо",
+    "states": 2
+  },
+  {
+    "id": 682,
+    "name": "sniffer_egg",
+    "displayNameEn": "Sniffer Egg",
+    "displayNameRu": "Яйцо нюхача",
+    "states": 1
+  },
+  {
+    "id": 683,
+    "name": "dead_tube_coral_block",
+    "displayNameEn": "Dead Tube Coral Block",
+    "displayNameRu": "Блок мёртвого трубчатого коралла",
+    "states": 0
+  },
+  {
+    "id": 684,
+    "name": "dead_brain_coral_block",
+    "displayNameEn": "Dead Brain Coral Block",
+    "displayNameRu": "Блок мёртвого коралла-мозговика",
+    "states": 0
+  },
+  {
+    "id": 685,
+    "name": "dead_bubble_coral_block",
+    "displayNameEn": "Dead Bubble Coral Block",
+    "displayNameRu": "Блок мёртвого пузырчатого коралла",
+    "states": 0
+  },
+  {
+    "id": 686,
+    "name": "dead_fire_coral_block",
+    "displayNameEn": "Dead Fire Coral Block",
+    "displayNameRu": "Блок мёртвого огненного коралла",
+    "states": 0
+  },
+  {
+    "id": 687,
+    "name": "dead_horn_coral_block",
+    "displayNameEn": "Dead Horn Coral Block",
+    "displayNameRu": "Блок мёртвого рогового коралла",
+    "states": 0
+  },
+  {
+    "id": 688,
+    "name": "tube_coral_block",
+    "displayNameEn": "Tube Coral Block",
+    "displayNameRu": "Блок трубчатого коралла",
+    "states": 0
+  },
+  {
+    "id": 689,
+    "name": "brain_coral_block",
+    "displayNameEn": "Brain Coral Block",
+    "displayNameRu": "Блок коралла-мозговика",
+    "states": 0
+  },
+  {
+    "id": 690,
+    "name": "bubble_coral_block",
+    "displayNameEn": "Bubble Coral Block",
+    "displayNameRu": "Блок пузырчатого коралла",
+    "states": 0
+  },
+  {
+    "id": 691,
+    "name": "fire_coral_block",
+    "displayNameEn": "Fire Coral Block",
+    "displayNameRu": "Блок огненного коралла",
+    "states": 0
+  },
+  {
+    "id": 692,
+    "name": "horn_coral_block",
+    "displayNameEn": "Horn Coral Block",
+    "displayNameRu": "Блок рогового коралла",
+    "states": 0
+  },
+  {
+    "id": 693,
+    "name": "dead_tube_coral",
+    "displayNameEn": "Dead Tube Coral",
+    "displayNameRu": "Мёртвый трубчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 694,
+    "name": "dead_brain_coral",
+    "displayNameEn": "Dead Brain Coral",
+    "displayNameRu": "Мёртвый коралл-мозговик",
+    "states": 1
+  },
+  {
+    "id": 695,
+    "name": "dead_bubble_coral",
+    "displayNameEn": "Dead Bubble Coral",
+    "displayNameRu": "Мёртвый пузырчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 696,
+    "name": "dead_fire_coral",
+    "displayNameEn": "Dead Fire Coral",
+    "displayNameRu": "Мёртвый огненный коралл",
+    "states": 1
+  },
+  {
+    "id": 697,
+    "name": "dead_horn_coral",
+    "displayNameEn": "Dead Horn Coral",
+    "displayNameRu": "Мёртвый роговый коралл",
+    "states": 1
+  },
+  {
+    "id": 698,
+    "name": "tube_coral",
+    "displayNameEn": "Tube Coral",
+    "displayNameRu": "Трубчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 699,
+    "name": "brain_coral",
+    "displayNameEn": "Brain Coral",
+    "displayNameRu": "Коралл-мозговик",
+    "states": 1
+  },
+  {
+    "id": 700,
+    "name": "bubble_coral",
+    "displayNameEn": "Bubble Coral",
+    "displayNameRu": "Пузырчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 701,
+    "name": "fire_coral",
+    "displayNameEn": "Fire Coral",
+    "displayNameRu": "Огненный коралл",
+    "states": 1
+  },
+  {
+    "id": 702,
+    "name": "horn_coral",
+    "displayNameEn": "Horn Coral",
+    "displayNameRu": "Роговый коралл",
+    "states": 1
+  },
+  {
+    "id": 703,
+    "name": "dead_tube_coral_fan",
+    "displayNameEn": "Dead Tube Coral Fan",
+    "displayNameRu": "Мёртвый веерный трубчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 704,
+    "name": "dead_brain_coral_fan",
+    "displayNameEn": "Dead Brain Coral Fan",
+    "displayNameRu": "Мёртвый веерный коралл-мозговик",
+    "states": 1
+  },
+  {
+    "id": 705,
+    "name": "dead_bubble_coral_fan",
+    "displayNameEn": "Dead Bubble Coral Fan",
+    "displayNameRu": "Мёртвый веерный пузырчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 706,
+    "name": "dead_fire_coral_fan",
+    "displayNameEn": "Dead Fire Coral Fan",
+    "displayNameRu": "Мёртвый веерный огненный коралл",
+    "states": 1
+  },
+  {
+    "id": 707,
+    "name": "dead_horn_coral_fan",
+    "displayNameEn": "Dead Horn Coral Fan",
+    "displayNameRu": "Мёртвый веерный роговый коралл",
+    "states": 1
+  },
+  {
+    "id": 708,
+    "name": "tube_coral_fan",
+    "displayNameEn": "Tube Coral Fan",
+    "displayNameRu": "Веерный трубчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 709,
+    "name": "brain_coral_fan",
+    "displayNameEn": "Brain Coral Fan",
+    "displayNameRu": "Веерный коралл-мозговик",
+    "states": 1
+  },
+  {
+    "id": 710,
+    "name": "bubble_coral_fan",
+    "displayNameEn": "Bubble Coral Fan",
+    "displayNameRu": "Веерный пузырчатый коралл",
+    "states": 1
+  },
+  {
+    "id": 711,
+    "name": "fire_coral_fan",
+    "displayNameEn": "Fire Coral Fan",
+    "displayNameRu": "Веерный огненный коралл",
+    "states": 1
+  },
+  {
+    "id": 712,
+    "name": "horn_coral_fan",
+    "displayNameEn": "Horn Coral Fan",
+    "displayNameRu": "Веерный роговый коралл",
+    "states": 1
+  },
+  {
+    "id": 713,
+    "name": "dead_tube_coral_wall_fan",
+    "displayNameEn": "Dead Tube Coral Wall Fan",
+    "displayNameRu": "Мёртвый горизонтальный веерный трубчатый коралл",
+    "states": 2
+  },
+  {
+    "id": 714,
+    "name": "dead_brain_coral_wall_fan",
+    "displayNameEn": "Dead Brain Coral Wall Fan",
+    "displayNameRu": "Мёртвый горизонтальный веерный коралл-мозговик",
+    "states": 2
+  },
+  {
+    "id": 715,
+    "name": "dead_bubble_coral_wall_fan",
+    "displayNameEn": "Dead Bubble Coral Wall Fan",
+    "displayNameRu": "Мёртвый горизонтальный веерный пузырчатый коралл",
+    "states": 2
+  },
+  {
+    "id": 716,
+    "name": "dead_fire_coral_wall_fan",
+    "displayNameEn": "Dead Fire Coral Wall Fan",
+    "displayNameRu": "Мёртвый горизонтальный веерный огненный коралл",
+    "states": 2
+  },
+  {
+    "id": 717,
+    "name": "dead_horn_coral_wall_fan",
+    "displayNameEn": "Dead Horn Coral Wall Fan",
+    "displayNameRu": "Мёртвый горизонтальный веерный роговый коралл",
+    "states": 2
+  },
+  {
+    "id": 718,
+    "name": "tube_coral_wall_fan",
+    "displayNameEn": "Tube Coral Wall Fan",
+    "displayNameRu": "Горизонтальный веерный трубчатый коралл",
+    "states": 2
+  },
+  {
+    "id": 719,
+    "name": "brain_coral_wall_fan",
+    "displayNameEn": "Brain Coral Wall Fan",
+    "displayNameRu": "Горизонтальный веерный коралл-мозговик",
+    "states": 2
+  },
+  {
+    "id": 720,
+    "name": "bubble_coral_wall_fan",
+    "displayNameEn": "Bubble Coral Wall Fan",
+    "displayNameRu": "Горизонтальный веерный пузырчатый коралл",
+    "states": 2
+  },
+  {
+    "id": 721,
+    "name": "fire_coral_wall_fan",
+    "displayNameEn": "Fire Coral Wall Fan",
+    "displayNameRu": "Горизонтальный веерный огненный коралл",
+    "states": 2
+  },
+  {
+    "id": 722,
+    "name": "horn_coral_wall_fan",
+    "displayNameEn": "Horn Coral Wall Fan",
+    "displayNameRu": "Горизонтальный веерный роговый коралл",
+    "states": 2
+  },
+  {
+    "id": 723,
+    "name": "sea_pickle",
+    "displayNameEn": "Sea Pickle",
+    "displayNameRu": "Морской огурец",
+    "states": 2
+  },
+  {
+    "id": 724,
+    "name": "blue_ice",
+    "displayNameEn": "Blue Ice",
+    "displayNameRu": "Синий лёд",
+    "states": 0
+  },
+  {
+    "id": 725,
+    "name": "conduit",
+    "displayNameEn": "Conduit",
+    "displayNameRu": "Морской источник",
+    "states": 1
+  },
+  {
+    "id": 726,
+    "name": "bamboo_sapling",
+    "displayNameEn": "Bamboo Shoot",
+    "displayNameRu": "Побег бамбука",
+    "states": 0
+  },
+  {
+    "id": 727,
+    "name": "bamboo",
+    "displayNameEn": "Bamboo",
+    "displayNameRu": "Бамбук",
+    "states": 3
+  },
+  {
+    "id": 728,
+    "name": "potted_bamboo",
+    "displayNameEn": "Potted Bamboo",
+    "displayNameRu": "Бамбук в горшке",
+    "states": 0
+  },
+  {
+    "id": 729,
+    "name": "void_air",
+    "displayNameEn": "Void Air",
+    "displayNameRu": "Вакуум",
+    "states": 0
+  },
+  {
+    "id": 730,
+    "name": "cave_air",
+    "displayNameEn": "Cave Air",
+    "displayNameRu": "Пещерный воздух",
+    "states": 0
+  },
+  {
+    "id": 731,
+    "name": "bubble_column",
+    "displayNameEn": "Bubble Column",
+    "displayNameRu": "Колонна пузырей",
+    "states": 1
+  },
+  {
+    "id": 732,
+    "name": "polished_granite_stairs",
+    "displayNameEn": "Polished Granite Stairs",
+    "displayNameRu": "Ступеньки из полированного гранита",
+    "states": 4
+  },
+  {
+    "id": 733,
+    "name": "smooth_red_sandstone_stairs",
+    "displayNameEn": "Smooth Red Sandstone Stairs",
+    "displayNameRu": "Ступеньки из гладкого красного песчаника",
+    "states": 4
+  },
+  {
+    "id": 734,
+    "name": "mossy_stone_brick_stairs",
+    "displayNameEn": "Mossy Stone Brick Stairs",
+    "displayNameRu": "Ступеньки из замшелого каменного кирпича",
+    "states": 4
+  },
+  {
+    "id": 735,
+    "name": "polished_diorite_stairs",
+    "displayNameEn": "Polished Diorite Stairs",
+    "displayNameRu": "Ступеньки из полированного диорита",
+    "states": 4
+  },
+  {
+    "id": 736,
+    "name": "mossy_cobblestone_stairs",
+    "displayNameEn": "Mossy Cobblestone Stairs",
+    "displayNameRu": "Замшелые булыжные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 737,
+    "name": "end_stone_brick_stairs",
+    "displayNameEn": "End Stone Brick Stairs",
+    "displayNameRu": "Ступеньки из эндернякового кирпича",
+    "states": 4
+  },
+  {
+    "id": 738,
+    "name": "stone_stairs",
+    "displayNameEn": "Stone Stairs",
+    "displayNameRu": "Каменные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 739,
+    "name": "smooth_sandstone_stairs",
+    "displayNameEn": "Smooth Sandstone Stairs",
+    "displayNameRu": "Ступеньки из гладкого песчаника",
+    "states": 4
+  },
+  {
+    "id": 740,
+    "name": "smooth_quartz_stairs",
+    "displayNameEn": "Smooth Quartz Stairs",
+    "displayNameRu": "Ступеньки из гладкого кварца",
+    "states": 4
+  },
+  {
+    "id": 741,
+    "name": "granite_stairs",
+    "displayNameEn": "Granite Stairs",
+    "displayNameRu": "Гранитные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 742,
+    "name": "andesite_stairs",
+    "displayNameEn": "Andesite Stairs",
+    "displayNameRu": "Андезитовые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 743,
+    "name": "red_nether_brick_stairs",
+    "displayNameEn": "Red Nether Brick Stairs",
+    "displayNameRu": "Ступеньки из красного незерского кирпича",
+    "states": 4
+  },
+  {
+    "id": 744,
+    "name": "polished_andesite_stairs",
+    "displayNameEn": "Polished Andesite Stairs",
+    "displayNameRu": "Ступеньки из полированного андезита",
+    "states": 4
+  },
+  {
+    "id": 745,
+    "name": "diorite_stairs",
+    "displayNameEn": "Diorite Stairs",
+    "displayNameRu": "Диоритовые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 746,
+    "name": "polished_granite_slab",
+    "displayNameEn": "Polished Granite Slab",
+    "displayNameRu": "Плита из полированного гранита",
+    "states": 2
+  },
+  {
+    "id": 747,
+    "name": "smooth_red_sandstone_slab",
+    "displayNameEn": "Smooth Red Sandstone Slab",
+    "displayNameRu": "Плита из гладкого красного песчаника",
+    "states": 2
+  },
+  {
+    "id": 748,
+    "name": "mossy_stone_brick_slab",
+    "displayNameEn": "Mossy Stone Brick Slab",
+    "displayNameRu": "Плита из замшелого каменного кирпича",
+    "states": 2
+  },
+  {
+    "id": 749,
+    "name": "polished_diorite_slab",
+    "displayNameEn": "Polished Diorite Slab",
+    "displayNameRu": "Плита из полированного диорита",
+    "states": 2
+  },
+  {
+    "id": 750,
+    "name": "mossy_cobblestone_slab",
+    "displayNameEn": "Mossy Cobblestone Slab",
+    "displayNameRu": "Замшелая булыжная плита",
+    "states": 2
+  },
+  {
+    "id": 751,
+    "name": "end_stone_brick_slab",
+    "displayNameEn": "End Stone Brick Slab",
+    "displayNameRu": "Плита из эндернякового кирпича",
+    "states": 2
+  },
+  {
+    "id": 752,
+    "name": "smooth_sandstone_slab",
+    "displayNameEn": "Smooth Sandstone Slab",
+    "displayNameRu": "Плита из гладкого песчаника",
+    "states": 2
+  },
+  {
+    "id": 753,
+    "name": "smooth_quartz_slab",
+    "displayNameEn": "Smooth Quartz Slab",
+    "displayNameRu": "Плита из гладкого кварца",
+    "states": 2
+  },
+  {
+    "id": 754,
+    "name": "granite_slab",
+    "displayNameEn": "Granite Slab",
+    "displayNameRu": "Гранитная плита",
+    "states": 2
+  },
+  {
+    "id": 755,
+    "name": "andesite_slab",
+    "displayNameEn": "Andesite Slab",
+    "displayNameRu": "Андезитовая плита",
+    "states": 2
+  },
+  {
+    "id": 756,
+    "name": "red_nether_brick_slab",
+    "displayNameEn": "Red Nether Brick Slab",
+    "displayNameRu": "Плита из красного незерского кирпича",
+    "states": 2
+  },
+  {
+    "id": 757,
+    "name": "polished_andesite_slab",
+    "displayNameEn": "Polished Andesite Slab",
+    "displayNameRu": "Плита из полированного андезита",
+    "states": 2
+  },
+  {
+    "id": 758,
+    "name": "diorite_slab",
+    "displayNameEn": "Diorite Slab",
+    "displayNameRu": "Диоритовая плита",
+    "states": 2
+  },
+  {
+    "id": 759,
+    "name": "brick_wall",
+    "displayNameEn": "Brick Wall",
+    "displayNameRu": "Кирпичная ограда",
+    "states": 6
+  },
+  {
+    "id": 760,
+    "name": "prismarine_wall",
+    "displayNameEn": "Prismarine Wall",
+    "displayNameRu": "Призмариновая ограда",
+    "states": 6
+  },
+  {
+    "id": 761,
+    "name": "red_sandstone_wall",
+    "displayNameEn": "Red Sandstone Wall",
+    "displayNameRu": "Ограда из красного песчаника",
+    "states": 6
+  },
+  {
+    "id": 762,
+    "name": "mossy_stone_brick_wall",
+    "displayNameEn": "Mossy Stone Brick Wall",
+    "displayNameRu": "Ограда из замшелого каменного кирпича",
+    "states": 6
+  },
+  {
+    "id": 763,
+    "name": "granite_wall",
+    "displayNameEn": "Granite Wall",
+    "displayNameRu": "Гранитная ограда",
+    "states": 6
+  },
+  {
+    "id": 764,
+    "name": "stone_brick_wall",
+    "displayNameEn": "Stone Brick Wall",
+    "displayNameRu": "Ограда из каменного кирпича",
+    "states": 6
+  },
+  {
+    "id": 765,
+    "name": "mud_brick_wall",
+    "displayNameEn": "Mud Brick Wall",
+    "displayNameRu": "Саманная ограда",
+    "states": 6
+  },
+  {
+    "id": 766,
+    "name": "nether_brick_wall",
+    "displayNameEn": "Nether Brick Wall",
+    "displayNameRu": "Ограда из незерского кирпича",
+    "states": 6
+  },
+  {
+    "id": 767,
+    "name": "andesite_wall",
+    "displayNameEn": "Andesite Wall",
+    "displayNameRu": "Андезитовая ограда",
+    "states": 6
+  },
+  {
+    "id": 768,
+    "name": "red_nether_brick_wall",
+    "displayNameEn": "Red Nether Brick Wall",
+    "displayNameRu": "Ограда из красного незерского кирпича",
+    "states": 6
+  },
+  {
+    "id": 769,
+    "name": "sandstone_wall",
+    "displayNameEn": "Sandstone Wall",
+    "displayNameRu": "Песчаниковая ограда",
+    "states": 6
+  },
+  {
+    "id": 770,
+    "name": "end_stone_brick_wall",
+    "displayNameEn": "End Stone Brick Wall",
+    "displayNameRu": "Ограда из эндернякового кирпича",
+    "states": 6
+  },
+  {
+    "id": 771,
+    "name": "diorite_wall",
+    "displayNameEn": "Diorite Wall",
+    "displayNameRu": "Диоритовая ограда",
+    "states": 6
+  },
+  {
+    "id": 772,
+    "name": "scaffolding",
+    "displayNameEn": "Scaffolding",
+    "displayNameRu": "Подмостки",
+    "states": 3
+  },
+  {
+    "id": 773,
+    "name": "loom",
+    "displayNameEn": "Loom",
+    "displayNameRu": "Ткацкий станок",
+    "states": 1
+  },
+  {
+    "id": 774,
+    "name": "barrel",
+    "displayNameEn": "Barrel",
+    "displayNameRu": "Бочка",
+    "states": 2
+  },
+  {
+    "id": 775,
+    "name": "smoker",
+    "displayNameEn": "Smoker",
+    "displayNameRu": "Коптильня",
+    "states": 2
+  },
+  {
+    "id": 776,
+    "name": "blast_furnace",
+    "displayNameEn": "Blast Furnace",
+    "displayNameRu": "Плавильная печь",
+    "states": 2
+  },
+  {
+    "id": 777,
+    "name": "cartography_table",
+    "displayNameEn": "Cartography Table",
+    "displayNameRu": "Стол картографа",
+    "states": 0
+  },
+  {
+    "id": 778,
+    "name": "fletching_table",
+    "displayNameEn": "Fletching Table",
+    "displayNameRu": "Стол лучника",
+    "states": 0
+  },
+  {
+    "id": 779,
+    "name": "grindstone",
+    "displayNameEn": "Grindstone",
+    "displayNameRu": "Точило",
+    "states": 2
+  },
+  {
+    "id": 780,
+    "name": "lectern",
+    "displayNameEn": "Lectern",
+    "displayNameRu": "Кафедра",
+    "states": 3
+  },
+  {
+    "id": 781,
+    "name": "smithing_table",
+    "displayNameEn": "Smithing Table",
+    "displayNameRu": "Стол кузнеца",
+    "states": 0
+  },
+  {
+    "id": 782,
+    "name": "stonecutter",
+    "displayNameEn": "Stonecutter",
+    "displayNameRu": "Камнерез",
+    "states": 1
+  },
+  {
+    "id": 783,
+    "name": "bell",
+    "displayNameEn": "Bell",
+    "displayNameRu": "Колокол",
+    "states": 3
+  },
+  {
+    "id": 784,
+    "name": "lantern",
+    "displayNameEn": "Lantern",
+    "displayNameRu": "Фонарь",
+    "states": 2
+  },
+  {
+    "id": 785,
+    "name": "soul_lantern",
+    "displayNameEn": "Soul Lantern",
+    "displayNameRu": "Фонарь душ",
+    "states": 2
+  },
+  {
+    "id": 786,
+    "name": "campfire",
+    "displayNameEn": "Campfire",
+    "displayNameRu": "Костёр",
+    "states": 4
+  },
+  {
+    "id": 787,
+    "name": "soul_campfire",
+    "displayNameEn": "Soul Campfire",
+    "displayNameRu": "Костёр душ",
+    "states": 4
+  },
+  {
+    "id": 788,
+    "name": "sweet_berry_bush",
+    "displayNameEn": "Sweet Berry Bush",
+    "displayNameRu": "Куст сладких ягод",
+    "states": 1
+  },
+  {
+    "id": 789,
+    "name": "warped_stem",
+    "displayNameEn": "Warped Stem",
+    "displayNameRu": "Искажённый стебель",
+    "states": 1
+  },
+  {
+    "id": 790,
+    "name": "stripped_warped_stem",
+    "displayNameEn": "Stripped Warped Stem",
+    "displayNameRu": "Очищенный искажённый стебель",
+    "states": 1
+  },
+  {
+    "id": 791,
+    "name": "warped_hyphae",
+    "displayNameEn": "Warped Hyphae",
+    "displayNameRu": "Искажённые гифы",
+    "states": 1
+  },
+  {
+    "id": 792,
+    "name": "stripped_warped_hyphae",
+    "displayNameEn": "Stripped Warped Hyphae",
+    "displayNameRu": "Очищенные искажённые гифы",
+    "states": 1
+  },
+  {
+    "id": 793,
+    "name": "warped_nylium",
+    "displayNameEn": "Warped Nylium",
+    "displayNameRu": "Искажённый нилий",
+    "states": 0
+  },
+  {
+    "id": 794,
+    "name": "warped_fungus",
+    "displayNameEn": "Warped Fungus",
+    "displayNameRu": "Искажённый гриб",
+    "states": 0
+  },
+  {
+    "id": 795,
+    "name": "warped_wart_block",
+    "displayNameEn": "Warped Wart Block",
+    "displayNameRu": "Блок искажённого нароста",
+    "states": 0
+  },
+  {
+    "id": 796,
+    "name": "warped_roots",
+    "displayNameEn": "Warped Roots",
+    "displayNameRu": "Искажённые корни",
+    "states": 0
+  },
+  {
+    "id": 797,
+    "name": "nether_sprouts",
+    "displayNameEn": "Nether Sprouts",
+    "displayNameRu": "Незерские ростки",
+    "states": 0
+  },
+  {
+    "id": 798,
+    "name": "crimson_stem",
+    "displayNameEn": "Crimson Stem",
+    "displayNameRu": "Багровый стебель",
+    "states": 1
+  },
+  {
+    "id": 799,
+    "name": "stripped_crimson_stem",
+    "displayNameEn": "Stripped Crimson Stem",
+    "displayNameRu": "Очищенный багровый стебель",
+    "states": 1
+  },
+  {
+    "id": 800,
+    "name": "crimson_hyphae",
+    "displayNameEn": "Crimson Hyphae",
+    "displayNameRu": "Багровые гифы",
+    "states": 1
+  },
+  {
+    "id": 801,
+    "name": "stripped_crimson_hyphae",
+    "displayNameEn": "Stripped Crimson Hyphae",
+    "displayNameRu": "Очищенные багровые гифы",
+    "states": 1
+  },
+  {
+    "id": 802,
+    "name": "crimson_nylium",
+    "displayNameEn": "Crimson Nylium",
+    "displayNameRu": "Багровый нилий",
+    "states": 0
+  },
+  {
+    "id": 803,
+    "name": "crimson_fungus",
+    "displayNameEn": "Crimson Fungus",
+    "displayNameRu": "Багровый гриб",
+    "states": 0
+  },
+  {
+    "id": 804,
+    "name": "shroomlight",
+    "displayNameEn": "Shroomlight",
+    "displayNameRu": "Грибосвет",
+    "states": 0
+  },
+  {
+    "id": 805,
+    "name": "weeping_vines",
+    "displayNameEn": "Weeping Vines",
+    "displayNameRu": "Плакучая лоза",
+    "states": 1
+  },
+  {
+    "id": 806,
+    "name": "weeping_vines_plant",
+    "displayNameEn": "Weeping Vines Plant",
+    "displayNameRu": "Стебель плакучей лозы",
+    "states": 0
+  },
+  {
+    "id": 807,
+    "name": "twisting_vines",
+    "displayNameEn": "Twisting Vines",
+    "displayNameRu": "Вьющаяся лоза",
+    "states": 1
+  },
+  {
+    "id": 808,
+    "name": "twisting_vines_plant",
+    "displayNameEn": "Twisting Vines Plant",
+    "displayNameRu": "Стебель вьющейся лозы",
+    "states": 0
+  },
+  {
+    "id": 809,
+    "name": "crimson_roots",
+    "displayNameEn": "Crimson Roots",
+    "displayNameRu": "Багровые корни",
+    "states": 0
+  },
+  {
+    "id": 810,
+    "name": "crimson_planks",
+    "displayNameEn": "Crimson Planks",
+    "displayNameRu": "Багровые доски",
+    "states": 0
+  },
+  {
+    "id": 811,
+    "name": "warped_planks",
+    "displayNameEn": "Warped Planks",
+    "displayNameRu": "Искажённые доски",
+    "states": 0
+  },
+  {
+    "id": 812,
+    "name": "crimson_slab",
+    "displayNameEn": "Crimson Slab",
+    "displayNameRu": "Багровая плита",
+    "states": 2
+  },
+  {
+    "id": 813,
+    "name": "warped_slab",
+    "displayNameEn": "Warped Slab",
+    "displayNameRu": "Искажённая плита",
+    "states": 2
+  },
+  {
+    "id": 814,
+    "name": "crimson_pressure_plate",
+    "displayNameEn": "Crimson Pressure Plate",
+    "displayNameRu": "Багровая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 815,
+    "name": "warped_pressure_plate",
+    "displayNameEn": "Warped Pressure Plate",
+    "displayNameRu": "Искажённая нажимная плита",
+    "states": 1
+  },
+  {
+    "id": 816,
+    "name": "crimson_fence",
+    "displayNameEn": "Crimson Fence",
+    "displayNameRu": "Багровый забор",
+    "states": 5
+  },
+  {
+    "id": 817,
+    "name": "warped_fence",
+    "displayNameEn": "Warped Fence",
+    "displayNameRu": "Искажённый забор",
+    "states": 5
+  },
+  {
+    "id": 818,
+    "name": "crimson_trapdoor",
+    "displayNameEn": "Crimson Trapdoor",
+    "displayNameRu": "Багровый люк",
+    "states": 5
+  },
+  {
+    "id": 819,
+    "name": "warped_trapdoor",
+    "displayNameEn": "Warped Trapdoor",
+    "displayNameRu": "Искажённый люк",
+    "states": 5
+  },
+  {
+    "id": 820,
+    "name": "crimson_fence_gate",
+    "displayNameEn": "Crimson Fence Gate",
+    "displayNameRu": "Багровая калитка",
+    "states": 4
+  },
+  {
+    "id": 821,
+    "name": "warped_fence_gate",
+    "displayNameEn": "Warped Fence Gate",
+    "displayNameRu": "Искажённая калитка",
+    "states": 4
+  },
+  {
+    "id": 822,
+    "name": "crimson_stairs",
+    "displayNameEn": "Crimson Stairs",
+    "displayNameRu": "Багровые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 823,
+    "name": "warped_stairs",
+    "displayNameEn": "Warped Stairs",
+    "displayNameRu": "Искажённые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 824,
+    "name": "crimson_button",
+    "displayNameEn": "Crimson Button",
+    "displayNameRu": "Багровая кнопка",
+    "states": 3
+  },
+  {
+    "id": 825,
+    "name": "warped_button",
+    "displayNameEn": "Warped Button",
+    "displayNameRu": "Искажённая кнопка",
+    "states": 3
+  },
+  {
+    "id": 826,
+    "name": "crimson_door",
+    "displayNameEn": "Crimson Door",
+    "displayNameRu": "Багровая дверь",
+    "states": 5
+  },
+  {
+    "id": 827,
+    "name": "warped_door",
+    "displayNameEn": "Warped Door",
+    "displayNameRu": "Искажённая дверь",
+    "states": 5
+  },
+  {
+    "id": 828,
+    "name": "crimson_sign",
+    "displayNameEn": "Crimson Sign",
+    "displayNameRu": "Багровая табличка",
+    "states": 2
+  },
+  {
+    "id": 829,
+    "name": "warped_sign",
+    "displayNameEn": "Warped Sign",
+    "displayNameRu": "Искажённая табличка",
+    "states": 2
+  },
+  {
+    "id": 830,
+    "name": "crimson_wall_sign",
+    "displayNameEn": "Crimson Sign",
+    "displayNameRu": "Багровая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 831,
+    "name": "warped_wall_sign",
+    "displayNameEn": "Warped Sign",
+    "displayNameRu": "Искажённая настенная табличка",
+    "states": 2
+  },
+  {
+    "id": 832,
+    "name": "structure_block",
+    "displayNameEn": "Structure Block",
+    "displayNameRu": "Блок-конструктор",
+    "states": 1
+  },
+  {
+    "id": 833,
+    "name": "jigsaw",
+    "displayNameEn": "Jigsaw Block",
+    "displayNameRu": "Пазл",
+    "states": 1
+  },
+  {
+    "id": 834,
+    "name": "composter",
+    "displayNameEn": "Composter",
+    "displayNameRu": "Компостница",
+    "states": 1
+  },
+  {
+    "id": 835,
+    "name": "target",
+    "displayNameEn": "Target",
+    "displayNameRu": "Мишень",
+    "states": 1
+  },
+  {
+    "id": 836,
+    "name": "bee_nest",
+    "displayNameEn": "Bee Nest",
+    "displayNameRu": "Пчелиное гнездо",
+    "states": 2
+  },
+  {
+    "id": 837,
+    "name": "beehive",
+    "displayNameEn": "Beehive",
+    "displayNameRu": "Улей",
+    "states": 2
+  },
+  {
+    "id": 838,
+    "name": "honey_block",
+    "displayNameEn": "Honey Block",
+    "displayNameRu": "Блок мёда",
+    "states": 0
+  },
+  {
+    "id": 839,
+    "name": "honeycomb_block",
+    "displayNameEn": "Honeycomb Block",
+    "displayNameRu": "Блок пчелиных сот",
+    "states": 0
+  },
+  {
+    "id": 840,
+    "name": "netherite_block",
+    "displayNameEn": "Block of Netherite",
+    "displayNameRu": "Незеритовый блок",
+    "states": 0
+  },
+  {
+    "id": 841,
+    "name": "ancient_debris",
+    "displayNameEn": "Ancient Debris",
+    "displayNameRu": "Древние обломки",
+    "states": 0
+  },
+  {
+    "id": 842,
+    "name": "crying_obsidian",
+    "displayNameEn": "Crying Obsidian",
+    "displayNameRu": "Плачущий обсидиан",
+    "states": 0
+  },
+  {
+    "id": 843,
+    "name": "respawn_anchor",
+    "displayNameEn": "Respawn Anchor",
+    "displayNameRu": "Якорь возрождения",
+    "states": 1
+  },
+  {
+    "id": 844,
+    "name": "potted_crimson_fungus",
+    "displayNameEn": "Potted Crimson Fungus",
+    "displayNameRu": "Багровый гриб в горшке",
+    "states": 0
+  },
+  {
+    "id": 845,
+    "name": "potted_warped_fungus",
+    "displayNameEn": "Potted Warped Fungus",
+    "displayNameRu": "Искажённый гриб в горшке",
+    "states": 0
+  },
+  {
+    "id": 846,
+    "name": "potted_crimson_roots",
+    "displayNameEn": "Potted Crimson Roots",
+    "displayNameRu": "Багровые корни в горшке",
+    "states": 0
+  },
+  {
+    "id": 847,
+    "name": "potted_warped_roots",
+    "displayNameEn": "Potted Warped Roots",
+    "displayNameRu": "Искажённые корни в горшке",
+    "states": 0
+  },
+  {
+    "id": 848,
+    "name": "lodestone",
+    "displayNameEn": "Lodestone",
+    "displayNameRu": "Магнетит",
+    "states": 0
+  },
+  {
+    "id": 849,
+    "name": "blackstone",
+    "displayNameEn": "Blackstone",
+    "displayNameRu": "Чернит",
+    "states": 0
+  },
+  {
+    "id": 850,
+    "name": "blackstone_stairs",
+    "displayNameEn": "Blackstone Stairs",
+    "displayNameRu": "Чернитные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 851,
+    "name": "blackstone_wall",
+    "displayNameEn": "Blackstone Wall",
+    "displayNameRu": "Чернитная ограда",
+    "states": 6
+  },
+  {
+    "id": 852,
+    "name": "blackstone_slab",
+    "displayNameEn": "Blackstone Slab",
+    "displayNameRu": "Чернитная плита",
+    "states": 2
+  },
+  {
+    "id": 853,
+    "name": "polished_blackstone",
+    "displayNameEn": "Polished Blackstone",
+    "displayNameRu": "Полированный чернит",
+    "states": 0
+  },
+  {
+    "id": 854,
+    "name": "polished_blackstone_bricks",
+    "displayNameEn": "Polished Blackstone Bricks",
+    "displayNameRu": "Полированно-чернитные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 855,
+    "name": "cracked_polished_blackstone_bricks",
+    "displayNameEn": "Cracked Polished Blackstone Bricks",
+    "displayNameRu": "Потрескавшиеся полированно-чернитные кирпичи",
+    "states": 0
+  },
+  {
+    "id": 856,
+    "name": "chiseled_polished_blackstone",
+    "displayNameEn": "Chiseled Polished Blackstone",
+    "displayNameRu": "Резной полированный чернит",
+    "states": 0
+  },
+  {
+    "id": 857,
+    "name": "polished_blackstone_brick_slab",
+    "displayNameEn": "Polished Blackstone Brick Slab",
+    "displayNameRu": "Плита из полированно-чернитного кирпича",
+    "states": 2
+  },
+  {
+    "id": 858,
+    "name": "polished_blackstone_brick_stairs",
+    "displayNameEn": "Polished Blackstone Brick Stairs",
+    "displayNameRu": "Ступеньки из полированно-чернитного кирпича",
+    "states": 4
+  },
+  {
+    "id": 859,
+    "name": "polished_blackstone_brick_wall",
+    "displayNameEn": "Polished Blackstone Brick Wall",
+    "displayNameRu": "Ограда из полированно-чернитного кирпича",
+    "states": 6
+  },
+  {
+    "id": 860,
+    "name": "gilded_blackstone",
+    "displayNameEn": "Gilded Blackstone",
+    "displayNameRu": "Золочёный чернит",
+    "states": 0
+  },
+  {
+    "id": 861,
+    "name": "polished_blackstone_stairs",
+    "displayNameEn": "Polished Blackstone Stairs",
+    "displayNameRu": "Ступеньки из полированного чернита",
+    "states": 4
+  },
+  {
+    "id": 862,
+    "name": "polished_blackstone_slab",
+    "displayNameEn": "Polished Blackstone Slab",
+    "displayNameRu": "Плита из полированного чернита",
+    "states": 2
+  },
+  {
+    "id": 863,
+    "name": "polished_blackstone_pressure_plate",
+    "displayNameEn": "Polished Blackstone Pressure Plate",
+    "displayNameRu": "Нажимная плита из полированного чернита",
+    "states": 1
+  },
+  {
+    "id": 864,
+    "name": "polished_blackstone_button",
+    "displayNameEn": "Polished Blackstone Button",
+    "displayNameRu": "Кнопка из полированного чернита",
+    "states": 3
+  },
+  {
+    "id": 865,
+    "name": "polished_blackstone_wall",
+    "displayNameEn": "Polished Blackstone Wall",
+    "displayNameRu": "Ограда из полированного чернита",
+    "states": 6
+  },
+  {
+    "id": 866,
+    "name": "chiseled_nether_bricks",
+    "displayNameEn": "Chiseled Nether Bricks",
+    "displayNameRu": "Резные незерские кирпичи",
+    "states": 0
+  },
+  {
+    "id": 867,
+    "name": "cracked_nether_bricks",
+    "displayNameEn": "Cracked Nether Bricks",
+    "displayNameRu": "Потрескавшиеся незерские кирпичи",
+    "states": 0
+  },
+  {
+    "id": 868,
+    "name": "quartz_bricks",
+    "displayNameEn": "Quartz Bricks",
+    "displayNameRu": "Кварцевые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 869,
+    "name": "candle",
+    "displayNameEn": "Candle",
+    "displayNameRu": "Свеча",
+    "states": 3
+  },
+  {
+    "id": 870,
+    "name": "white_candle",
+    "displayNameEn": "White Candle",
+    "displayNameRu": "Белая свеча",
+    "states": 3
+  },
+  {
+    "id": 871,
+    "name": "orange_candle",
+    "displayNameEn": "Orange Candle",
+    "displayNameRu": "Оранжевая свеча",
+    "states": 3
+  },
+  {
+    "id": 872,
+    "name": "magenta_candle",
+    "displayNameEn": "Magenta Candle",
+    "displayNameRu": "Пурпурная свеча",
+    "states": 3
+  },
+  {
+    "id": 873,
+    "name": "light_blue_candle",
+    "displayNameEn": "Light Blue Candle",
+    "displayNameRu": "Голубая свеча",
+    "states": 3
+  },
+  {
+    "id": 874,
+    "name": "yellow_candle",
+    "displayNameEn": "Yellow Candle",
+    "displayNameRu": "Жёлтая свеча",
+    "states": 3
+  },
+  {
+    "id": 875,
+    "name": "lime_candle",
+    "displayNameEn": "Lime Candle",
+    "displayNameRu": "Лаймовая свеча",
+    "states": 3
+  },
+  {
+    "id": 876,
+    "name": "pink_candle",
+    "displayNameEn": "Pink Candle",
+    "displayNameRu": "Розовая свеча",
+    "states": 3
+  },
+  {
+    "id": 877,
+    "name": "gray_candle",
+    "displayNameEn": "Gray Candle",
+    "displayNameRu": "Серая свеча",
+    "states": 3
+  },
+  {
+    "id": 878,
+    "name": "light_gray_candle",
+    "displayNameEn": "Light Gray Candle",
+    "displayNameRu": "Светло-серая свеча",
+    "states": 3
+  },
+  {
+    "id": 879,
+    "name": "cyan_candle",
+    "displayNameEn": "Cyan Candle",
+    "displayNameRu": "Бирюзовая свеча",
+    "states": 3
+  },
+  {
+    "id": 880,
+    "name": "purple_candle",
+    "displayNameEn": "Purple Candle",
+    "displayNameRu": "Фиолетовая свеча",
+    "states": 3
+  },
+  {
+    "id": 881,
+    "name": "blue_candle",
+    "displayNameEn": "Blue Candle",
+    "displayNameRu": "Синяя свеча",
+    "states": 3
+  },
+  {
+    "id": 882,
+    "name": "brown_candle",
+    "displayNameEn": "Brown Candle",
+    "displayNameRu": "Коричневая свеча",
+    "states": 3
+  },
+  {
+    "id": 883,
+    "name": "green_candle",
+    "displayNameEn": "Green Candle",
+    "displayNameRu": "Зелёная свеча",
+    "states": 3
+  },
+  {
+    "id": 884,
+    "name": "red_candle",
+    "displayNameEn": "Red Candle",
+    "displayNameRu": "Красная свеча",
+    "states": 3
+  },
+  {
+    "id": 885,
+    "name": "black_candle",
+    "displayNameEn": "Black Candle",
+    "displayNameRu": "Чёрная свеча",
+    "states": 3
+  },
+  {
+    "id": 886,
+    "name": "candle_cake",
+    "displayNameEn": "Cake with Candle",
+    "displayNameRu": "Торт со свечой",
+    "states": 1
+  },
+  {
+    "id": 887,
+    "name": "white_candle_cake",
+    "displayNameEn": "Cake with White Candle",
+    "displayNameRu": "Торт с белой свечой",
+    "states": 1
+  },
+  {
+    "id": 888,
+    "name": "orange_candle_cake",
+    "displayNameEn": "Cake with Orange Candle",
+    "displayNameRu": "Торт с оранжевой свечой",
+    "states": 1
+  },
+  {
+    "id": 889,
+    "name": "magenta_candle_cake",
+    "displayNameEn": "Cake with Magenta Candle",
+    "displayNameRu": "Торт с пурпурной свечой",
+    "states": 1
+  },
+  {
+    "id": 890,
+    "name": "light_blue_candle_cake",
+    "displayNameEn": "Cake with Light Blue Candle",
+    "displayNameRu": "Торт с голубой свечой",
+    "states": 1
+  },
+  {
+    "id": 891,
+    "name": "yellow_candle_cake",
+    "displayNameEn": "Cake with Yellow Candle",
+    "displayNameRu": "Торт с жёлтой свечой",
+    "states": 1
+  },
+  {
+    "id": 892,
+    "name": "lime_candle_cake",
+    "displayNameEn": "Cake with Lime Candle",
+    "displayNameRu": "Торт с лаймовой свечой",
+    "states": 1
+  },
+  {
+    "id": 893,
+    "name": "pink_candle_cake",
+    "displayNameEn": "Cake with Pink Candle",
+    "displayNameRu": "Торт с розовой свечой",
+    "states": 1
+  },
+  {
+    "id": 894,
+    "name": "gray_candle_cake",
+    "displayNameEn": "Cake with Gray Candle",
+    "displayNameRu": "Торт с серой свечой",
+    "states": 1
+  },
+  {
+    "id": 895,
+    "name": "light_gray_candle_cake",
+    "displayNameEn": "Cake with Light Gray Candle",
+    "displayNameRu": "Торт со светло-серой свечой",
+    "states": 1
+  },
+  {
+    "id": 896,
+    "name": "cyan_candle_cake",
+    "displayNameEn": "Cake with Cyan Candle",
+    "displayNameRu": "Торт с бирюзовой свечой",
+    "states": 1
+  },
+  {
+    "id": 897,
+    "name": "purple_candle_cake",
+    "displayNameEn": "Cake with Purple Candle",
+    "displayNameRu": "Торт с фиолетовой свечой",
+    "states": 1
+  },
+  {
+    "id": 898,
+    "name": "blue_candle_cake",
+    "displayNameEn": "Cake with Blue Candle",
+    "displayNameRu": "Торт с синей свечой",
+    "states": 1
+  },
+  {
+    "id": 899,
+    "name": "brown_candle_cake",
+    "displayNameEn": "Cake with Brown Candle",
+    "displayNameRu": "Торт с коричневой свечой",
+    "states": 1
+  },
+  {
+    "id": 900,
+    "name": "green_candle_cake",
+    "displayNameEn": "Cake with Green Candle",
+    "displayNameRu": "Торт с зелёной свечой",
+    "states": 1
+  },
+  {
+    "id": 901,
+    "name": "red_candle_cake",
+    "displayNameEn": "Cake with Red Candle",
+    "displayNameRu": "Торт с красной свечой",
+    "states": 1
+  },
+  {
+    "id": 902,
+    "name": "black_candle_cake",
+    "displayNameEn": "Cake with Black Candle",
+    "displayNameRu": "Торт с чёрной свечой",
+    "states": 1
+  },
+  {
+    "id": 903,
+    "name": "amethyst_block",
+    "displayNameEn": "Block of Amethyst",
+    "displayNameRu": "Аметистовый блок",
+    "states": 0
+  },
+  {
+    "id": 904,
+    "name": "budding_amethyst",
+    "displayNameEn": "Budding Amethyst",
+    "displayNameRu": "Цветущий аметист",
+    "states": 0
+  },
+  {
+    "id": 905,
+    "name": "amethyst_cluster",
+    "displayNameEn": "Amethyst Cluster",
+    "displayNameRu": "Аметистовая друза",
+    "states": 2
+  },
+  {
+    "id": 906,
+    "name": "large_amethyst_bud",
+    "displayNameEn": "Large Amethyst Bud",
+    "displayNameRu": "Большой аметистовый бутон",
+    "states": 2
+  },
+  {
+    "id": 907,
+    "name": "medium_amethyst_bud",
+    "displayNameEn": "Medium Amethyst Bud",
+    "displayNameRu": "Средний аметистовый бутон",
+    "states": 2
+  },
+  {
+    "id": 908,
+    "name": "small_amethyst_bud",
+    "displayNameEn": "Small Amethyst Bud",
+    "displayNameRu": "Малый аметистовый бутон",
+    "states": 2
+  },
+  {
+    "id": 909,
+    "name": "tuff",
+    "displayNameEn": "Tuff",
+    "displayNameRu": "Туф",
+    "states": 0
+  },
+  {
+    "id": 910,
+    "name": "tuff_slab",
+    "displayNameEn": "Tuff Slab",
+    "displayNameRu": "Туфовая плита",
+    "states": 2
+  },
+  {
+    "id": 911,
+    "name": "tuff_stairs",
+    "displayNameEn": "Tuff Stairs",
+    "displayNameRu": "Туфовые ступеньки",
+    "states": 4
+  },
+  {
+    "id": 912,
+    "name": "tuff_wall",
+    "displayNameEn": "Tuff Wall",
+    "displayNameRu": "Туфовая ограда",
+    "states": 6
+  },
+  {
+    "id": 913,
+    "name": "polished_tuff",
+    "displayNameEn": "Polished Tuff",
+    "displayNameRu": "Полированный туф",
+    "states": 0
+  },
+  {
+    "id": 914,
+    "name": "polished_tuff_slab",
+    "displayNameEn": "Polished Tuff Slab",
+    "displayNameRu": "Плита из полированного туфа",
+    "states": 2
+  },
+  {
+    "id": 915,
+    "name": "polished_tuff_stairs",
+    "displayNameEn": "Polished Tuff Stairs",
+    "displayNameRu": "Ступеньки из полированного туфа",
+    "states": 4
+  },
+  {
+    "id": 916,
+    "name": "polished_tuff_wall",
+    "displayNameEn": "Polished Tuff Wall",
+    "displayNameRu": "Ограда из полированного туфа",
+    "states": 6
+  },
+  {
+    "id": 917,
+    "name": "chiseled_tuff",
+    "displayNameEn": "Chiseled Tuff",
+    "displayNameRu": "Резной туф",
+    "states": 0
+  },
+  {
+    "id": 918,
+    "name": "tuff_bricks",
+    "displayNameEn": "Tuff Bricks",
+    "displayNameRu": "Туфовые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 919,
+    "name": "tuff_brick_slab",
+    "displayNameEn": "Tuff Brick Slab",
+    "displayNameRu": "Плита из туфового кирпича",
+    "states": 2
+  },
+  {
+    "id": 920,
+    "name": "tuff_brick_stairs",
+    "displayNameEn": "Tuff Brick Stairs",
+    "displayNameRu": "Ступеньки из туфового кирпича",
+    "states": 4
+  },
+  {
+    "id": 921,
+    "name": "tuff_brick_wall",
+    "displayNameEn": "Tuff Brick Wall",
+    "displayNameRu": "Ограда из туфового кирпича",
+    "states": 6
+  },
+  {
+    "id": 922,
+    "name": "chiseled_tuff_bricks",
+    "displayNameEn": "Chiseled Tuff Bricks",
+    "displayNameRu": "Резные туфовые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 923,
+    "name": "calcite",
+    "displayNameEn": "Calcite",
+    "displayNameRu": "Кальцит",
+    "states": 0
+  },
+  {
+    "id": 924,
+    "name": "tinted_glass",
+    "displayNameEn": "Tinted Glass",
+    "displayNameRu": "Тонированное стекло",
+    "states": 0
+  },
+  {
+    "id": 925,
+    "name": "powder_snow",
+    "displayNameEn": "Powder Snow",
+    "displayNameRu": "Рыхлый снег",
+    "states": 0
+  },
+  {
+    "id": 926,
+    "name": "sculk_sensor",
+    "displayNameEn": "Sculk Sensor",
+    "displayNameRu": "Скалк-сенсор",
+    "states": 3
+  },
+  {
+    "id": 927,
+    "name": "calibrated_sculk_sensor",
+    "displayNameEn": "Calibrated Sculk Sensor",
+    "displayNameRu": "Откалиброванный скалк-сенсор",
+    "states": 4
+  },
+  {
+    "id": 928,
+    "name": "sculk",
+    "displayNameEn": "Sculk",
+    "displayNameRu": "Скалк",
+    "states": 0
+  },
+  {
+    "id": 929,
+    "name": "sculk_vein",
+    "displayNameEn": "Sculk Vein",
+    "displayNameRu": "Скалковая жила",
+    "states": 7
+  },
+  {
+    "id": 930,
+    "name": "sculk_catalyst",
+    "displayNameEn": "Sculk Catalyst",
+    "displayNameRu": "Скалковый катализатор",
+    "states": 1
+  },
+  {
+    "id": 931,
+    "name": "sculk_shrieker",
+    "displayNameEn": "Sculk Shrieker",
+    "displayNameRu": "Скалковый крикун",
+    "states": 3
+  },
+  {
+    "id": 932,
+    "name": "copper_block",
+    "displayNameEn": "Block of Copper",
+    "displayNameRu": "Медный блок",
+    "states": 0
+  },
+  {
+    "id": 933,
+    "name": "exposed_copper",
+    "displayNameEn": "Exposed Copper",
+    "displayNameRu": "Потемневший медный блок",
+    "states": 0
+  },
+  {
+    "id": 934,
+    "name": "weathered_copper",
+    "displayNameEn": "Weathered Copper",
+    "displayNameRu": "Состаренный медный блок",
+    "states": 0
+  },
+  {
+    "id": 935,
+    "name": "oxidized_copper",
+    "displayNameEn": "Oxidized Copper",
+    "displayNameRu": "Окисленный медный блок",
+    "states": 0
+  },
+  {
+    "id": 936,
+    "name": "copper_ore",
+    "displayNameEn": "Copper Ore",
+    "displayNameRu": "Медная руда",
+    "states": 0
+  },
+  {
+    "id": 937,
+    "name": "deepslate_copper_ore",
+    "displayNameEn": "Deepslate Copper Ore",
+    "displayNameRu": "Меденосный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 938,
+    "name": "oxidized_cut_copper",
+    "displayNameEn": "Oxidized Cut Copper",
+    "displayNameRu": "Окисленный резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 939,
+    "name": "weathered_cut_copper",
+    "displayNameEn": "Weathered Cut Copper",
+    "displayNameRu": "Состаренный резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 940,
+    "name": "exposed_cut_copper",
+    "displayNameEn": "Exposed Cut Copper",
+    "displayNameRu": "Потемневший резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 941,
+    "name": "cut_copper",
+    "displayNameEn": "Cut Copper",
+    "displayNameRu": "Резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 942,
+    "name": "oxidized_chiseled_copper",
+    "displayNameEn": "Oxidized Chiseled Copper",
+    "displayNameRu": "Окисленный точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 943,
+    "name": "weathered_chiseled_copper",
+    "displayNameEn": "Weathered Chiseled Copper",
+    "displayNameRu": "Состаренный точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 944,
+    "name": "exposed_chiseled_copper",
+    "displayNameEn": "Exposed Chiseled Copper",
+    "displayNameRu": "Потемневший точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 945,
+    "name": "chiseled_copper",
+    "displayNameEn": "Chiseled Copper",
+    "displayNameRu": "Точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 946,
+    "name": "waxed_oxidized_chiseled_copper",
+    "displayNameEn": "Waxed Oxidized Chiseled Copper",
+    "displayNameRu": "Вощёный окисленный точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 947,
+    "name": "waxed_weathered_chiseled_copper",
+    "displayNameEn": "Waxed Weathered Chiseled Copper",
+    "displayNameRu": "Вощёный состаренный точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 948,
+    "name": "waxed_exposed_chiseled_copper",
+    "displayNameEn": "Waxed Exposed Chiseled Copper",
+    "displayNameRu": "Вощёный потемневший точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 949,
+    "name": "waxed_chiseled_copper",
+    "displayNameEn": "Waxed Chiseled Copper",
+    "displayNameRu": "Вощёный точёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 950,
+    "name": "oxidized_cut_copper_stairs",
+    "displayNameEn": "Oxidized Cut Copper Stairs",
+    "displayNameRu": "Окисленные резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 951,
+    "name": "weathered_cut_copper_stairs",
+    "displayNameEn": "Weathered Cut Copper Stairs",
+    "displayNameRu": "Состаренные резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 952,
+    "name": "exposed_cut_copper_stairs",
+    "displayNameEn": "Exposed Cut Copper Stairs",
+    "displayNameRu": "Потемневшие резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 953,
+    "name": "cut_copper_stairs",
+    "displayNameEn": "Cut Copper Stairs",
+    "displayNameRu": "Резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 954,
+    "name": "oxidized_cut_copper_slab",
+    "displayNameEn": "Oxidized Cut Copper Slab",
+    "displayNameRu": "Окисленная резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 955,
+    "name": "weathered_cut_copper_slab",
+    "displayNameEn": "Weathered Cut Copper Slab",
+    "displayNameRu": "Состаренная резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 956,
+    "name": "exposed_cut_copper_slab",
+    "displayNameEn": "Exposed Cut Copper Slab",
+    "displayNameRu": "Потемневшая резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 957,
+    "name": "cut_copper_slab",
+    "displayNameEn": "Cut Copper Slab",
+    "displayNameRu": "Резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 958,
+    "name": "waxed_copper_block",
+    "displayNameEn": "Waxed Block of Copper",
+    "displayNameRu": "Вощёный медный блок",
+    "states": 0
+  },
+  {
+    "id": 959,
+    "name": "waxed_weathered_copper",
+    "displayNameEn": "Waxed Weathered Copper",
+    "displayNameRu": "Вощёный состаренный медный блок",
+    "states": 0
+  },
+  {
+    "id": 960,
+    "name": "waxed_exposed_copper",
+    "displayNameEn": "Waxed Exposed Copper",
+    "displayNameRu": "Вощёный потемневший медный блок",
+    "states": 0
+  },
+  {
+    "id": 961,
+    "name": "waxed_oxidized_copper",
+    "displayNameEn": "Waxed Oxidized Copper",
+    "displayNameRu": "Вощёный окисленный медный блок",
+    "states": 0
+  },
+  {
+    "id": 962,
+    "name": "waxed_oxidized_cut_copper",
+    "displayNameEn": "Waxed Oxidized Cut Copper",
+    "displayNameRu": "Вощёный окисленный резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 963,
+    "name": "waxed_weathered_cut_copper",
+    "displayNameEn": "Waxed Weathered Cut Copper",
+    "displayNameRu": "Вощёный состаренный резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 964,
+    "name": "waxed_exposed_cut_copper",
+    "displayNameEn": "Waxed Exposed Cut Copper",
+    "displayNameRu": "Вощёный потемневший резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 965,
+    "name": "waxed_cut_copper",
+    "displayNameEn": "Waxed Cut Copper",
+    "displayNameRu": "Вощёный резной медный блок",
+    "states": 0
+  },
+  {
+    "id": 966,
+    "name": "waxed_oxidized_cut_copper_stairs",
+    "displayNameEn": "Waxed Oxidized Cut Copper Stairs",
+    "displayNameRu": "Вощёные окисленные резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 967,
+    "name": "waxed_weathered_cut_copper_stairs",
+    "displayNameEn": "Waxed Weathered Cut Copper Stairs",
+    "displayNameRu": "Вощёные состаренные резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 968,
+    "name": "waxed_exposed_cut_copper_stairs",
+    "displayNameEn": "Waxed Exposed Cut Copper Stairs",
+    "displayNameRu": "Вощёные потемневшие резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 969,
+    "name": "waxed_cut_copper_stairs",
+    "displayNameEn": "Waxed Cut Copper Stairs",
+    "displayNameRu": "Вощёные резные медные ступеньки",
+    "states": 4
+  },
+  {
+    "id": 970,
+    "name": "waxed_oxidized_cut_copper_slab",
+    "displayNameEn": "Waxed Oxidized Cut Copper Slab",
+    "displayNameRu": "Вощёная окисленная резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 971,
+    "name": "waxed_weathered_cut_copper_slab",
+    "displayNameEn": "Waxed Weathered Cut Copper Slab",
+    "displayNameRu": "Вощёная состаренная резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 972,
+    "name": "waxed_exposed_cut_copper_slab",
+    "displayNameEn": "Waxed Exposed Cut Copper Slab",
+    "displayNameRu": "Вощёная потемневшая резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 973,
+    "name": "waxed_cut_copper_slab",
+    "displayNameEn": "Waxed Cut Copper Slab",
+    "displayNameRu": "Вощёная резная медная плита",
+    "states": 2
+  },
+  {
+    "id": 974,
+    "name": "copper_door",
+    "displayNameEn": "Copper Door",
+    "displayNameRu": "Медная дверь",
+    "states": 5
+  },
+  {
+    "id": 975,
+    "name": "exposed_copper_door",
+    "displayNameEn": "Exposed Copper Door",
+    "displayNameRu": "Потемневшая медная дверь",
+    "states": 5
+  },
+  {
+    "id": 976,
+    "name": "oxidized_copper_door",
+    "displayNameEn": "Oxidized Copper Door",
+    "displayNameRu": "Окисленная медная дверь",
+    "states": 5
+  },
+  {
+    "id": 977,
+    "name": "weathered_copper_door",
+    "displayNameEn": "Weathered Copper Door",
+    "displayNameRu": "Состаренная медная дверь",
+    "states": 5
+  },
+  {
+    "id": 978,
+    "name": "waxed_copper_door",
+    "displayNameEn": "Waxed Copper Door",
+    "displayNameRu": "Вощёная медная дверь",
+    "states": 5
+  },
+  {
+    "id": 979,
+    "name": "waxed_exposed_copper_door",
+    "displayNameEn": "Waxed Exposed Copper Door",
+    "displayNameRu": "Вощёная потемневшая медная дверь",
+    "states": 5
+  },
+  {
+    "id": 980,
+    "name": "waxed_oxidized_copper_door",
+    "displayNameEn": "Waxed Oxidized Copper Door",
+    "displayNameRu": "Вощёная окисленная медная дверь",
+    "states": 5
+  },
+  {
+    "id": 981,
+    "name": "waxed_weathered_copper_door",
+    "displayNameEn": "Waxed Weathered Copper Door",
+    "displayNameRu": "Вощёная состаренная медная дверь",
+    "states": 5
+  },
+  {
+    "id": 982,
+    "name": "copper_trapdoor",
+    "displayNameEn": "Copper Trapdoor",
+    "displayNameRu": "Медный люк",
+    "states": 5
+  },
+  {
+    "id": 983,
+    "name": "exposed_copper_trapdoor",
+    "displayNameEn": "Exposed Copper Trapdoor",
+    "displayNameRu": "Потемневший медный люк",
+    "states": 5
+  },
+  {
+    "id": 984,
+    "name": "oxidized_copper_trapdoor",
+    "displayNameEn": "Oxidized Copper Trapdoor",
+    "displayNameRu": "Окисленный медный люк",
+    "states": 5
+  },
+  {
+    "id": 985,
+    "name": "weathered_copper_trapdoor",
+    "displayNameEn": "Weathered Copper Trapdoor",
+    "displayNameRu": "Состаренный медный люк",
+    "states": 5
+  },
+  {
+    "id": 986,
+    "name": "waxed_copper_trapdoor",
+    "displayNameEn": "Waxed Copper Trapdoor",
+    "displayNameRu": "Вощёный медный люк",
+    "states": 5
+  },
+  {
+    "id": 987,
+    "name": "waxed_exposed_copper_trapdoor",
+    "displayNameEn": "Waxed Exposed Copper Trapdoor",
+    "displayNameRu": "Вощёный потемневший медный люк",
+    "states": 5
+  },
+  {
+    "id": 988,
+    "name": "waxed_oxidized_copper_trapdoor",
+    "displayNameEn": "Waxed Oxidized Copper Trapdoor",
+    "displayNameRu": "Вощёный окисленный медный люк",
+    "states": 5
+  },
+  {
+    "id": 989,
+    "name": "waxed_weathered_copper_trapdoor",
+    "displayNameEn": "Waxed Weathered Copper Trapdoor",
+    "displayNameRu": "Вощёный состаренный медный люк",
+    "states": 5
+  },
+  {
+    "id": 990,
+    "name": "copper_grate",
+    "displayNameEn": "Copper Grate",
+    "displayNameRu": "Медная решётка",
+    "states": 1
+  },
+  {
+    "id": 991,
+    "name": "exposed_copper_grate",
+    "displayNameEn": "Exposed Copper Grate",
+    "displayNameRu": "Потемневшая медная решётка",
+    "states": 1
+  },
+  {
+    "id": 992,
+    "name": "weathered_copper_grate",
+    "displayNameEn": "Weathered Copper Grate",
+    "displayNameRu": "Состаренная медная решётка",
+    "states": 1
+  },
+  {
+    "id": 993,
+    "name": "oxidized_copper_grate",
+    "displayNameEn": "Oxidized Copper Grate",
+    "displayNameRu": "Окисленная медная решётка",
+    "states": 1
+  },
+  {
+    "id": 994,
+    "name": "waxed_copper_grate",
+    "displayNameEn": "Waxed Copper Grate",
+    "displayNameRu": "Вощёная медная решётка",
+    "states": 1
+  },
+  {
+    "id": 995,
+    "name": "waxed_exposed_copper_grate",
+    "displayNameEn": "Waxed Exposed Copper Grate",
+    "displayNameRu": "Вощёная потемневшая медная решётка",
+    "states": 1
+  },
+  {
+    "id": 996,
+    "name": "waxed_weathered_copper_grate",
+    "displayNameEn": "Waxed Weathered Copper Grate",
+    "displayNameRu": "Вощёная состаренная медная решётка",
+    "states": 1
+  },
+  {
+    "id": 997,
+    "name": "waxed_oxidized_copper_grate",
+    "displayNameEn": "Waxed Oxidized Copper Grate",
+    "displayNameRu": "Вощёная окисленная медная решётка",
+    "states": 1
+  },
+  {
+    "id": 998,
+    "name": "copper_bulb",
+    "displayNameEn": "Copper Bulb",
+    "displayNameRu": "Медная лампа",
+    "states": 2
+  },
+  {
+    "id": 999,
+    "name": "exposed_copper_bulb",
+    "displayNameEn": "Exposed Copper Bulb",
+    "displayNameRu": "Потемневшая медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1000,
+    "name": "weathered_copper_bulb",
+    "displayNameEn": "Weathered Copper Bulb",
+    "displayNameRu": "Состаренная медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1001,
+    "name": "oxidized_copper_bulb",
+    "displayNameEn": "Oxidized Copper Bulb",
+    "displayNameRu": "Окисленная медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1002,
+    "name": "waxed_copper_bulb",
+    "displayNameEn": "Waxed Copper Bulb",
+    "displayNameRu": "Вощёная медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1003,
+    "name": "waxed_exposed_copper_bulb",
+    "displayNameEn": "Waxed Exposed Copper Bulb",
+    "displayNameRu": "Вощёная потемневшая медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1004,
+    "name": "waxed_weathered_copper_bulb",
+    "displayNameEn": "Waxed Weathered Copper Bulb",
+    "displayNameRu": "Вощёная состаренная медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1005,
+    "name": "waxed_oxidized_copper_bulb",
+    "displayNameEn": "Waxed Oxidized Copper Bulb",
+    "displayNameRu": "Вощёная окисленная медная лампа",
+    "states": 2
+  },
+  {
+    "id": 1006,
+    "name": "lightning_rod",
+    "displayNameEn": "Lightning Rod",
+    "displayNameRu": "Громоотвод",
+    "states": 3
+  },
+  {
+    "id": 1007,
+    "name": "pointed_dripstone",
+    "displayNameEn": "Pointed Dripstone",
+    "displayNameRu": "Капельник",
+    "states": 3
+  },
+  {
+    "id": 1008,
+    "name": "dripstone_block",
+    "displayNameEn": "Dripstone Block",
+    "displayNameRu": "Натёчный камень",
+    "states": 0
+  },
+  {
+    "id": 1009,
+    "name": "cave_vines",
+    "displayNameEn": "Cave Vines",
+    "displayNameRu": "Пещерная лоза",
+    "states": 2
+  },
+  {
+    "id": 1010,
+    "name": "cave_vines_plant",
+    "displayNameEn": "Cave Vines Plant",
+    "displayNameRu": "Стебель пещерной лозы",
+    "states": 1
+  },
+  {
+    "id": 1011,
+    "name": "spore_blossom",
+    "displayNameEn": "Spore Blossom",
+    "displayNameRu": "Спороцвет",
+    "states": 0
+  },
+  {
+    "id": 1012,
+    "name": "azalea",
+    "displayNameEn": "Azalea",
+    "displayNameRu": "Азалия",
+    "states": 0
+  },
+  {
+    "id": 1013,
+    "name": "flowering_azalea",
+    "displayNameEn": "Flowering Azalea",
+    "displayNameRu": "Цветущая азалия",
+    "states": 0
+  },
+  {
+    "id": 1014,
+    "name": "moss_carpet",
+    "displayNameEn": "Moss Carpet",
+    "displayNameRu": "Моховой ковёр",
+    "states": 0
+  },
+  {
+    "id": 1015,
+    "name": "pink_petals",
+    "displayNameEn": "Pink Petals",
+    "displayNameRu": "Розовые лепестки",
+    "states": 2
+  },
+  {
+    "id": 1016,
+    "name": "moss_block",
+    "displayNameEn": "Moss Block",
+    "displayNameRu": "Блок мха",
+    "states": 0
+  },
+  {
+    "id": 1017,
+    "name": "big_dripleaf",
+    "displayNameEn": "Big Dripleaf",
+    "displayNameRu": "Большая бросянка",
+    "states": 3
+  },
+  {
+    "id": 1018,
+    "name": "big_dripleaf_stem",
+    "displayNameEn": "Big Dripleaf Stem",
+    "displayNameRu": "Стебель большой бросянки",
+    "states": 2
+  },
+  {
+    "id": 1019,
+    "name": "small_dripleaf",
+    "displayNameEn": "Small Dripleaf",
+    "displayNameRu": "Маленькая бросянка",
+    "states": 3
+  },
+  {
+    "id": 1020,
+    "name": "hanging_roots",
+    "displayNameEn": "Hanging Roots",
+    "displayNameRu": "Свисающие корни",
+    "states": 1
+  },
+  {
+    "id": 1021,
+    "name": "rooted_dirt",
+    "displayNameEn": "Rooted Dirt",
+    "displayNameRu": "Корнистая земля",
+    "states": 0
+  },
+  {
+    "id": 1022,
+    "name": "mud",
+    "displayNameEn": "Mud",
+    "displayNameRu": "Грязь",
+    "states": 0
+  },
+  {
+    "id": 1023,
+    "name": "deepslate",
+    "displayNameEn": "Deepslate",
+    "displayNameRu": "Глубинный сланец",
+    "states": 1
+  },
+  {
+    "id": 1024,
+    "name": "cobbled_deepslate",
+    "displayNameEn": "Cobbled Deepslate",
+    "displayNameRu": "Колотый глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 1025,
+    "name": "cobbled_deepslate_stairs",
+    "displayNameEn": "Cobbled Deepslate Stairs",
+    "displayNameRu": "Ступеньки из колотого глубинного сланца",
+    "states": 4
+  },
+  {
+    "id": 1026,
+    "name": "cobbled_deepslate_slab",
+    "displayNameEn": "Cobbled Deepslate Slab",
+    "displayNameRu": "Плита из колотого глубинного сланца",
+    "states": 2
+  },
+  {
+    "id": 1027,
+    "name": "cobbled_deepslate_wall",
+    "displayNameEn": "Cobbled Deepslate Wall",
+    "displayNameRu": "Ограда из колотого глубинного сланца",
+    "states": 6
+  },
+  {
+    "id": 1028,
+    "name": "polished_deepslate",
+    "displayNameEn": "Polished Deepslate",
+    "displayNameRu": "Полированный глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 1029,
+    "name": "polished_deepslate_stairs",
+    "displayNameEn": "Polished Deepslate Stairs",
+    "displayNameRu": "Ступеньки из полированного глубинного сланца",
+    "states": 4
+  },
+  {
+    "id": 1030,
+    "name": "polished_deepslate_slab",
+    "displayNameEn": "Polished Deepslate Slab",
+    "displayNameRu": "Плита из полированного глубинного сланца",
+    "states": 2
+  },
+  {
+    "id": 1031,
+    "name": "polished_deepslate_wall",
+    "displayNameEn": "Polished Deepslate Wall",
+    "displayNameRu": "Ограда из полированного глубинного сланца",
+    "states": 6
+  },
+  {
+    "id": 1032,
+    "name": "deepslate_tiles",
+    "displayNameEn": "Deepslate Tiles",
+    "displayNameRu": "Глубинносланцевый плитняк",
+    "states": 0
+  },
+  {
+    "id": 1033,
+    "name": "deepslate_tile_stairs",
+    "displayNameEn": "Deepslate Tile Stairs",
+    "displayNameRu": "Ступеньки из глубинносланцевого плитняка",
+    "states": 4
+  },
+  {
+    "id": 1034,
+    "name": "deepslate_tile_slab",
+    "displayNameEn": "Deepslate Tile Slab",
+    "displayNameRu": "Плита из глубинносланцевого плитняка",
+    "states": 2
+  },
+  {
+    "id": 1035,
+    "name": "deepslate_tile_wall",
+    "displayNameEn": "Deepslate Tile Wall",
+    "displayNameRu": "Ограда из глубинносланцевого плитняка",
+    "states": 6
+  },
+  {
+    "id": 1036,
+    "name": "deepslate_bricks",
+    "displayNameEn": "Deepslate Bricks",
+    "displayNameRu": "Глубинносланцевые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 1037,
+    "name": "deepslate_brick_stairs",
+    "displayNameEn": "Deepslate Brick Stairs",
+    "displayNameRu": "Ступеньки из глубинносланцевого кирпича",
+    "states": 4
+  },
+  {
+    "id": 1038,
+    "name": "deepslate_brick_slab",
+    "displayNameEn": "Deepslate Brick Slab",
+    "displayNameRu": "Плита из глубинносланцевого кирпича",
+    "states": 2
+  },
+  {
+    "id": 1039,
+    "name": "deepslate_brick_wall",
+    "displayNameEn": "Deepslate Brick Wall",
+    "displayNameRu": "Ограда из глубинносланцевого кирпича",
+    "states": 6
+  },
+  {
+    "id": 1040,
+    "name": "chiseled_deepslate",
+    "displayNameEn": "Chiseled Deepslate",
+    "displayNameRu": "Резной глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 1041,
+    "name": "cracked_deepslate_bricks",
+    "displayNameEn": "Cracked Deepslate Bricks",
+    "displayNameRu": "Потрескавшиеся глубинносланцевые кирпичи",
+    "states": 0
+  },
+  {
+    "id": 1042,
+    "name": "cracked_deepslate_tiles",
+    "displayNameEn": "Cracked Deepslate Tiles",
+    "displayNameRu": "Потрескавшийся глубинносланцевый плитняк",
+    "states": 0
+  },
+  {
+    "id": 1043,
+    "name": "infested_deepslate",
+    "displayNameEn": "Infested Deepslate",
+    "displayNameRu": "Заражённый глубинный сланец",
+    "states": 1
+  },
+  {
+    "id": 1044,
+    "name": "smooth_basalt",
+    "displayNameEn": "Smooth Basalt",
+    "displayNameRu": "Гладкий базальт",
+    "states": 0
+  },
+  {
+    "id": 1045,
+    "name": "raw_iron_block",
+    "displayNameEn": "Block of Raw Iron",
+    "displayNameRu": "Блок рудного железа",
+    "states": 0
+  },
+  {
+    "id": 1046,
+    "name": "raw_copper_block",
+    "displayNameEn": "Block of Raw Copper",
+    "displayNameRu": "Блок рудной меди",
+    "states": 0
+  },
+  {
+    "id": 1047,
+    "name": "raw_gold_block",
+    "displayNameEn": "Block of Raw Gold",
+    "displayNameRu": "Блок рудного золота",
+    "states": 0
+  },
+  {
+    "id": 1048,
+    "name": "potted_azalea_bush",
+    "displayNameEn": "Potted Azalea",
+    "displayNameRu": "Азалия в горшке",
+    "states": 0
+  },
+  {
+    "id": 1049,
+    "name": "potted_flowering_azalea_bush",
+    "displayNameEn": "Potted Flowering Azalea",
+    "displayNameRu": "Цветущая азалия в горшке",
+    "states": 0
+  },
+  {
+    "id": 1050,
+    "name": "ochre_froglight",
+    "displayNameEn": "Ochre Froglight",
+    "displayNameRu": "Охристая квампа",
+    "states": 1
+  },
+  {
+    "id": 1051,
+    "name": "verdant_froglight",
+    "displayNameEn": "Verdant Froglight",
+    "displayNameRu": "Малахитовая квампа",
+    "states": 1
+  },
+  {
+    "id": 1052,
+    "name": "pearlescent_froglight",
+    "displayNameEn": "Pearlescent Froglight",
+    "displayNameRu": "Перламутровая квампа",
+    "states": 1
+  },
+  {
+    "id": 1053,
+    "name": "frogspawn",
+    "displayNameEn": "Frogspawn",
+    "displayNameRu": "Лягушачья икра",
+    "states": 0
+  },
+  {
+    "id": 1054,
+    "name": "reinforced_deepslate",
+    "displayNameEn": "Reinforced Deepslate",
+    "displayNameRu": "Укреплённый глубинный сланец",
+    "states": 0
+  },
+  {
+    "id": 1055,
+    "name": "decorated_pot",
+    "displayNameEn": "Decorated Pot",
+    "displayNameRu": "Узорчатая ваза",
+    "states": 3
+  },
+  {
+    "id": 1056,
+    "name": "crafter",
+    "displayNameEn": "Crafter",
+    "displayNameRu": "Сборщик",
+    "states": 3
+  },
+  {
+    "id": 1057,
+    "name": "trial_spawner",
+    "displayNameEn": "Trial Spawner",
+    "displayNameRu": "Рассадник испытаний",
+    "states": 2
+  },
+  {
+    "id": 1058,
+    "name": "vault",
+    "displayNameEn": "Vault",
+    "displayNameRu": "Хранилище",
+    "states": 3
+  },
+  {
+    "id": 1059,
+    "name": "heavy_core",
+    "displayNameEn": "Heavy Core",
+    "displayNameRu": "Навершие булавы",
+    "states": 1
+  }
+]
